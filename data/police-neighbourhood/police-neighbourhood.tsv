@@ -1,0 +1,4556 @@
+police-neighbourhood	name	police-force
+AE016	Frome Town	avon-and-somerset
+AE017	Frome Rural North	avon-and-somerset
+AE018	Frome Rural South	avon-and-somerset
+AE019	Shepton Mallet Town	avon-and-somerset
+AE020	Shepton Mallet Rural	avon-and-somerset
+AE021	Wells City	avon-and-somerset
+AE022	Wells Rural	avon-and-somerset
+AE023	Glastonbury Town	avon-and-somerset
+AE024	Street	avon-and-somerset
+AE025	Somerton	avon-and-somerset
+AE026	Martock	avon-and-somerset
+AE027	South Petherton & The Hamdons	avon-and-somerset
+AE028	Wincanton	avon-and-somerset
+AE029	Wincanton Rural North	avon-and-somerset
+AE030	Wincanton Rural South	avon-and-somerset
+AE031	Chard	avon-and-somerset
+AE032	Chard Rural	avon-and-somerset
+AE033	Ilminster	avon-and-somerset
+AE034	Crewkerne	avon-and-somerset
+AE035	Crewkerne Rural	avon-and-somerset
+AE036	Yeovil	avon-and-somerset
+AE037	Yeovil Central	avon-and-somerset
+AN001	Portishead	avon-and-somerset
+AN002	Clevedon & Villages	avon-and-somerset
+AN003	Yatton	avon-and-somerset
+AN004	Nailsea	avon-and-somerset
+AN005	Redwood	avon-and-somerset
+AN006	Backwell & Wrington	avon-and-somerset
+AN007	Yeo Vale	avon-and-somerset
+AN008	Bristol Airport	avon-and-somerset
+AN009	Worle & North Weston	avon-and-somerset
+AN010	Weston Villages	avon-and-somerset
+AN011	Bournville & Oldmixon (One Team)	avon-and-somerset
+AN012	Ashcombe	avon-and-somerset
+AN013	Weston Central	avon-and-somerset
+AN014	Uphill	avon-and-somerset
+AN015	Weston Urban	avon-and-somerset
+AW038	Sedgemoor North West	avon-and-somerset
+AW039	Sedgemoor North East	avon-and-somerset
+AW040	Sedgemoor South	avon-and-somerset
+AW041	Burnham & Highbridge	avon-and-somerset
+AW042	Bridgwater Town Centre	avon-and-somerset
+AW043	Bridgwater Urban	avon-and-somerset
+AW044	East Taunton	avon-and-somerset
+AW045	Holway & Killams	avon-and-somerset
+AW046	North Taunton	avon-and-somerset
+AW047	West Taunton	avon-and-somerset
+AW048	Taunton Central	avon-and-somerset
+AW049	Halcon (One Team)	avon-and-somerset
+AW050	Exmoor	avon-and-somerset
+AW051	Minehead	avon-and-somerset
+AW052	Williton & Watchet	avon-and-somerset
+AW053	Wellington Town	avon-and-somerset
+AW054	Wellington Rural	avon-and-somerset
+BE110	St Pauls	avon-and-somerset
+BE111	Montpelier & St Werburghs	avon-and-somerset
+BE161	Frome Vale	avon-and-somerset
+BE162	Eastville	avon-and-somerset
+BE163	Hillfields	avon-and-somerset
+BE164	St George Central	avon-and-somerset
+BE165	St George Troopers Hill	avon-and-somerset
+BE166	St George West	avon-and-somerset
+BE182	The Dings & St Philips Marsh	avon-and-somerset
+BE183	Barton Hill	avon-and-somerset
+BE185	Easton & Redfield	avon-and-somerset
+BE186	Trinity	avon-and-somerset
+BE190	Stokes Croft & St Michael's	avon-and-somerset
+BE191	Old City Docks	avon-and-somerset
+BE192	Broadmead	avon-and-somerset
+BE193	Redcliffe & Temple	avon-and-somerset
+BE194	Harbourside & Hotwells	avon-and-somerset
+BN120	Avonmouth & Shirehampton	avon-and-somerset
+BN121	Kingsweston	avon-and-somerset
+BN123	Henbury & Brentry	avon-and-somerset
+BN151	Lockleaze & Eastgate	avon-and-somerset
+BN152	Henleaze & Westbury-on-Trym	avon-and-somerset
+BN153	Southmead	avon-and-somerset
+BN154	Horfield	avon-and-somerset
+BN170	Stoke Bishop	avon-and-somerset
+BN173	Cotham	avon-and-somerset
+BN174	Redland	avon-and-somerset
+BN175	Bishopston	avon-and-somerset
+BN195	Clifton	avon-and-somerset
+BN196	Clifton Down	avon-and-somerset
+BS104	Bedminster	avon-and-somerset
+BS107	Bishopsworth	avon-and-somerset
+BS108	Hartcliffe & Withywood	avon-and-somerset
+BS132	Hengrove & Whitchurch	avon-and-somerset
+BS133	Stockwood	avon-and-somerset
+BS134	Brislington West	avon-and-somerset
+BS135	Brislington East	avon-and-somerset
+BS140	Knowle	avon-and-somerset
+BS141	Filwood	avon-and-somerset
+BS142	Southville	avon-and-somerset
+BS143	Windmill	avon-and-somerset
+CN201	Downend & Siston	avon-and-somerset
+CN202	Staple Hill & Rodway	avon-and-somerset
+CN203	Kingswood	avon-and-somerset
+CN204	Hanham & Longwell Green	avon-and-somerset
+CN205	Cadbury Heath / Oldland	avon-and-somerset
+CN206	Boyd Valley & Bitton	avon-and-somerset
+CN207	Yate	avon-and-somerset
+CN208	Chipping Sodbury & Cotswold Edge	avon-and-somerset
+CN209	Frampton Cotterell	avon-and-somerset
+CN210	Charfield & Ladden Brook	avon-and-somerset
+CN211	Thornbury & Alveston	avon-and-somerset
+CN212	Severn	avon-and-somerset
+CN213	Filton	avon-and-somerset
+CN214	Stoke Gifford	avon-and-somerset
+CN215	Patchway	avon-and-somerset
+CN216	Bradley Stoke	avon-and-somerset
+CN217	Winterbourne	avon-and-somerset
+CS218	Bath City Centre	avon-and-somerset
+CS219	Bath City Outer	avon-and-somerset
+CS220	Bath City South	avon-and-somerset
+CS221	Bath City West	avon-and-somerset
+CS222	Keynsham	avon-and-somerset
+CS223	Pensford & Chew Valley	avon-and-somerset
+CS224	Somer Valley	avon-and-somerset
+CS225	Peasedown & Paulton	avon-and-somerset
+CS226	North Mendip	avon-and-somerset
+10	Luton Town Centre	bedfordshire
+11	Bramingham	bedfordshire
+12	Marsh Farm	bedfordshire
+13	Sundon Park	bedfordshire
+14	Runfold	bedfordshire
+15	Limbury	bedfordshire
+16	Leagrave	bedfordshire
+17	Lewsey	bedfordshire
+18	South Lewsey	bedfordshire
+19	North Challney	bedfordshire
+20	Challney	bedfordshire
+21	Farley	bedfordshire
+22	South Town	bedfordshire
+23	South	bedfordshire
+24	North South	bedfordshire
+25	Park Town	bedfordshire
+26	North Barnfield	bedfordshire
+27	South Barnfield	bedfordshire
+28	Saints	bedfordshire
+29	Icknield (Luton)	bedfordshire
+30	South Saints	bedfordshire
+31	Biscot	bedfordshire
+32	Bury Park	bedfordshire
+33	West Dallow	bedfordshire
+34	Dallow	bedfordshire
+35	North High Town	bedfordshire
+36	High Town	bedfordshire
+37	South Stopsley	bedfordshire
+38	Wigmore	bedfordshire
+39	Stopsley	bedfordshire
+40	Luton Airport	bedfordshire
+41	North Crawley	bedfordshire
+42	North Stopsley	bedfordshire
+43	Hart Hill	bedfordshire
+44	Round Green	bedfordshire
+45	Crawley	bedfordshire
+46	Brickhill	bedfordshire
+47	De Parys	bedfordshire
+48	Putnoe	bedfordshire
+49	Newnham	bedfordshire
+50	Goldington	bedfordshire
+51	Harpur	bedfordshire
+52	Queen's Park	bedfordshire
+53	Bromham and Turvey	bedfordshire
+54	Clapham and Oakley	bedfordshire
+55	Carlton to Riseley	bedfordshire
+56	Great Barford & Roxton	bedfordshire
+57	Bedford Town Centre	bedfordshire
+58	Bedford Central West (Midland Road)	bedfordshire
+59	Bedford Central East (Castle Road)	bedfordshire
+60	Kingsbrook and Cauldwell	bedfordshire
+61	Eastcotts and Wilstead	bedfordshire
+62	Kempston	bedfordshire
+63	Wootton	bedfordshire
+64	Cranfield, Marston & Woburn	bedfordshire
+65	Dunstable, Houghton Regis & Rural	bedfordshire
+66	Shefford, Stotfold & Arlesey	bedfordshire
+67	Leighton Buzzard & Linslade 	bedfordshire
+68	Sandy & Biggleswade	bedfordshire
+69	Leighton Rural	bedfordshire
+70	Ampthill & Flitwick Area	bedfordshire
+CamCity_Cambridge_City	Cambridge City Centre policing team	cambridgeshire
+CamCity_North_City	Cambridge - North policing team	cambridgeshire
+CamCity_South_City	Cambridge - South policing team	cambridgeshire
+ECambs_Ely_City	Ely City policing team	cambridgeshire
+ECambs_Littleport_and_West	Ely North policing team	cambridgeshire
+ECambs_Soham_and_South	Ely South policing team	cambridgeshire
+Fenland_March_and_Chatteris	March and Chatteris policing team	cambridgeshire
+Fenland_Whittlesey	Whittlesey policing team	cambridgeshire
+Fenland_Wisbech	Wisbech policing team	cambridgeshire
+Hunts_Huntingdon_and_Yaxley	Huntingdon policing team	cambridgeshire
+Hunts_St_Ives_and_Ramsey	St Ives and Ramsey policing team	cambridgeshire
+Hunts_St_Neots	St Neots policing team	cambridgeshire
+Peterborough	Peterborough	cambridgeshire
+SCambs_Cambourne	Cambourne policing team	cambridgeshire
+SCambs_Histon	Histon policing team	cambridgeshire
+SCambs_Sawston	Sawston policing team	cambridgeshire
+LP0001	Chester City	cheshire
+LP0002	Chester North	cheshire
+LP0003	Chester Rural and Frodsham	cheshire
+LP0004	Chester South	cheshire
+LP0005	Crewe Centre	cheshire
+LP0006	Crewe East	cheshire
+LP0007	Crewe South	cheshire
+LP0008	Nantwich	cheshire
+LP0009	Sandbach	cheshire
+LP0010	Ellesmere Port East	cheshire
+LP0011	Ellesmere Port West and Neston	cheshire
+LP0012	Congleton	cheshire
+LP0013	Knutsford	cheshire
+LP0014	Macclesfield	cheshire
+LP0015	Macclesfield North and Poynton	cheshire
+LP0016	Wilmslow	cheshire
+LP0017	Northwich North	cheshire
+LP0018	Northwich South	cheshire
+LP0019	Winsford	cheshire
+LP0020	Runcorn East	cheshire
+LP0021	Runcorn West	cheshire
+LP0022	Warrington Central	cheshire
+LP0023	Warrington East	cheshire
+LP0024	Warrington North	cheshire
+LP0025	Warrington South	cheshire
+LP0026	Warrington Town Centre	cheshire
+LP0027	Warrington West	cheshire
+LP0028	Widnes Inner	cheshire
+LP0029	Widnes Outer	cheshire
+cp	Community Policing	city-of-london
+Berwick Hills	Berwick Hills	cleveland
+Billingham	Billingham	cleveland
+Central Sector	Central	cleveland
+Coulby Newham Sector	Coulby Newham	cleveland
+Guisborough Sector	Guisborough	cleveland
+Hartlepool	Hartlepool	cleveland
+Redcar Town	Redcar Town	cleveland
+South Bank Sector	South Bank	cleveland
+Stockton Town Centre Sector	Stockton Town Centre	cleveland
+Thornaby	Thornaby	cleveland
+GARN1.BOT	Botcherby and St Aidens	cumbria
+GARN1.CIT	Carlisle City Centre	cumbria
+GARN1.HAR	Harraby and Currock	cumbria
+GARN2.BRA	Brampton	cumbria
+GARN2.LON	Longtown	cumbria
+GARN2.NOR	North City	cumbria
+GARN3.CAR	Carlisle West	cumbria
+GARN3.DAL	Dalston	cumbria
+GARN4.EDE	Kirkby Stephen & Upper Eden	cumbria
+GARN4.FEL	Penrith Rural, Lake & Alston	cumbria
+GARN4.LAK	Appleby Town, Appleby rural and Shap	cumbria
+GARN5.PEN	Penrith Town	cumbria
+GARS1.DAL	Dalton, Askam and Kirkby	cumbria
+GARS1.PAR	Parkside, Hawcoat and Ormsgill	cumbria
+GARS1.SAL	Salthouse, Newbarns and Roose	cumbria
+GARS2.CEN	Central	cumbria
+GARS2.HIN	Hindpool	cumbria
+GARS2.WAL	Walney and Barrow Island	cumbria
+GARS3.ARN	Arnside, Milnthorpe, and Endmoor	cumbria
+GARS3.KEN	Kendal and Burneside	cumbria
+GARS3.SED	Sedbergh, Dent, Kirkby Lonsdale and Burton in Kendal	cumbria
+GARS4.CEN	Central Lakes	cumbria
+GARS4.GRA	Grange and Cartmel	cumbria
+GARS4.LEV	Levens	cumbria
+GARS5.CON	Coniston Area	cumbria
+GARS5.LOW	Low Furness Area	cumbria
+GARS5.ULV	Ulverston Area	cumbria
+GARW1.ASP	Aspatria	cumbria
+GARW1.COC	Cockermouth	cumbria
+GARW1.KES	Keswick	cumbria
+GARW1.SIL	Silloth	cumbria
+GARW1.WIG	Wigton	cumbria
+GARW2.CLE	Cleator Moor	cumbria
+GARW2.EGR	Egremont	cumbria
+GARW2.MIL	Millom	cumbria
+GARW3.MAR	Maryport	cumbria
+GARW4.WHI	Whitehaven	cumbria
+GARW5.WOR	Workington	cumbria
+ND01	Hathersage	derbyshire
+ND02	Tideswell, Litton, Baslow and Beeley	derbyshire
+ND03	Bakewell, Sheldon, Over Haddon and Ashford	derbyshire
+ND04	Stanton, Youlgreave and White Peak Villages	derbyshire
+ND05	Darley Dale, Winster, Wensley and Elton	derbyshire
+ND06	Matlock	derbyshire
+ND07	Matlock Bath, Cromford and Bonsall	derbyshire
+ND08	Wirksworth and Middleton	derbyshire
+ND09	Hulland and Brailsford	derbyshire
+ND10	Tissington and Carsington	derbyshire
+ND11	Ashbourne	derbyshire
+ND12	Marston and Clifton	derbyshire
+NE01	Killamarsh	derbyshire
+NE02	Eckington	derbyshire
+NE03	Dronfield	derbyshire
+NE04	Unstone and Rural	derbyshire
+NE05	Wingerworth and Rural	derbyshire
+NE06	Clay Cross	derbyshire
+NE07	North Wingfield, Pilsley, Stonebroom and Shirland	derbyshire
+NE08	Holmewood, Grassmoor, Calow and Arkwright	derbyshire
+NE09	Barlborough	derbyshire
+NE10	Whitwell	derbyshire
+NE11	Clowne	derbyshire
+NE12	Creswell	derbyshire
+NE13	Bolsover and Shuttlewood	derbyshire
+NE14	Scarcliffe	derbyshire
+NE15	Shirebrook	derbyshire
+NE16	Pleasley	derbyshire
+NE17	Tibshelf	derbyshire
+NH01	Hadfield and Tintwistle	derbyshire
+NH02	Glossop Town Centre	derbyshire
+NH03	Gamesley and St Johns	derbyshire
+NH04	New Mills and Hayfield	derbyshire
+NH05	Hope Valley	derbyshire
+NH06	Chapel and Chinley	derbyshire
+NH07	Whaley Bridge	derbyshire
+NH08	Buxton Rural West	derbyshire
+NH09	Buxton Town	derbyshire
+NH10	Fairfield	derbyshire
+NH11	Buxton Rural East	derbyshire
+NR01	Quarndon and Kirk Langley	derbyshire
+NR02	Duffield, Belper Rural and Holloway	derbyshire
+NR03	Alfreton Rural	derbyshire
+NR04	Alfreton Town	derbyshire
+NR05	South Normanton and Pinxton	derbyshire
+NR06	Somercotes and Riddings	derbyshire
+NR07	Codnor, Waingroves and Langley Mill	derbyshire
+NR08	Ripley Town Centre	derbyshire
+NR09	Heage	derbyshire
+NR10	Belper Town	derbyshire
+NR11	Kilburn	derbyshire
+NR12	Shipley, Smalley and Horsley	derbyshire
+NR13	Heanor and Loscoe	derbyshire
+NT01	Whittington and Barrow Hill	derbyshire
+NT02	Staveley	derbyshire
+NT03	Middlecroft and Poolsbrook	derbyshire
+NT04	Hollingwood, Inkersall and Duckmanton	derbyshire
+NT05	Brimington	derbyshire
+NT06	Dunston, Moor and St Helen's	derbyshire
+NT07	Newbold and Brockwell	derbyshire
+NT08	Walton and West	derbyshire
+NT09	Holmebrook and Rother	derbyshire
+NT10	Hasland and St Leonard's	derbyshire
+NT11	Chesterfield Town Centre	derbyshire
+SE01	Alvaston	derbyshire
+SE02	Sinfin and Osmaston	derbyshire
+SE03	Boulton	derbyshire
+SE04	Chellaston	derbyshire
+SK01	Ilkeston Rural	derbyshire
+SK02	Cotmanhay & Shipley View	derbyshire
+SK03	Ilkeston Town	derbyshire
+SK04	Larklands and Gallows	derbyshire
+SK05	Kirk Hallam & Hallam Fields	derbyshire
+SK06	Borrowash and Ockbrook	derbyshire
+SK07	Long Eaton Rural	derbyshire
+SK08	Sandiacre	derbyshire
+SK09	Long Eaton North	derbyshire
+SK10	Long Eaton South	derbyshire
+SK11	Long Eaton Town	derbyshire
+SN01	Mackworth & Morley	derbyshire
+SN02	Allestree and Darley	derbyshire
+SN03	Derby City	derbyshire
+SN04	Derwent and Oakwood	derbyshire
+SN05	Chaddesden and Spondon	derbyshire
+SS01	Etwall, Hatton and Hilton	derbyshire
+SS02	Mercia	derbyshire
+SS03	Melbourne	derbyshire
+SS04	Gresley, Woodville and Swadlincote	derbyshire
+SS05	Newhall and Midway	derbyshire
+SS06	Linton, Overseal and Lullington	derbyshire
+SW01	Mickleover	derbyshire
+SW02	Littleover and Blagreaves	derbyshire
+SW03	Abbey	derbyshire
+SW04	Rose Hill	derbyshire
+SW05	Normanton	derbyshire
+CIOS.4001	Camborne North	devon-and-cornwall
+CIOS.4002	Camborne South	devon-and-cornwall
+CIOS.4003	Camborne West	devon-and-cornwall
+CIOS.4004	Illogan North	devon-and-cornwall
+CIOS.4005	Illogan South	devon-and-cornwall
+CIOS.4006	Redruth North	devon-and-cornwall
+CIOS.4007	Redruth South, St Day & Lanner	devon-and-cornwall
+CIOS.4008	Helston Town	devon-and-cornwall
+CIOS.4009	Lizard	devon-and-cornwall
+CIOS.4010	Porthleven & Helston North	devon-and-cornwall
+CIOS.4011	Penzance Rural East	devon-and-cornwall
+CIOS.4012	Penzance Rural West	devon-and-cornwall
+CIOS.4013	Penzance Town East	devon-and-cornwall
+CIOS.4014	Penzance Town West	devon-and-cornwall
+CIOS.4015	St Just, Pendeen & Sennen	devon-and-cornwall
+CIOS.4016	Carbis Bay	devon-and-cornwall
+CIOS.4017	Copperhouse & Gwinear	devon-and-cornwall
+CIOS.4018	Hayle Foundry	devon-and-cornwall
+CIOS.4019	Isles of Scilly	devon-and-cornwall
+CIOS.4020	St Ives Town	devon-and-cornwall
+CIOS.4021	Arwenack & Boslowick	devon-and-cornwall
+CIOS.4025	Penwerris & Trescobeas	devon-and-cornwall
+CIOS.4026	Newquay Town	devon-and-cornwall
+CIOS.4028	St Columb Major	devon-and-cornwall
+CIOS.4030	Grampound & Mevagissey	devon-and-cornwall
+CIOS.4031	Lostwithiel & Fowey	devon-and-cornwall
+CIOS.4032	St Austell Town	devon-and-cornwall
+CIOS.4033	St Blazey & Tywardreath	devon-and-cornwall
+CIOS.4034	St Stephen & St Dennis	devon-and-cornwall
+CIOS.4035	Treverbyn & Roche	devon-and-cornwall
+CIOS.4036	Boscawen	devon-and-cornwall
+CIOS.4037	Moresk & Tregolls	devon-and-cornwall
+CIOS.4038	Mount Hawke & St Agnes	devon-and-cornwall
+CIOS.4039	Perranporth	devon-and-cornwall
+CIOS.4040	Roseland, Probus, Trispen & St Erme	devon-and-cornwall
+CIOS.4042	Treliske Hospital	devon-and-cornwall
+CIOS.4044	Bodmin Rural	devon-and-cornwall
+CIOS.4045	Bodmin St Marys & St Leonards	devon-and-cornwall
+CIOS.4046	Bodmin St Petroc	devon-and-cornwall
+CIOS.4047	Padstow & St Merryn	devon-and-cornwall
+CIOS.4048	Wadebridge Town	devon-and-cornwall
+CIOS.4049	Rock, Polzeath & Port Isaac	devon-and-cornwall
+CIOS.4050	Bude Rural	devon-and-cornwall
+CIOS.4051	Bude Town	devon-and-cornwall
+CIOS.4052	Camelford & Tintagel	devon-and-cornwall
+CIOS.4053	Launceston Town	devon-and-cornwall
+CIOS.4054	Launceston Rural	devon-and-cornwall
+CIOS.4055	Liskeard North	devon-and-cornwall
+CIOS.4056	Liskeard Rural	devon-and-cornwall
+CIOS.4057	Liskeard South	devon-and-cornwall
+CIOS.4058	Looe Area	devon-and-cornwall
+CIOS.4059	Callington & Stokeclimsland	devon-and-cornwall
+CIOS.4060	Calstock	devon-and-cornwall
+CIOS.4061	Millbrook & Rame	devon-and-cornwall
+CIOS.4062	Saltash Town	devon-and-cornwall
+CIOS.4063	St Germans & Landrake	devon-and-cornwall
+CIOS.4064	Torpoint Town	devon-and-cornwall
+CIOS.4065	Chacewater, Feock, Kea & Kenwyn	devon-and-cornwall
+CIOS.4066	Trehaverne, Highertown, Malabar & Redannick	devon-and-cornwall
+CIOS.4067	Newquay Suburbs	devon-and-cornwall
+CIOS.4068	Penryn town, Mylor, Flushing, Perranwell, Gwennap, Ponsanooth, Stithians, Mabe, Budock, Mawnan and Constantine	devon-and-cornwall
+DEV.4001	Dartmouth Town and Kingswear	devon-and-cornwall
+DEV.4002	Dartmouth Townstal & Rural	devon-and-cornwall
+DEV.4003	Totnes East	devon-and-cornwall
+DEV.4004	Totnes Town	devon-and-cornwall
+DEV.4005	Totnes West	devon-and-cornwall
+DEV.4006	Ivybridge Rural North	devon-and-cornwall
+DEV.4007	Ivybridge Rural South	devon-and-cornwall
+DEV.4008	Ivybridge Town	devon-and-cornwall
+DEV.4009	Kingsbridge	devon-and-cornwall
+DEV.4010	Kingsbridge Rural West	devon-and-cornwall
+DEV.4011	Kingsbridge Rural East	devon-and-cornwall
+DEV.4012	Salcombe	devon-and-cornwall
+DEV.4013	Bere Peninsula	devon-and-cornwall
+DEV.4014	Okehampton Rural East	devon-and-cornwall
+DEV.4015	Okehampton Rural West	devon-and-cornwall
+DEV.4016	Okehampton Town	devon-and-cornwall
+DEV.4017	Tavistock Rural East	devon-and-cornwall
+DEV.4018	Tavistock Rural West	devon-and-cornwall
+DEV.4019	Tavistock Town	devon-and-cornwall
+DEV.4020	Berry Head with Furzeham	devon-and-cornwall
+DEV.4021	Blatchcombe	devon-and-cornwall
+DEV.4022	Churston with Galmpton	devon-and-cornwall
+DEV.4023	Clifton with Maidenway	devon-and-cornwall
+DEV.4024	Goodrington with Roselands	devon-and-cornwall
+DEV.4025	Preston	devon-and-cornwall
+DEV.4026	Roundham with Hyde	devon-and-cornwall
+DEV.4027	St Marys with Summercombe	devon-and-cornwall
+DEV.4028	Cockington with Chelston	devon-and-cornwall
+DEV.4029	Ellacombe	devon-and-cornwall
+DEV.4030	Hele	devon-and-cornwall
+DEV.4031	Shiphay with the Willows	devon-and-cornwall
+DEV.4032	St Marychurch	devon-and-cornwall
+DEV.4033	Torquay Town Centre	devon-and-cornwall
+DEV.4034	Torre & Upton	devon-and-cornwall
+DEV.4035	Watcombe	devon-and-cornwall
+DEV.4036	Wellswood	devon-and-cornwall
+DEV.4037	Ashburton	devon-and-cornwall
+DEV.4038	Bovey Tracey & Moretonhampstead	devon-and-cornwall
+DEV.4039	Buckfastleigh	devon-and-cornwall
+DEV.4040	Chudleigh & Teign Valley	devon-and-cornwall
+DEV.4041	Exminster & Rural	devon-and-cornwall
+DEV.4042	Kingskerswell & Rural	devon-and-cornwall
+DEV.4043	Kingsteignton	devon-and-cornwall
+DEV.4044	Newton Abbot East	devon-and-cornwall
+DEV.4045	Newton Abbot Town	devon-and-cornwall
+DEV.4046	Dawlish	devon-and-cornwall
+DEV.4047	Dawlish Rural	devon-and-cornwall
+DEV.4048	Teignmouth	devon-and-cornwall
+DEV.4049	Teignmouth Rural	devon-and-cornwall
+DEV.4050	Alphington	devon-and-cornwall
+DEV.4051	Countess Wear & Topsham	devon-and-cornwall
+DEV.4052	Cowick & St Thomas	devon-and-cornwall
+DEV.4053	Duryard & Pennsylvania	devon-and-cornwall
+DEV.4054	Exwick	devon-and-cornwall
+DEV.4055	Exeter City Centre	devon-and-cornwall
+DEV.4056	Heavitree & Polsloe	devon-and-cornwall
+DEV.4057	Mincinglake	devon-and-cornwall
+DEV.4058	Newtown & St Leonards	devon-and-cornwall
+DEV.4059	Pinhoe	devon-and-cornwall
+DEV.4060	Wonford	devon-and-cornwall
+DEV.4061	St Davids	devon-and-cornwall
+DEV.4062	St James	devon-and-cornwall
+DEV.4063	St Loyes	devon-and-cornwall
+DEV.4064	Whipton	devon-and-cornwall
+DEV.4065	Budleigh, Bicton & Raleigh	devon-and-cornwall
+DEV.4066	Clyst Valley, Woodbury & Lympstone	devon-and-cornwall
+DEV.4067	Exmouth Halsdon & Withycombe	devon-and-cornwall
+DEV.4068	Exmouth Littleham	devon-and-cornwall
+DEV.4069	Exmouth Town	devon-and-cornwall
+DEV.4070	Exmouth Brixington	devon-and-cornwall
+DEV.4071	Canonsleigh, Halberton & Willand	devon-and-cornwall
+DEV.4072	Crediton Rural North	devon-and-cornwall
+DEV.4073	Crediton Rural South	devon-and-cornwall
+DEV.4074	Crediton Town	devon-and-cornwall
+DEV.4075	Cullompton North & South	devon-and-cornwall
+DEV.4076	Cullompton Outer & Bradninch	devon-and-cornwall
+DEV.4077	Lower Culm & Upper Culm	devon-and-cornwall
+DEV.4078	Tiverton Rural	devon-and-cornwall
+DEV.4079	Tiverton Canal	devon-and-cornwall
+DEV.4080	Tiverton Lowman	devon-and-cornwall
+DEV.4081	Tiverton Westexe	devon-and-cornwall
+DEV.4082	Tiverton Town Centre	devon-and-cornwall
+DEV.4083	Axminster Rural	devon-and-cornwall
+DEV.4084	Axminster Town	devon-and-cornwall
+DEV.4085	Honiton Rural	devon-and-cornwall
+DEV.4086	Honiton Town	devon-and-cornwall
+DEV.4087	Ottery Rural	devon-and-cornwall
+DEV.4088	Ottery St Mary Town	devon-and-cornwall
+DEV.4089	Seaton	devon-and-cornwall
+DEV.4090	Seaton Rural	devon-and-cornwall
+DEV.4091	Sidmouth	devon-and-cornwall
+DEV.4092	Barnstaple Central Town	devon-and-cornwall
+DEV.4093	Barnstaple Forches	devon-and-cornwall
+DEV.4094	Barnstaple Newport	devon-and-cornwall
+DEV.4095	Bishops Tawton, Landkey, Swimbridge & Whiddon Valley	devon-and-cornwall
+DEV.4096	Gorwell, Fort Hill, Frankmarsh & St Georges	devon-and-cornwall
+DEV.4097	Instow, Fremington & Bickington	devon-and-cornwall
+DEV.4098	Pilton, Bratton Fleming & Goodleigh	devon-and-cornwall
+DEV.4099	Roundswell, Tawstock & Longbridge	devon-and-cornwall
+DEV.4100	Braunton Rural	devon-and-cornwall
+DEV.4101	Braunton Urban	devon-and-cornwall
+DEV.4102	Combe Martin	devon-and-cornwall
+DEV.4103	Ilfracombe East & Central	devon-and-cornwall
+DEV.4104	Ilfracombe West	devon-and-cornwall
+DEV.4105	Lynton & Lynmouth	devon-and-cornwall
+DEV.4106	Mortehoe & Woolacombe	devon-and-cornwall
+DEV.4107	South Molton	devon-and-cornwall
+DEV.4108	South Molton Rural	devon-and-cornwall
+DEV.4109	Bideford East the Water	devon-and-cornwall
+DEV.4110	Bideford West	devon-and-cornwall
+DEV.4111	Holsworthy & Rural	devon-and-cornwall
+DEV.4112	Torrington Rural	devon-and-cornwall
+DEV.4113	Westward Ho!, Northam & Appledore, Hartland Rural	devon-and-cornwall
+PLY.4001	Chaddlewood	devon-and-cornwall
+PLY.4002	Colebrook & Newnham	devon-and-cornwall
+PLY.4003	Elburton & Dunstone	devon-and-cornwall
+PLY.4004	Goosewell & Staddiscombe	devon-and-cornwall
+PLY.4006	Plymstock	devon-and-cornwall
+PLY.4007	Turnchapel, Hooe, Oreston & Mount Batten	devon-and-cornwall
+PLY.4008	Woodford	devon-and-cornwall
+PLY.4010	East End	devon-and-cornwall
+PLY.4011	Efford	devon-and-cornwall
+PLY.4012	Greenbank & Plymouth University	devon-and-cornwall
+PLY.4013	Higher Compton & Mannamead	devon-and-cornwall
+PLY.4014	Lipson & Laira	devon-and-cornwall
+PLY.4015	Mount Gould and St. Jude's	devon-and-cornwall
+PLY.4016	Mutley	devon-and-cornwall
+PLY.4017	Derriford West & Crownhill	devon-and-cornwall
+PLY.4018	Estover, Glenholt & Derriford East	devon-and-cornwall
+PLY.4019	Eggbuckland	devon-and-cornwall
+PLY.4020	Ernesettle	devon-and-cornwall
+PLY.4021	Honicknowle	devon-and-cornwall
+PLY.4022	Leigham & Mainstone	devon-and-cornwall
+PLY.4023	Manadon	devon-and-cornwall
+PLY.4024	Southway	devon-and-cornwall
+PLY.4025	Tamerton Foliot	devon-and-cornwall
+PLY.4026	Whitleigh	devon-and-cornwall
+PLY.4027	Widewell	devon-and-cornwall
+PLY.4028	Plymouth City Centre & Waterfront	devon-and-cornwall
+PLY.4029	Stonehouse	devon-and-cornwall
+PLY.4030	Devonport	devon-and-cornwall
+PLY.4031	Ford	devon-and-cornwall
+PLY.4032	Keyham	devon-and-cornwall
+PLY.4033	Morice Town	devon-and-cornwall
+PLY.4034	Stoke	devon-and-cornwall
+PLY.4035	Barne Barton	devon-and-cornwall
+PLY.4036	Beacon Park	devon-and-cornwall
+PLY.4037	Ham, Weston Mill & Pennycross	devon-and-cornwall
+PLY.4038	North Prospect	devon-and-cornwall
+PLY.4039	Peverell & Hartley	devon-and-cornwall
+PLY.4040	St Budeaux & Kings Tamerton	devon-and-cornwall
+PLY.4041	Plympton St Maurice & Yealmpstone	devon-and-cornwall
+10-0	West Howe Safer Neighbourhood Team	dorset
+10-1	Northbourne and Wallisdown Safer Neighbourhood Team	dorset
+10-10	Southbourne Safer Neighbourhood Team	dorset
+10-11	Meyrick and Talbot Safer Neighbourhood Team	dorset
+10-12	Bournemouth Central Safer Neighbourhood Team	dorset
+10-13	Westbourne and West Cliff Safer Neighbourhood Team	dorset
+10-14	Poole Town Oakdale Safer Neighbourhood Team	dorset
+10-15	Parkstone, Penn Hill and Canford Cliffs Safer Neighbourhood Team	dorset
+10-16	Newtown and Branksome Safer Neighbourhood Team	dorset
+10-17	Rossmore and Alderney Safer Neighbourhood Team	dorset
+10-18	Hamworthy Safer Neighbourhood Team	dorset
+10-19	Canford Heath Safer Neighbourhood Team	dorset
+10-2	Kinson North Safer Neighbourhood Team	dorset
+10-20	Corfe Mullen Safer Neighbourhood Team	dorset
+10-21	Wimborne Rural Safer Neighbourhood Team	dorset
+10-22	Colehill Safer Neighbourhood Team	dorset
+10-23	Wimborne Town Safer Neighbourhood Team	dorset
+10-24	Potterne and Three Legged Cross Safer Neighbourhood Team	dorset
+10-25	Ferndown Central Safer Neighbourhood Team	dorset
+10-26	Heatherlands and Ferndown Links Safer Neighbourhood Team	dorset
+10-27	West Moors, St Leonards and St Ives Safer Neighbourhood Team	dorset
+10-29	Christchurch Town Centre Safer Neighbourhood Team	dorset
+10-3	Bearwood Safer Neighbourhood Team	dorset
+10-30	North Christchurch Safer Neighbourhood Team	dorset
+10-31	Purewell and Stanpit Safer Neighbourhood Team	dorset
+10-32	The Grange Safer Neighbourhood Team	dorset
+10-33	Mudeford and West Highcliffe Safer Neighbourhood Team	dorset
+10-34	Highcliffe and Walkford Safer Neighbourhood Team	dorset
+10-35	Verwood Safer Neighbourhood Team	dorset
+10-36	Cranborne and Alderholt Safer Neighbourhood Team	dorset
+10-37	Wareham West Safer Neighbourhood Team	dorset
+10-38	Wareham North Safer Neighbourhood Team	dorset
+10-39	Wareham Town Safer Neighbourhood Team	dorset
+10-4	Townsend Safer Neighbourhood Team	dorset
+10-40	Swanage Town Safer Neighbourhood Team	dorset
+10-41	Swanage Rural Safer Neighbourhood Team	dorset
+10-42	Blandford Town Safer Neighbourhood Team	dorset
+10-43	Blandford Rural North Safer Neighbourhood Team	dorset
+10-44	Blandford Rural South Safer Neighbourhood Team	dorset
+10-45	Gillingham Rural Safer Neighbourhood Team	dorset
+10-46	Gillingham Town Safer Neighbourhood Team	dorset
+10-47	Shaftesbury Town Safer Neighbourhood Team	dorset
+10-48	Shaftesbury Rural Safer Neighbourhood Team	dorset
+10-49	Beaminster Rural Safer Neighbourhood Team	dorset
+10-5	Strouden Park Safer Neighbourhood Team	dorset
+10-50	Bridport Town Safer Neighbourhood Team	dorset
+10-51	Bridport Rural East Safer Neighbourhood Team	dorset
+10-52	Chickerell Safer Neighbourhood Team	dorset
+10-53	Blandford Old Town Safer Neighbourhood Team	dorset
+10-54	Littlemoor Safer Neighbourhood Team	dorset
+10-55	Lyme Regis Safer Neighbourhood Team	dorset
+10-56	Radipole Safer Neighbourhood Team	dorset
+10-57	Weymouth East Safer Neighbourhood Team	dorset
+10-58	Portland Safer Neighbourhood Team	dorset
+10-59	Sherborne Town Safer Neighbourhood Team	dorset
+10-6	Winton Safer Neighbourhood Team	dorset
+10-60	Sherborne Rural Safer Neighbourhood Team	dorset
+10-61	Stour Valley Safer Neighbourhood Team	dorset
+10-62	Westham Safer Neighbourhood Team	dorset
+10-63	Melcombe Regis Safer Neighbourhood Team	dorset
+10-64	Wyke Regis Safer Neighbourhood Team	dorset
+10-65	Lytchett Minster and Upton Safer Neighbourhood Team	dorset
+10-66	Broadstone and Merley Safer Neighbourhood Team	dorset
+10-67	Dorchester West Safer Neighbourhood Team	dorset
+10-68	Dorchester East Safer Neighbourhood Team	dorset
+10-69	Dorchester North Safer Neighbourhood Team	dorset
+10-7	Throop and Muscliff Safer Neighbourhood Team	dorset
+10-70	Dorchester South Safer Neighbourhood Team	dorset
+10-71	Sturminster Newton Rural Safer Neighbourhood Team	dorset
+10-72	Marshwood Vale Safer Neighbourhood Team	dorset
+10-73	Charminster and Queens Park Safer Neighbourhood Team	dorset
+10-74	Portfield and Jumpers Safer Neighbourhood Team	dorset
+10-75	Creekmoor Safer Neighbourhood Team	dorset
+10-76	Leigh Park Safer Neighbourhood Team	dorset
+10-77	Moordown Safer Neighbourhood Team	dorset
+10-8	East Cliff, Springbourne and Boscombe West Safer Neighbourhood Team	dorset
+10-9	Littledown and Boscombe East Safer Neighbourhood Team	dorset
+1	Chester South (Garden Farm Estate)	durham
+10	Ouston	durham
+100	Bank Top	durham
+101	Lascelles	durham
+102	Eastbourne	durham
+103	Middleton St George	durham
+104	Hurworth	durham
+105	Colleges	durham
+106	Park West	durham
+107	Mowden	durham
+108	Hummersknott	durham
+109	Park East	durham
+11	Pelton	durham
+110	Woodham Ward	durham
+111	Shafto St. Marys Ward	durham
+112	Neville and Simpasture Ward	durham
+113	West (Aycliffe) Ward	durham
+114	Greenfield Middridge Ward	durham
+115	Sedgefield Ward	durham
+116	Fishburn and Old Trimdon Ward	durham
+117	Trimdon Village	durham
+119	New Trimdon and Trimdon Grange Ward	durham
+12	Pelton Fell	durham
+120	Sunnydale (Shildon)	durham
+121	Thickley Ward	durham
+122	Byerley (Shildon)	durham
+123	Spennymoor Ward	durham
+124	Tudhoe Ward	durham
+125	Low Spennymoor and Tudhoe Grange Ward	durham
+127	Middlestone Ward, Byers Green and Kirk Merrington	durham
+128	Ferryhill Town and Dean Bank	durham
+129	Broom Ward	durham
+13	Grange Villa	durham
+130	Bishop Middleham and Cornforth Ward	durham
+131	Chilton Ward	durham
+132	Shotton Colliery	durham
+133	South Teesdale	durham
+137	Willington and Oakenshaw	durham
+138	Howden-le-Wear, North Bitchburn, High Grange and Wilton-le-Wear	durham
+139	Billy Row, Roddymoor and Stanley Crook	durham
+14	Urpeth (Beamish, West Pelton and Handenhold)	durham
+141	Tow Law	durham
+143	Wolsingham	durham
+144	Stanhope	durham
+147	Crook Town and Sunniside	durham
+148	Upper Weardale, Edmundbyers and Hunstanworth	durham
+15	Great Lumley	durham
+151	Sunnybrow and Hunwick	durham
+152	Frosterley	durham
+153	Horden North	durham
+154	Peterlee Town	durham
+155	Deneside, East Lea, West Lea, Dalton Heights, Seaton and Northlea	durham
+156	Haswell	durham
+158	Brancepeth	durham
+159	Brandon	durham
+16	Woodstone and Fencehouses	durham
+161	New Brancepeth and Alum Waters	durham
+162	Kelloe	durham
+163	Neville's Cross	durham
+164	Ludworth Shadforth and Sherburn Hill	durham
+165	Sherburn Hill Shadforth and Ludworth	durham
+166	Gilesgate	durham
+167	Broompark	durham
+168	Bearpark	durham
+169	Pittington and West Rainton	durham
+17	Bournmoor	durham
+170	Croxdale East	durham
+171	Sherburn Village	durham
+172	Bowburn and Cassop	durham
+173	Consett East	durham
+174	Muggleswick	durham
+18	Barnard Castle Town	durham
+19	The Dales	durham
+2	Chester West (The Avenues)	durham
+20	East Teesdale and Gaunless Valley	durham
+21	Blackhill	durham
+22	Benfieldside	durham
+23	Burnhope	durham
+24	Castleside	durham
+26	Consett North	durham
+27	Consett South	durham
+28	Cornsay	durham
+29	Delves Lane	durham
+3	Riverside and Holmlands Park	durham
+30	Ebchester and Medomsley	durham
+31	Esh and Langley Park	durham
+32	Lanchester	durham
+33	Leadgate	durham
+34	Shincliffe and High Shincliffe	durham
+35	Coxhoe and Quarrington Hill	durham
+36	Shadforth	durham
+37	West Rainton	durham
+38	Belmont and Gilesgate	durham
+39	Durham City	durham
+4	Chester Central (Front Street)	durham
+40	Sherburn Road	durham
+41	Framwellgate Moor and Pity Me	durham
+42	Newton Hall	durham
+43	Crossgate and North End	durham
+44	Langley Moor and Meadowfield	durham
+45	Esh Winning, Waterhouses and Hamilton Row	durham
+46	Ushaw Moor	durham
+47	Witton Gilbert	durham
+48	Horden South	durham
+49	Blackhall, Castle Eden, Hesleden, Crimdon and Sheraton	durham
+5	Chester North (including South Pelaw)	durham
+54	Wingate, Hutton Henry, Station Town and Deaf Hill	durham
+55	Thornley and Wheatley Hill	durham
+56	Seaham Town, Dawdon and Parkside	durham
+6	Waldridge Village and Waldridge Park Estate	durham
+60	Murton, Dalton-le-Dale, Hawthorn, Cold Heseldon and Dalton Park	durham
+62	Easington Colliery, Village and Grants Houses	durham
+63	South Hetton	durham
+64	Stanley and Shield Row	durham
+66	Catchgate	durham
+67	Annfield Plain and New Kyo	durham
+68	Burnopfield	durham
+69	Dipton	durham
+7	Sacriston	durham
+70	Tanfield	durham
+71	South Moor	durham
+72	Stanley Hall	durham
+73	Craghead and South Stanley	durham
+75	Bishop Auckland Town and Toronto	durham
+76	Henknowle, South Church and Cockton Hill	durham
+77	Eldon, Close House, Coronation and Auckland Park	durham
+78	Coundon, Leeholme, Middleston, Newfield and Binchester	durham
+79	Woodhouse Close Estate, Greenfields and Etherley Dene	durham
+8	Nettlesworth and Kimblesworth	durham
+80	West Auckland, St Helens and Tindale	durham
+81	Evenwood, Ramshaw, Hamsterley, Windmill, Toft Hill, High Etherley, Escomb and Etherley	durham
+86	Central and Town Centre	durham
+87	Harrowgate Hill	durham
+88	North Road	durham
+89	Northgate	durham
+9	Edmondsley	durham
+90	Haughton North	durham
+91	Haughton West	durham
+92	Haughton East	durham
+93	Sadberge and Whessoe	durham
+94	Cockerton East	durham
+95	Cockerton West	durham
+96	Pierremont	durham
+97	Heighington and Coniscliffe	durham
+98	Faverdale	durham
+99	Lingfield	durham
+100	Aberystwyth Rural North	dyfed-powys
+101	Aberystwyth Rural South	dyfed-powys
+102	Aberystwyth Town and University	dyfed-powys
+103	Amman Towy	dyfed-powys
+104	Brecon Rural	dyfed-powys
+105	Brecon Town	dyfed-powys
+106	Builth Wells	dyfed-powys
+107	Cardigan Rural	dyfed-powys
+108	Cardigan Town	dyfed-powys
+110	Carmarthen	dyfed-powys
+111	Crickhowell	dyfed-powys
+112	Crymych, St Dogmaels and Cilgerran	dyfed-powys
+113	Fishguard	dyfed-powys
+115	Haverfordwest Rural	dyfed-powys
+116	Haverfordwest	dyfed-powys
+117	Hay and Glasbury	dyfed-powys
+118	Knighton	dyfed-powys
+119	Lampeter	dyfed-powys
+120	Llandrindod Rural	dyfed-powys
+121	Llandrindod Town	dyfed-powys
+122	Llandysul	dyfed-powys
+123	Llanelli Rural	dyfed-powys
+124	Llanelli Town	dyfed-powys
+125	Llanfyllin	dyfed-powys
+126	Llanfair Caereinion	dyfed-powys
+127	Llanidloes	dyfed-powys
+128	Llanwrtyd	dyfed-powys
+129	Machynlleth	dyfed-powys
+130	Milford Haven Rural	dyfed-powys
+131	Milford Haven	dyfed-powys
+132	Narberth	dyfed-powys
+133	New Quay and Aberaeron	dyfed-powys
+134	Newtown	dyfed-powys
+135	Newtown Rural	dyfed-powys
+136	Pembroke	dyfed-powys
+137	Pembroke Dock	dyfed-powys
+138	Penparcau and Llanbadarn	dyfed-powys
+139	Presteigne	dyfed-powys
+140	Rhayader	dyfed-powys
+142	Talgarth and Gwernyfed	dyfed-powys
+143	Tenby Rural	dyfed-powys
+144	Tenby	dyfed-powys
+145	Tregaron	dyfed-powys
+146	Welshpool Rural	dyfed-powys
+147	Welshpool Town	dyfed-powys
+148	Ystradgynlais Rural	dyfed-powys
+149	Ystradgynlais Town	dyfed-powys
+1	Braintree South	essex
+10	Hedinghams	essex
+100	Fryerns	essex
+101	Vange	essex
+102	St Martins	essex
+103	Nethermayne	essex
+104	Lee Chapel North	essex
+105	Langdon Hills	essex
+106	Laindon Park	essex
+107	Ockendon	essex
+108	Belhus	essex
+109	Aveley	essex
+11	Yeldham	essex
+110	SW Thurrock	essex
+111	Chafford Hundred	essex
+112	Grays North	essex
+113	Grays East	essex
+114	Grays South	essex
+115	Grays Central	essex
+116	Orsett, Horndon, Bulphan	essex
+117	Tilbury	essex
+118	Chadwell	essex
+119	East Tilbury	essex
+12	Cressing and Stisted	essex
+120	Stanford	essex
+121	Corringham West	essex
+122	Corringham East	essex
+123	Brentwood Town Centre	essex
+124	Brentwood North	essex
+125	Hutton and Shenfield	essex
+126	Brentwood South	essex
+127	Epping Town	essex
+128	Epping West	essex
+129	Waltham Abbey	essex
+13	Three Fields	essex
+130	Loughton	essex
+131	Buckhurst Hill	essex
+132	Chigwell	essex
+133	Debden	essex
+134	Epping South East	essex
+135	Ongar	essex
+136	Harlow Central	essex
+137	Harlow West	essex
+138	Harlow North	essex
+139	Harlow East	essex
+14	Chelmsford Town	essex
+140	Harlow South	essex
+141	Stansted Terminal South	essex
+142	Stansted Terminal North	essex
+145	Bocking	essex
+15	Moulsham	essex
+16	Waterhouse	essex
+17	Goat Hall	essex
+18	Marconi	essex
+19	Broomfield	essex
+2	Braintree Town	essex
+20	Boreham	essex
+21	Springfield	essex
+22	Baddow and Galleywood	essex
+23	Chelmsford Rural South	essex
+24	South Woodham Ferrers	essex
+25	Chelmsford Rural West	essex
+26	Maldon	essex
+27	Heybridge	essex
+28	Great Totham	essex
+29	Southminster	essex
+3	Notley and Rayne	essex
+30	Burnham	essex
+31	Purleigh	essex
+32	Saffron Walden Central	essex
+33	Thaxted	essex
+34	Felsted	essex
+35	Dunmow Central	essex
+36	Hatfield Heath	essex
+37	Stansted North	essex
+38	Clavering	essex
+39	Colchester Town	essex
+4	Hatfield Peverel	essex
+40	Christchurch	essex
+41	Harbour Berechurch	essex
+42	Rowhedge	essex
+43	Mersea Abberton Fingringhoe	essex
+44	Birch and Layer	essex
+45	Tiptree	essex
+46	Stanway	essex
+47	Shrub End	essex
+48	Lexden Prettygate	essex
+49	St Andrews St Annes	essex
+5	Witham South	essex
+50	Wivenhoe	essex
+51	Highwoods Mile End and St. Johns	essex
+52	Dedham	essex
+53	Horkesley	essex
+54	Chappel	essex
+55	Copford	essex
+56	Clacton West	essex
+57	Clacton Central	essex
+58	Clacton east	essex
+59	Kirby Cross	essex
+6	Witham North	essex
+60	Frinton	essex
+61	Walton	essex
+62	Thorpe Le Soken	essex
+63	Weeley	essex
+64	St Osyth	essex
+65	Brightlingsea	essex
+66	Alresford	essex
+67	Gt Bentley	essex
+68	Elmstead Market	essex
+69	Ardleigh	essex
+7	Kelvedon	essex
+70	Manningtree	essex
+71	Bradfield	essex
+72	Ramsey and Parkeston	essex
+73	Oakley	essex
+74	Harwich	essex
+75	Benfleet	essex
+76	Thundersley	essex
+77	Hadleigh	essex
+78	Canvey	essex
+79	Rayleigh	essex
+8	Three Colnes	essex
+80	Rochford	essex
+81	Hockley	essex
+82	Hullbridge	essex
+83	Ashingdon and Canewdon	essex
+84	Wakering	essex
+85	Southend Central	essex
+86	Leigh	essex
+87	Blenheim	essex
+88	Eastwood	essex
+89	Shoebury	essex
+9	Halstead	essex
+90	Southchurch	essex
+91	Billericay East	essex
+92	Billericay West	essex
+93	Burstead	essex
+94	Crouch	essex
+95	Wickford Castledon	essex
+96	Wickford Park	essex
+97	Wickford North	essex
+98	Pitsea South East	essex
+99	Pitsea North West	essex
+AA1	Hesters Way	gloucestershire
+AA2	Springbank and Fiddlers Green	gloucestershire
+AA3	St Marks	gloucestershire
+AA4	Swindon Village and Wymans Brook	gloucestershire
+AA5	Whaddon Lynworth and Oakley	gloucestershire
+AA6	Prestbury	gloucestershire
+AA7	St Pauls and Pittville	gloucestershire
+AB1	Lansdown	gloucestershire
+AB2	Cheltenham Town Centre	gloucestershire
+AB3	Fairview	gloucestershire
+AB4	Leckhampton	gloucestershire
+AB5	Benhall and Hatherley	gloucestershire
+AB6	Charlton Kings	gloucestershire
+AB7	Tivoli	gloucestershire
+BA1	Gloucester City Centre	gloucestershire
+BA2	Hempsted	gloucestershire
+BA3	Kingsholm and Wotton	gloucestershire
+BA4	Barton, Tredworth and White City	gloucestershire
+BB1	Podsmead	gloucestershire
+BB2	Tuffley and Grange	gloucestershire
+BB3	Quedgeley, Kingsway and Hardwicke	gloucestershire
+BB4	Hucclecote Abbey and Upton St Leonards	gloucestershire
+BB5	Barnwood	gloucestershire
+BB6	Longlevens and Elmbridge	gloucestershire
+BB7	Linden	gloucestershire
+BB8	Matson and Robinswood	gloucestershire
+CA1	Stroud Urban	gloucestershire
+CA2	Stroud Rural	gloucestershire
+CA3	Nailsworth	gloucestershire
+CA4	Stonehouse	gloucestershire
+CB1	Severnside	gloucestershire
+CB2	Berkeley	gloucestershire
+CB3	Wotton-under-Edge	gloucestershire
+CB4	Dursley and Cam	gloucestershire
+DA1	Tewkesbury	gloucestershire
+DA2	Winchcombe	gloucestershire
+DA3	Bishops Cleeve	gloucestershire
+DA4	Coombe Hill	gloucestershire
+DA5	Severn Banks	gloucestershire
+DA6	Golden Vale	gloucestershire
+DA7	Glevum West	gloucestershire
+EA1	Newent	gloucestershire
+EA2	Cinderford	gloucestershire
+EA3	Coleford	gloucestershire
+EA4	Lydney	gloucestershire
+EA5	Tidenham and Sedbury	gloucestershire
+FA1	Chipping Campden	gloucestershire
+FA2	Moreton-in-Marsh	gloucestershire
+FA3	Stow-on-the-Wold	gloucestershire
+FA4	Bourton-on-the-Water	gloucestershire
+FA5	Fairford and Lechlade	gloucestershire
+FA6	Cirencester Urban	gloucestershire
+FA7	Cirencester Rural North	gloucestershire
+FA8	Cirencester Rural South	gloucestershire
+FA9	Tetbury	gloucestershire
+AC02	Clayton	greater-manchester
+AC03	Miles Platting	greater-manchester
+AC04	Newton Heath	greater-manchester
+AC05	Beswick	greater-manchester
+AC06	Openshaw	greater-manchester
+AC07	Castlefield	greater-manchester
+AC12	Southern Gateway	greater-manchester
+AC13	Higher Cheetham	greater-manchester
+AC14	Higher Crumpsall	greater-manchester
+AC15	Lower Cheetham	greater-manchester
+AC16	Lower Crumpsall	greater-manchester
+AC17	Charlestown	greater-manchester
+AC18	Higher Blackley	greater-manchester
+AC19	Collyhurst	greater-manchester
+AC20	Harpurhey	greater-manchester
+AC21	Monsall	greater-manchester
+AC22	Moston and New Moston	greater-manchester
+AC23	Ancoats	greater-manchester
+AC24	Northern Quarter	greater-manchester
+AC25	China Town	greater-manchester
+AC26	Commercial District	greater-manchester
+AC27	The Village	greater-manchester
+AC28	Piccadilly Station	greater-manchester
+AC29	Piccadilly Gardens	greater-manchester
+AC30	Abbey Hey	greater-manchester
+AC31	Debdale	greater-manchester
+AC32	Gorton North	greater-manchester
+AC33	Gorton South	greater-manchester
+EC01	Anson	greater-manchester
+EC02	Ardwick	greater-manchester
+EC03	Brunswick	greater-manchester
+EC04	Coverdale	greater-manchester
+EC05	Longsight	greater-manchester
+EC06	MRI	greater-manchester
+EC07	Northmoor	greater-manchester
+EC08	West Gorton	greater-manchester
+EC09	Rusholme	greater-manchester
+EC10	Alexandra Park (South Manchester)	greater-manchester
+EC11	Hulme	greater-manchester
+EC12	Moss Side	greater-manchester
+EC13	St Georges	greater-manchester
+EC14	University	greater-manchester
+EC15	Levenshulme	greater-manchester
+EC16	Fallowfield	greater-manchester
+EC17	Platt Fields	greater-manchester
+EC18	Burnage	greater-manchester
+EC19	Old Moat	greater-manchester
+EC20	Withington	greater-manchester
+EC21	Whalley Range	greater-manchester
+EC22	Chorlton	greater-manchester
+EC23	Chorlton Park	greater-manchester
+EC24	Didsbury East	greater-manchester
+EC25	Didsbury West	greater-manchester
+EC26	Baguley	greater-manchester
+EC27	Brooklands (South Manchester)	greater-manchester
+EC28	Northenden	greater-manchester
+EC29	Benchill	greater-manchester
+EC30	Sharston	greater-manchester
+EC31	Woodhouse Park	greater-manchester
+FC01	Claremont	greater-manchester
+FC02	Langworthy	greater-manchester
+FC03	Ordsall	greater-manchester
+FC04	Weaste and Seedley	greater-manchester
+FC05	Broughton	greater-manchester
+FC06	Irwell Riverside	greater-manchester
+FC07	Kersal	greater-manchester
+FC08	Pendlebury	greater-manchester
+FC09	Swinton North	greater-manchester
+FC10	Swinton South	greater-manchester
+FC11	Barton	greater-manchester
+FC12	Cadishead	greater-manchester
+FC13	Eccles	greater-manchester
+FC14	Irlam	greater-manchester
+FC15	Winton	greater-manchester
+FC16	Boothstown and Ellenbrook	greater-manchester
+FC17	Little Hulton	greater-manchester
+FC18	Walkden North	greater-manchester
+FC19	Walkden South	greater-manchester
+FC20	Worsley	greater-manchester
+GC01	Dukinfield	greater-manchester
+GC02	Dukinfield Stalybridge	greater-manchester
+GC05	Stalybridge South	greater-manchester
+GC06	Ashton Hurst	greater-manchester
+GC07	Ashton St. Michael's	greater-manchester
+GC08	Ashton Waterloo	greater-manchester
+GC09	St. Peter's	greater-manchester
+GC11	Hyde Newton	greater-manchester
+GC12	Hyde Werneth	greater-manchester
+GC14	Audenshaw	greater-manchester
+GC15	Denton North East	greater-manchester
+GC16	Denton South	greater-manchester
+GC17	Denton West	greater-manchester
+GC18	Droylsden East	greater-manchester
+GC19	Droylsden West	greater-manchester
+GC20	Mossley	greater-manchester
+GC21	Longdendale and Hattersley	greater-manchester
+GC22	Stalybridge North	greater-manchester
+GC23	Hyde Godley	greater-manchester
+IC01	Airport	greater-manchester
+JC01	Alexandra Park (Stockport)	greater-manchester
+JC02	Cheadle Heath	greater-manchester
+JC03	Edgeley	greater-manchester
+JC04	Hillgate and Heaviley	greater-manchester
+JC05	Peel Centre	greater-manchester
+JC06	Shaw Heath	greater-manchester
+JC07	Town Centre	greater-manchester
+JC08	Woodbank	greater-manchester
+JC10	Offerton	greater-manchester
+JC11	Stepping Hill and Davenport	greater-manchester
+JC12	Werneth (Stockport)	greater-manchester
+JC13	Brinnington	greater-manchester
+JC14	Heatons	greater-manchester
+JC15	North Reddish	greater-manchester
+JC16	Reddish	greater-manchester
+JC17	South Reddish	greater-manchester
+JC18	Adswood and Bridgehall	greater-manchester
+JC19	Bramhall North	greater-manchester
+JC20	Bramhall South and Woodford	greater-manchester
+JC21	Cheadle	greater-manchester
+JC22	Cheadle Hulme	greater-manchester
+JC23	Gatley	greater-manchester
+JC24	Heald Green	greater-manchester
+JC25	Marple Bridge	greater-manchester
+JC26	Marple North	greater-manchester
+JC27	Marple South	greater-manchester
+JC28	High Lane	greater-manchester
+KC40	Halliwell	greater-manchester
+KC41	Bolton Town Centre	greater-manchester
+KC42	Rumworth	greater-manchester
+KC43	Crompton (Bolton)	greater-manchester
+KC44	Breightmet	greater-manchester
+KC45	Astley Bridge	greater-manchester
+KC46	Bromley Cross	greater-manchester
+KC47	Bradshaw	greater-manchester
+KC48	Tonge and The Haulgh	greater-manchester
+KC49	Farnworth	greater-manchester
+KC50	Kearsley	greater-manchester
+KC51	Little Lever	greater-manchester
+KC52	Great Lever	greater-manchester
+KC53	Harper Green	greater-manchester
+KC54	Horwich North East	greater-manchester
+KC55	Horwich and Blackrod	greater-manchester
+KC56	Westhoughton North	greater-manchester
+KC57	Westhoughton South	greater-manchester
+KC58	Smithills	greater-manchester
+KC59	Hulton	greater-manchester
+KC60	Heaton and Lostock	greater-manchester
+LC01	Astley Mosley Common	greater-manchester
+LC02	Atherton	greater-manchester
+LC03	Tyldesley	greater-manchester
+LC04	Abram	greater-manchester
+LC05	Ashton	greater-manchester
+LC06	Bryn	greater-manchester
+LC07	Hindley	greater-manchester
+LC08	Hindley Green	greater-manchester
+LC09	Atherleigh	greater-manchester
+LC10	Golborne and Lowton West	greater-manchester
+LC11	Leigh East	greater-manchester
+LC12	Leigh South	greater-manchester
+LC13	Leigh West	greater-manchester
+LC14	Lowton East	greater-manchester
+LC15	Douglas	greater-manchester
+LC16	Orrell	greater-manchester
+LC17	Pemberton	greater-manchester
+LC18	Winstanley	greater-manchester
+LC19	Worsley Mesnes	greater-manchester
+LC20	Aspull New Springs Whelley	greater-manchester
+LC21	Ince	greater-manchester
+LC22	Shevington with Lower Ground	greater-manchester
+LC23	Standish with Langtree	greater-manchester
+LC24	Wigan Central	greater-manchester
+LC25	Wigan West	greater-manchester
+MC01	Altrincham East	greater-manchester
+MC02	Altrincham Town Centre	greater-manchester
+MC03	Altrincham West	greater-manchester
+MC04	Bowdon	greater-manchester
+MC05	Broadheath	greater-manchester
+MC06	Broadheath Retail Park	greater-manchester
+MC07	Dunham	greater-manchester
+MC08	Hale	greater-manchester
+MC09	Hale Barns	greater-manchester
+MC10	Hale Town Centre	greater-manchester
+MC11	Timperley Central	greater-manchester
+MC12	Timperley East	greater-manchester
+MC13	Timperley South	greater-manchester
+MC14	West Timperley	greater-manchester
+MC15	Ashton Upon Mersey East	greater-manchester
+MC16	Ashton Upon Mersey West	greater-manchester
+MC17	Brooklands (Trafford)	greater-manchester
+MC18	Sale	greater-manchester
+MC19	Sale Moor North	greater-manchester
+MC20	Sale Moor South	greater-manchester
+MC21	Sale Town Centre	greater-manchester
+MC22	St Mary's West	greater-manchester
+MC23	St Mary's East	greater-manchester
+MC24	Clifford North	greater-manchester
+MC25	Clifford South	greater-manchester
+MC26	Longford West	greater-manchester
+MC27	Longford East	greater-manchester
+MC28	Stretford	greater-manchester
+MC29	Stretford Town Centre	greater-manchester
+MC30	Carrington	greater-manchester
+MC31	Davyhulme East	greater-manchester
+MC32	Davyhulme West	greater-manchester
+MC33	Flixton	greater-manchester
+MC34	Partington	greater-manchester
+MC35	Trafford Park	greater-manchester
+MC36	Trafford Retail Community	greater-manchester
+MC37	Urmston	greater-manchester
+MC38	Urmston Town Centre	greater-manchester
+MC39	Woodsend	greater-manchester
+NC01	East Bury	greater-manchester
+NC02	Moorside	greater-manchester
+NC03	Redvales	greater-manchester
+NC04	Church	greater-manchester
+NC05	Elton	greater-manchester
+NC06	North Manor	greater-manchester
+NC07	Radcliffe East	greater-manchester
+NC08	Radcliffe North	greater-manchester
+NC09	Radcliffe West	greater-manchester
+NC10	Ramsbottom	greater-manchester
+NC11	Tottington	greater-manchester
+NC12	Besses	greater-manchester
+NC13	Holyrood	greater-manchester
+NC14	Pilkington Park	greater-manchester
+NC15	Sedgley	greater-manchester
+NC16	St. Mary's (Bury)	greater-manchester
+NC17	Unsworth	greater-manchester
+PC02	North Heywood	greater-manchester
+PC03	West Heywood	greater-manchester
+PC04	East Middleton	greater-manchester
+PC05	North Middleton	greater-manchester
+PC07	South Middleton	greater-manchester
+PC09	Littleborough Lakeside	greater-manchester
+PC10	Milnrow and Newhey	greater-manchester
+PC11	Smallbridge and Firgrove	greater-manchester
+PC12	Wardle and West Littleborough	greater-manchester
+PC13	Bamford	greater-manchester
+PC14	Healey	greater-manchester
+PC15	Norden	greater-manchester
+PC16	Rochdale Central	greater-manchester
+PC17	Rochdale Town Centre	greater-manchester
+PC18	Spotland and Falinge	greater-manchester
+PC19	Balderstone and Kirkholt	greater-manchester
+PC20	Castleton	greater-manchester
+PC21	Kingsway	greater-manchester
+PC22	Milkstone and Deeplish	greater-manchester
+PC23	Hopwood Hall	greater-manchester
+PC24	West Middleton	greater-manchester
+QC01	Chadderton Central	greater-manchester
+QC02	Chadderton North	greater-manchester
+QC03	Chadderton South	greater-manchester
+QC04	Failsworth East	greater-manchester
+QC05	Failsworth West	greater-manchester
+QC06	Hollinwood	greater-manchester
+QC07	St James'	greater-manchester
+QC08	St Mary's (Oldham)	greater-manchester
+QC09	Waterhead	greater-manchester
+QC10	Oldham Town Centre	greater-manchester
+QC11	Alexandra	greater-manchester
+QC12	Coldhurst	greater-manchester
+QC13	Medlock Vale	greater-manchester
+QC14	Werneth (Oldham)	greater-manchester
+QC15	Crompton	greater-manchester
+QC16	Royton North	greater-manchester
+QC17	Royton South	greater-manchester
+QC18	Shaw	greater-manchester
+QC19	Saddleworth North	greater-manchester
+QC20	Saddleworth South	greater-manchester
+QC21	Saddleworth West and Lees	greater-manchester
+CC81	Blackwood	gwent
+CC82	Penmaen	gwent
+CC83	Pontllanfraith	gwent
+CC85	Cefn Fforest	gwent
+CC86	Argoed	gwent
+CD81	Bedwas, Trethomas & Machen	gwent
+CD82	St James	gwent
+CG81	Bargoed	gwent
+CG82	Gilfach	gwent
+CG83	Aberbargoed	gwent
+CG85	Pengam	gwent
+CH81	Moriah	gwent
+CH82	Twyn Carno	gwent
+CH83	Pontlottyn	gwent
+CH84	Darren Valley	gwent
+CH85	New Tredegar	gwent
+CP81	St Martins	gwent
+CP82	Morgan Jones	gwent
+CP83	Penyrheol	gwent
+CP84	Aber Valley	gwent
+CR81	Risca West	gwent
+CR82	Risca East	gwent
+CR83	Crosskeys	gwent
+CR84	Abercarn	gwent
+CR85	Newbridge	gwent
+CR86	Crumlin	gwent
+CR87	Ynysddu	gwent
+CY81	Ystrad Mynach	gwent
+CY82	Maesycwmmer	gwent
+CY83	Llanbradach	gwent
+CY84	Nelson	gwent
+CY85	St Cattwg	gwent
+CY86	Hengoed	gwent
+GA81	Abertillery	gwent
+GA82	Cwmtillery	gwent
+GA83	Six Bells	gwent
+GA84	Llanhilleth	gwent
+GB81	Brynmawr	gwent
+GB82	Nantyglo	gwent
+GB83	Blaina	gwent
+GE81	Ebbw Vale South	gwent
+GE82	Ebbw Vale North	gwent
+GE83	Badminton	gwent
+GE84	Rassau	gwent
+GE85	Beaufort	gwent
+GE86	Cwm	gwent
+GT81	Tredegar	gwent
+GT82	Sirhowy	gwent
+GT83	Georgetown	gwent
+MA81	Grofield	gwent
+MA82	Castle	gwent
+MA83	Priory	gwent
+MA84	Croesonen	gwent
+MA85	Lansdown	gwent
+MA86	Mardy	gwent
+MA87	Crucorney	gwent
+MA88	Cantref	gwent
+MA89	Llanfoist Fawr North	gwent
+MA90	Llanfoist Fawr South	gwent
+MA91	Llanelly Hill	gwent
+MA92	Llanwenarth Ultra	gwent
+MA93	Llanover	gwent
+MC81	Green Lane	gwent
+MC82	West End	gwent
+MC83	Severn	gwent
+MC84	Portskewett	gwent
+MC85	Caldicot Castle	gwent
+MC86	Dewstow	gwent
+MC87	Caerwent	gwent
+MC88	The Elms	gwent
+MC89	Mill	gwent
+MC90	Rogiet	gwent
+MH81	St Mary's	gwent
+MH82	St Kingsmark	gwent
+MH83	Larkfield	gwent
+MH84	St Christophers	gwent
+MH85	Thornwell	gwent
+MH86	Shirenewton	gwent
+MH87	St Arvans	gwent
+MH88	Devauden	gwent
+MM81	Drybridge	gwent
+MM82	Dixton With Osbaston	gwent
+MM83	Wyesham	gwent
+MM84	Overmonnow	gwent
+MM85	Trellech United	gwent
+MM87	Raglan	gwent
+MM88	Usk	gwent
+MM89	Llangybi Fawr	gwent
+MM90	Llanbadoc	gwent
+MM91	Goytre Fawr	gwent
+MM92	Mitchel Troy	gwent
+MM93	Llantilio Crossenny	gwent
+NA81	Alway	gwent
+NA82	Ringland	gwent
+NA86	Lliswerry	gwent
+NB81	Bettws	gwent
+NB82	Malpas	gwent
+NB83	Rogerstone	gwent
+NB84	Graig	gwent
+NB85	Allt-Yr-Yn	gwent
+NB86	Shaftesbury	gwent
+NC81	Stow Hill	gwent
+NL81	Pill	gwent
+NL82	Tredegar Park	gwent
+NL83	Marshfield	gwent
+NL84	Gaer	gwent
+NM81	Victoria	gwent
+NM82	St Julians	gwent
+NM83	Beechwood	gwent
+NM85	Caerleon	gwent
+NM86	Langstone	gwent
+NM87	Llanwern	gwent
+TC81	Llantarnam	gwent
+TC82	Llanyravon South	gwent
+TC83	Llanyravon North	gwent
+TC84	Croesyceiliog South	gwent
+TC85	Croesyceiliog North	gwent
+TC86	Pontnewydd	gwent
+TC87	Upper Cwmbran	gwent
+TC88	St Dials	gwent
+TC89	Greenmeadow	gwent
+TC90	Fairwater	gwent
+TC91	Coed Eva	gwent
+TC92	Two Locks	gwent
+TP81	Pontypool	gwent
+TP82	Brynwern	gwent
+TP83	Wainfelin	gwent
+TP84	Pontnewynydd	gwent
+TP85	Snatchwood	gwent
+TP86	Abersychan	gwent
+TP87	Blaenavon	gwent
+TP88	Trevethin	gwent
+TP89	St Cadoc & Penygarn	gwent
+TP90	Cwmynyscoy	gwent
+TP91	Panteg	gwent
+TP92	New Inn	gwent
+10EE01	Eastleigh Central	hampshire
+10EE02	Eastleigh East	hampshire
+10EE03	Eastleigh West	hampshire
+10EH01	Hedge End South	hampshire
+10EH02	Hedge End North	hampshire
+11TA01	Andover Town	hampshire
+11TA02	Andover North	hampshire
+11TA03	Andover South	hampshire
+11TA04	Andover East	hampshire
+11TR01	Romsey Town	hampshire
+11TR02	Romsey North	hampshire
+11TR03	Romsey East	hampshire
+12BB01	Basingstoke South	hampshire
+12BB02	Basingstoke Centre	hampshire
+12BB03	Basingstoke North	hampshire
+12BB04	Basingstoke West	hampshire
+12BB05	Basingstoke East	hampshire
+12BL01	Basingstoke Rural South	hampshire
+12BL02	Basingstoke Rural East	hampshire
+12BL03	Basingstoke Rural West	hampshire
+13HN01	Yateley Blackwater and Hawley	hampshire
+13HN02	Hart Rural North	hampshire
+13HS01	Fleet	hampshire
+13HS02	Hart Rural South	hampshire
+14RA01	Aldershot North	hampshire
+14RA02	Aldershot South	hampshire
+14RF01	Farnborough Central	hampshire
+14RF02	Farnborough North	hampshire
+14RF03	Farnborough West	hampshire
+14RF04	Farnborough South	hampshire
+1NE01	Hythe	hampshire
+1NE02	Totton	hampshire
+1NE03	New Forest Heart	hampshire
+1NW01	Ringwood	hampshire
+1NW02	Lymington	hampshire
+1NW03	New Milton	hampshire
+2SC01	Bevois	hampshire
+2SC02	Bargate	hampshire
+2SE01	Sholing and Bitterne	hampshire
+2SE02	Peartree and Woolston	hampshire
+2SN01	Portswood	hampshire
+2SN02	Bitterne North	hampshire
+2SW01	Shirley and Freemantle	hampshire
+2SW02	Coxford Redbridge Millbrook	hampshire
+3FF01	Portchester	hampshire
+3FF02	Fareham	hampshire
+3FP01	Crofton and Titchfield	hampshire
+3FP02	Western Wards	hampshire
+4GG01	Gosport East	hampshire
+4GG02	Gosport Central	hampshire
+4GG03	Gosport West	hampshire
+4GG04	Lee	hampshire
+5PC01	Charles Dickens and Nelson	hampshire
+5PC02	Fratton and Baffins	hampshire
+5PN01	Cosham	hampshire
+5PN02	Paulsgrove	hampshire
+5PN03	Hilsea and Copnor	hampshire
+5PS01	St Thomas	hampshire
+5PS02	Central Southsea and St Jude	hampshire
+5PS03	Eastney and Milton	hampshire
+6LE01	East Cowes and Wootton	hampshire
+6LE02	Ryde	hampshire
+6LE03	Wight Rural East	hampshire
+6LS01	Sandown and Lake	hampshire
+6LS02	Shanklin and Ventnor	hampshire
+6LS03	Wight Rural South	hampshire
+6LW01	Cowes	hampshire
+6LW02	Newport	hampshire
+6LW03	Wight Rural West	hampshire
+7JH01	Havant and Emsworth	hampshire
+7JH02	Barncroft and Bedhampton	hampshire
+7JH03	Battins and West Leigh	hampshire
+7JL01	Hayling Island	hampshire
+7JW01	Waterlooville South	hampshire
+7JW02	Waterlooville North	hampshire
+8OL01	Alton	hampshire
+8OL02	Alton Rural	hampshire
+8OL03	Four Marks and Ropley	hampshire
+8OP01	Horndean	hampshire
+8OP02	Butser Clanfield Rowlands Castle	hampshire
+8OP03	Petersfield	hampshire
+8OW01	Longmoor Rural	hampshire
+8OW02	Bordon	hampshire
+8OW03	Liss	hampshire
+9WC01	Winchester North	hampshire
+9WC02	Winchester Central	hampshire
+9WC03	Winchester South	hampshire
+9WG01	Owslebury and Curdridge	hampshire
+9WG02	Bishops Waltham and Soberton	hampshire
+9WG03	Wickham and Whiteley	hampshire
+9WG04	West Meon and Hambledon	hampshire
+9WG05	Denmead and Southwick	hampshire
+9WR01	Winchester Rural West	hampshire
+9WR02	Winchester Rural North	hampshire
+9WR03	Winchester Rural East	hampshire
+A01	East Herts Rural	hertfordshire
+A02	Bishops Stortford and Sawbridgeworth	hertfordshire
+A03	Ware	hertfordshire
+A04	Hertford	hertfordshire
+B01	Welwyn Hatfield North	hertfordshire
+B02	Welwyn Hatfield South	hertfordshire
+B03	Welwyn Hatfield West	hertfordshire
+C01	Abbots Langley	hertfordshire
+C02	Rickmansworth and District	hertfordshire
+C03	Oxhey	hertfordshire
+C04	Watford North	hertfordshire
+C05	Watford Central	hertfordshire
+C06	Watford Outer	hertfordshire
+D01	Berkhamsted and Tring	hertfordshire
+D02	Hemel Hempstead North Rural, West and Central	hertfordshire
+D03	Hemel Hempstead East	hertfordshire
+D04	Kings Langley and Hemel Hempstead South	hertfordshire
+E01	Stevenage North	hertfordshire
+E02	Stevenage Central	hertfordshire
+E03	Stevenage South	hertfordshire
+F01	Harpenden and Rural	hertfordshire
+F02	St Albans Central, North and West	hertfordshire
+F03	London Colney, St Stephens and St Albans East	hertfordshire
+G01	Royston and Royston Rural	hertfordshire
+G02	Letchworth and Baldock Town	hertfordshire
+G03	Hitchin Urban	hertfordshire
+G04	Hitchin Rural	hertfordshire
+J01	Bushey and Radlett	hertfordshire
+J02	Borehamwood and Elstree	hertfordshire
+J03	Potters Bar and Shenley	hertfordshire
+K01	Hoddesdon	hertfordshire
+K02	Cheshunt East	hertfordshire
+K03	Cheshunt West	hertfordshire
+1	Immingham	humberside
+10	Brumby	humberside
+11	Frodingham	humberside
+12	Kingsway with Lincoln Gardens	humberside
+13	Barton	humberside
+14	Burton upon Stather and Winterton	humberside
+15	Ferry	humberside
+16	Broughton and Appleby	humberside
+17	Brigg and Wolds	humberside
+18	Ridge	humberside
+19	Axholme North	humberside
+2	West Marsh	humberside
+20	Axholme Central	humberside
+21	Axholme South	humberside
+22	Driffield and Rural	humberside
+23	East Wolds and Coastal	humberside
+24	Minster and Woodmansey	humberside
+25	St Mary's	humberside
+26	Bridlington Central and Old Town	humberside
+27	Bridlington North	humberside
+28	Bridlington South	humberside
+29	Cottingham North	humberside
+30	Cottingham South	humberside
+31	Dale	humberside
+32	Hessle	humberside
+33	South Hunsley	humberside
+34	Tranby	humberside
+35	Willerby and Kirkella	humberside
+36	Howdenshire	humberside
+37	Howden	humberside
+38	Pocklington	humberside
+39	Snaith and Marshlands	humberside
+4	Beverley Rural	humberside
+40	Goole North	humberside
+41	Goole South	humberside
+42	Wolds Weighton	humberside
+43	Mid Holderness	humberside
+44	South East Holderness	humberside
+45	South West Holderness	humberside
+46	St Andrew's	humberside
+47	Newington	humberside
+48	Myton	humberside
+5	Burringham and Gunness	humberside
+50	Drypool	humberside
+51	Ings	humberside
+52	Longhill	humberside
+53	Sutton	humberside
+54	Holderness	humberside
+55	Southcoates West	humberside
+56	Southcoates East	humberside
+57	Marfleet	humberside
+58	Bransholme East	humberside
+59	Bransholme West	humberside
+6	Crosby and Park	humberside
+60	Kings Park	humberside
+61	Beverley	humberside
+62	University	humberside
+63	Orchard Park and Greenwood	humberside
+64	Boothferry	humberside
+65	Derringham	humberside
+66	Pickering	humberside
+67	Avenue	humberside
+68	Bricknell	humberside
+69	Newland	humberside
+7	Town	humberside
+70	Scartho	humberside
+71	Waltham	humberside
+72	Wolds	humberside
+73	South	humberside
+74	Park	humberside
+75	Yarborough	humberside
+76	Freshney	humberside
+77	Hainton & Heneage	humberside
+78	East Marsh	humberside
+79	Sidney Sussex	humberside
+8	Ashby	humberside
+80	Croft Baker	humberside
+81	Haverstoe	humberside
+82	New Waltham and Humberston	humberside
+83	North Holderness	humberside
+9	Bottesford	humberside
+1	Medway - Chatham Central	kent
+10	Medway - Rainham Central	kent
+100	Ashford - Tenterden North	kent
+101	Ashford - Tenterden South	kent
+102	Ashford - Victoria	kent
+103	Ashford - Washford	kent
+104	Ashford - Weald Central	kent
+105	Ashford - Weald East	kent
+106	Ashford - Weald North	kent
+107	Ashford - Weald South	kent
+108	Ashford - Wye	kent
+109	Dover - Aylesham	kent
+11	Medway - Rainham North	kent
+110	Dover - Buckland	kent
+111	Dover - Capel-le-Ferne	kent
+112	Dover - Castle	kent
+113	Dover - Eastry	kent
+114	Dover - Eythorne and Shepherdswell	kent
+115	Dover - Little Stour and Ashstone	kent
+116	Dover - Lydden and Temple Ewell	kent
+117	Dover - Maxton, Elms Vale and Priory	kent
+118	Dover - Middle Deal and Sholden	kent
+119	Dover - Mill Hill	kent
+12	Medway - Rainham South	kent
+120	Dover - North Deal	kent
+121	Dover - Ringwould	kent
+122	Dover - River	kent
+123	Dover - St. Margaret's-at-Cliffe	kent
+124	Dover - St. Radigunds	kent
+125	Dover - Sandwich	kent
+126	Dover - Tower Hamlets	kent
+127	Dover - Town and Pier	kent
+128	Dover - Walmer	kent
+129	Dover - Whitfield	kent
+13	Medway - River	kent
+130	Shepway - Dymchurch and St. Mary's Bay	kent
+131	Shepway - Elham and Stelling Minnis	kent
+132	Shepway - Folkestone Cheriton	kent
+133	Shepway - Folkestone East	kent
+134	Shepway - Folkestone Foord	kent
+135	Shepway - Folkestone Harbour	kent
+136	Shepway - Folkestone Harvey Central	kent
+137	Shepway - Folkestone Harvey West	kent
+138	Shepway - Folkestone Morehall	kent
+139	Shepway - Folkestone Park	kent
+14	Medway - Rochester East	kent
+140	Shepway - Folkestone Sandgate	kent
+141	Shepway - Hythe Central	kent
+142	Shepway - Hythe East	kent
+143	Shepway - Hythe West	kent
+144	Shepway - Lydd	kent
+145	Shepway - Lympne and Stanford	kent
+146	Shepway - New Romney Coast	kent
+147	Shepway - New Romney Town	kent
+148	Shepway - North Downs East	kent
+149	Shepway - North Downs West	kent
+149473	Gravesham - Pelham	kent
+15	Medway - Rochester South and Horsted	kent
+150	Shepway - Romney Marsh	kent
+151	Shepway - Tolsford	kent
+152	Dartford - Bean and Darenth	kent
+153	Dartford - Brent	kent
+154	Dartford - Castle	kent
+155	Dartford - Greenhithe	kent
+156	Dartford - Heath	kent
+157	Dartford - Joyce Green	kent
+158	Dartford - Joydens Wood	kent
+159	Dartford - Littlebrook	kent
+16	Medway - Rochester West	kent
+160	Dartford - Longfield, New Barn and Southfleet	kent
+161	Dartford - Newtown	kent
+162	Dartford - Princes	kent
+163	Dartford - Stone	kent
+164	Dartford - Sutton-at-Hone and Hawley	kent
+165	Dartford - Swanscombe	kent
+166	Dartford - Town	kent
+167	Dartford - West Hill	kent
+168	Dartford - Wilmington	kent
+169	Gravesham - Central	kent
+17	Medway - Strood North	kent
+170	Gravesham - Chalk	kent
+171	Gravesham - Coldharbour	kent
+172	Gravesham - Higham	kent
+173	Gravesham - Istead Rise	kent
+174	Gravesham - Meopham North	kent
+175	Gravesham - Meopham South and Vigo	kent
+176	Gravesham - Northfleet North	kent
+177	Gravesham - Northfleet South	kent
+178	Gravesham - Painters Ash	kent
+179	Gravesham - Pelham	kent
+18	Medway - Strood Rural	kent
+180	Gravesham - Riverside	kent
+181	Gravesham - Riverview	kent
+182	Gravesham - Shorne, Cobham and Luddesdown	kent
+183	Gravesham - Singlewell	kent
+184	Gravesham - Westcourt	kent
+185	Gravesham - Whitehill	kent
+186	Gravesham - Woodlands	kent
+187	Gravesham - Central	kent
+189	Sevenoaks - Ash	kent
+19	Medway - Strood South	kent
+191	Sevenoaks - Cowden and Hever	kent
+192	Sevenoaks - Crockenhill and Well Hill	kent
+193	Sevenoaks - Dunton Green and Riverhead	kent
+194	Sevenoaks - Edenbridge North and East	kent
+195	Sevenoaks - Edenbridge South and West	kent
+196	Sevenoaks - Eynsford	kent
+197	Sevenoaks - Farningham, Horton Kirby and South Darenth	kent
+198	Sevenoaks - Fawkham and West Kingsdown	kent
+199	Sevenoaks - Halstead, Knockholt and Badgers Mount	kent
+2	Medway - Cuxton and Halling	kent
+20	Medway - Twydall	kent
+200	Sevenoaks - Hartley and Hodsoll Street	kent
+202	Sevenoaks - Kemsing	kent
+203	Sevenoaks - Leigh and Chiddingstone Causeway	kent
+204	Sevenoaks - Otford and Shoreham	kent
+205	Sevenoaks - Penshurst, Fordcombe and Chiddingstone	kent
+206	Sevenoaks - Seal and Weald	kent
+207	Sevenoaks - Sevenoaks Eastern	kent
+208	Sevenoaks - Sevenoaks Kippington	kent
+209	Sevenoaks - Sevenoaks Northern	kent
+21	Medway - Walderslade	kent
+210	Sevenoaks - Sevenoaks Town and St. John's	kent
+214	Sevenoaks - Westerham and Crockham Hill	kent
+215	Tonbridge and Malling - Aylesford	kent
+216	Tonbridge and Malling - Blue Bell Hill and Walderslade	kent
+217	Tonbridge and Malling - Borough Green and Long Mill	kent
+218	Tonbridge and Malling - Burham, Eccles and Wouldham	kent
+219	Tonbridge and Malling - Cage Green	kent
+22	Medway - Watling	kent
+220	Tonbridge and Malling - Castle	kent
+221	Tonbridge and Malling - Ditton	kent
+22162	Sevenoaks - Brasted, Chevening and Sundridge	kent
+222	Tonbridge and Malling - Downs	kent
+223	Tonbridge and Malling - East Malling	kent
+224	Tonbridge and Malling - East Peckham and Golden Green	kent
+225	Tonbridge and Malling - Hadlow, Mereworth and West Peckham	kent
+226	Tonbridge and Malling - Higham	kent
+227	Tonbridge and Malling - Hildenborough	kent
+228	Tonbridge and Malling - Ightham	kent
+229	Tonbridge and Malling - Judd	kent
+23	Swale - Abbey	kent
+231	Tonbridge and Malling - Larkfield North	kent
+232	Tonbridge and Malling - Larkfield South	kent
+233	Tonbridge and Malling - Medway	kent
+234	Tonbridge and Malling - Snodland East	kent
+235	Tonbridge and Malling - Snodland West	kent
+236	Tonbridge and Malling - Trench	kent
+237	Tonbridge and Malling - Vauxhall	kent
+239	Tonbridge and Malling - West Malling and Leybourne	kent
+24	Swale - Boughton and Courtenay	kent
+240	Tonbridge and Malling - Wrotham	kent
+241	Tunbridge Wells - Benenden and Cranbrook	kent
+242	Tunbridge Wells - Brenchley and Horsmonden	kent
+243	Tunbridge Wells - Broadwater	kent
+244	Tunbridge Wells - Capel	kent
+245	Tunbridge Wells - Culverden	kent
+246	Tunbridge Wells - Frittenden and Sissinghurst	kent
+247	Tunbridge Wells - Goudhurst and Lamberhurst	kent
+248	Tunbridge Wells - Hawkhurst and Sandhurst	kent
+249	Tunbridge Wells - Paddock Wood East	kent
+25	Swale - Davington Priory	kent
+250	Tunbridge Wells - Paddock Wood West	kent
+251	Tunbridge Wells - Pantiles and St. Mark's	kent
+252	Tunbridge Wells - Park	kent
+253	Tunbridge Wells - Pembury	kent
+254	Tunbridge Wells - Rusthall	kent
+255	Tunbridge Wells - St. James'	kent
+256	Tunbridge Wells - St. John's	kent
+257	Tunbridge Wells - Sherwood	kent
+258	Tunbridge Wells - Southborough and High Brooms	kent
+259	Tunbridge Wells - Southborough North	kent
+26	Swale - East Downs	kent
+260	Tunbridge Wells - Speldhurst and Bidborough	kent
+261	Canterbury - Barham Downs	kent
+262	Canterbury - Barton	kent
+263	Canterbury - Blean Forest	kent
+264	Canterbury - Chartham and Stone Street	kent
+265	Canterbury - Chestfield and Swalecliffe	kent
+266	Canterbury - Gorrell	kent
+267	Canterbury - Greenhill and Eddington	kent
+268	Canterbury - Harbledown	kent
+269	Canterbury - Harbour	kent
+27	Swale - St. Ann's	kent
+270	Canterbury - Herne and Broomfield	kent
+271	Canterbury - Heron	kent
+272	Canterbury - Little Stour	kent
+273	Canterbury - Marshside	kent
+274	Canterbury - North Nailbourne	kent
+275	Canterbury - Northgate	kent
+276	Canterbury - Reculver	kent
+277	Canterbury - St. Stephens	kent
+278	Canterbury - Seasalter	kent
+279	Canterbury - Sturry North	kent
+28	Swale - Teynham and Lynsted	kent
+280	Canterbury - Sturry South	kent
+281	Canterbury - Tankerton	kent
+282	Canterbury - West Bay	kent
+283	Canterbury - Westgate	kent
+284	Canterbury - Wincheap	kent
+28421	Tonbridge and Malling - Wateringbury	kent
+28422	Tonbridge and Malling - Kings Hill	kent
+285	Thanet - Beacon	kent
+286	Thanet - Birchington North	kent
+287	Thanet - Birchington South	kent
+288	Thanet - Bradstowe	kent
+289	Thanet - Central Harbour	kent
+29	Swale - Watling	kent
+290	Thanet - Cliffsend and Pegwell	kent
+291	Thanet - Cliftonville East	kent
+293	Thanet - Dane Valley	kent
+294	Thanet - Eastcliff	kent
+295	Thanet - Garlinge	kent
+296	Thanet - Kingsgate	kent
+298	Thanet - Nethercourt	kent
+299	Thanet - Newington	kent
+30	Swale - Leysdown and Warden	kent
+300	Thanet - Northwood	kent
+301	Thanet - St. Peters	kent
+302	Thanet - Salmestone	kent
+303	Thanet - Sir Moses Montefiore	kent
+305	Thanet - Viking	kent
+306	Thanet - Westbrook	kent
+307	Thanet - Westgate-on-Sea	kent
+31	Swale - Minster Cliffs	kent
+32	Swale - Queenborough and Halfway	kent
+33	Swale - Sheerness East	kent
+34	Swale - Sheerness West	kent
+35	Swale - Sheppey Central	kent
+36	Maidstone - Barming	kent
+365118	Thanet - Thanet Villages	kent
+368390	Medway - Gillingham North	kent
+368634	Thanet - Cliftonville West	kent
+368635	Thanet - Margate Central	kent
+37	Maidstone - Bearsted	kent
+38	Maidstone - Boughton Monchelsea and Chart Sutton	kent
+39	Maidstone - Boxley	kent
+4	Medway - Gillingham South	kent
+40	Maidstone - Coxheath and Hunton	kent
+40700	Sevenoaks - Hextable	kent
+40701	Sevenoaks - Swanley Christchurch and Swanley Village	kent
+40702	Sevenoaks - Swanley St. Mary's	kent
+40703	Sevenoaks - Swanley White Oak	kent
+41	Maidstone - Detling and Thurnham	kent
+42	Maidstone - Downswood and Otham	kent
+43	Maidstone - East	kent
+44	Maidstone - Harrietsham and Lenham	kent
+45	Maidstone - Headcorn	kent
+46	Maidstone - Leeds	kent
+47	Maidstone - Loose	kent
+48	Maidstone - Marden and Yalding	kent
+49	Maidstone - North	kent
+5	Medway - Hempstead and Wigmore	kent
+50	Maidstone - North Downs	kent
+51	Maidstone - Staplehurst	kent
+52	Maidstone - Sutton Valence and Langley	kent
+53	Maidstone - Allington	kent
+54	Maidstone - Bridge	kent
+55	Maidstone - Fant	kent
+56	Maidstone - Heath	kent
+56202	Dartford - Bluewater	kent
+57	Maidstone - High Street	kent
+58	Maidstone - Park Wood	kent
+59	Maidstone - Shepway North	kent
+6	Medway - Lordswood and Capstone	kent
+60	Maidstone - Shepway South	kent
+61	Maidstone - South	kent
+62	Swale - Borden	kent
+63	Swale - Chalkwell	kent
+64	Swale - Grove	kent
+65	Swale - Hartlip, Newington and Upchurch	kent
+66	Swale - Iwade and Lower Halstow	kent
+67	Swale - Kemsley	kent
+68	Swale - Milton Regis	kent
+69	Swale - Murston	kent
+7	Medway - Luton and Wayfield	kent
+70	Swale - Roman	kent
+71	Swale - St. Michaels	kent
+72	Swale - West Downs	kent
+73	Swale - Woodstock	kent
+74	Ashford - Aylesford Green	kent
+75	Ashford - Beaver	kent
+76	Ashford - Biddenden	kent
+77	Ashford - Bockhanger	kent
+78	Ashford - Boughton Aluph and Eastwell	kent
+79	Ashford - Bybrook	kent
+8	Medway - Peninsula	kent
+80	Ashford - Charing	kent
+81	Ashford - Downs North	kent
+82	Ashford - Downs West	kent
+83	Ashford - Godinton	kent
+84	Ashford - Great Chart With Singleton North	kent
+85	Ashford - Highfield	kent
+86	Ashford - Isle of Oxney	kent
+87	Ashford - Kennington	kent
+88	Ashford - Little Burton Farm	kent
+89	Ashford - Norman	kent
+9	Medway - Princes Park	kent
+90	Ashford - North Willesborough	kent
+91	Ashford - Park Farm North	kent
+92	Ashford - Park Farm South	kent
+93	Ashford - Rolvenden and Tenterden West	kent
+94	Ashford - St. Michaels	kent
+95	Ashford - Saxon Shore	kent
+96	Ashford - Singleton South	kent
+97	Ashford - South Willesborough	kent
+98	Ashford - Stanhope	kent
+99	Ashford - Stour	kent
+A1	Ashton St Annes	lancashire
+A10	Squiresgate, Highfield & Stanley	lancashire
+A11	Waterloo	lancashire
+A12	Victoria	lancashire
+A13	Clifton	lancashire
+A14	Marton	lancashire
+A15	Hawes Side	lancashire
+A16	Blackpool Town Centre	lancashire
+A17	Tyldesley	lancashire
+A18	Talbot	lancashire
+A19	Claremont	lancashire
+A2	Ansdell & Fairhaven	lancashire
+A20	Brunswick	lancashire
+A21	Bryning with Warton & Westby	lancashire
+A22	Freckleton	lancashire
+A23	Kirkham	lancashire
+A24	Newton and Treales	lancashire
+A25	Elswick, Little Eccleston, Singleton & Greenalgh	lancashire
+A26	Staining and Weeton	lancashire
+A27	Medlar with Wesham	lancashire
+A28	Wrea Green	lancashire
+A29	Layton with Park	lancashire
+A3	Central St Annes	lancashire
+A30	Anchorsholme and Norbreck	lancashire
+A31	Bispham	lancashire
+A32	Ingthorpe	lancashire
+A33	Greenlands Blackpool	lancashire
+A34	Warbreck	lancashire
+A4	Heyhouses	lancashire
+A5	Kilnhouse	lancashire
+A6	Clifton, Park, St Johns, Lytham	lancashire
+A7	St Leonards	lancashire
+A8	Bloomfield 1	lancashire
+A9	Bloomfield 2 & 3	lancashire
+B1	Castle and Marsh	lancashire
+B10	Lancaster University	lancashire
+B11	Ellel, Galgate and Cockerham	lancashire
+B12	Lower Lune Valley and Caton	lancashire
+B13	Heysham South	lancashire
+B14	Overton & Middleton	lancashire
+B15	Heysham North	lancashire
+B16	Heysham Central	lancashire
+B17	Harbour	lancashire
+B18	Poulton in Morecambe	lancashire
+B19	Westgate	lancashire
+B2	The Vale	lancashire
+B20	Torrisholme & Bare	lancashire
+B21	Carnforth	lancashire
+B22	Bolton le Sands	lancashire
+B23	Silverdale	lancashire
+B24	Warton (Carnforth)	lancashire
+B25	Halton with Aughton	lancashire
+B26	Slyne with Hest	lancashire
+B27	Kellet and Borwick	lancashire
+B28	Upper Lune Valley	lancashire
+B29	Poulton le Fylde	lancashire
+B3	Skerton East	lancashire
+B30	Bourne	lancashire
+B31	Jubilee	lancashire
+B32	Victoria - Wyre	lancashire
+B33	Cleveleys Park	lancashire
+B34	Staina	lancashire
+B35	Norcross	lancashire
+B36	Warren	lancashire
+B37	Rossall	lancashire
+B38	Mount	lancashire
+B39	Pharos	lancashire
+B4	Skerton West and Ryelands	lancashire
+B40	Park	lancashire
+B41	Wyresdale - Forton / Scorton / Winmarleigh / Oakenclough	lancashire
+B42	Garstang and Calder Vale	lancashire
+B43	Cabus	lancashire
+B44	Catterall & Church Town	lancashire
+B45	Brock, Bilsborrow and Myerscough College	lancashire
+B46	Great Eccleston and Inskip	lancashire
+B47	Over Wyre, Preesall, Pilling, Hambleton & Stalmine	lancashire
+B5	John O'Gaunt and Bowerham	lancashire
+B6	Scotforth East and Hala	lancashire
+B7	Scotforth West	lancashire
+B8	Bulk  & Ridge	lancashire
+B9	Dukes	lancashire
+C1	Chorley East	lancashire
+C10	Chorley Rural East	lancashire
+C11	Clayton le Woods & Clayton Green	lancashire
+C12	Whittle le Woods	lancashire
+C13	Clayton le Woods North	lancashire
+C14	Earnshaw Bridge & Golden Hill	lancashire
+C15	Moss Side & Seven Stars	lancashire
+C16	Leyland Central & St Ambrose	lancashire
+C17	Farington	lancashire
+C18	Lowerhouse	lancashire
+C19	Leyland St Marys	lancashire
+C2	Chorley North East	lancashire
+C20	Kingsfold & Middleforth	lancashire
+C21	Little Hoole & Much Hoole / Longton & Hutton West / New Longton & Hutton East	lancashire
+C22	Broadoak, Whitefield, Howick & Priory	lancashire
+C23	Lostock Hall, Tardygate & Charnock	lancashire
+C24	Coupe Green, Gregson Lane, Samlesbury, Walton	lancashire
+C25	Bamber Bridge North/East/West and Walton le Dale	lancashire
+C26	Adlington	lancashire
+C27	Coppull	lancashire
+C28	Chorley Rural West - Mawdesley	lancashire
+C29	Chorley Rural West - Croston, Ulnes Walton, Bretherton	lancashire
+C3	Chorley South East	lancashire
+C30	Derby & Ormskirk Town Centre	lancashire
+C31	Scott	lancashire
+C32	Knowsley	lancashire
+C33	Scarisbrick	lancashire
+C34	Burscough	lancashire
+C35	Rufford	lancashire
+C36	Tarleton	lancashire
+C37	Southern Parishes	lancashire
+C38	Skelmersdale South	lancashire
+C39	Skelmersdale North & Ashurst	lancashire
+C4	Chorley South West	lancashire
+C40	Skelmersdale Rural	lancashire
+C41	Upholland	lancashire
+C42	Birchgreen	lancashire
+C43	Moorside	lancashire
+C44	Digmoor	lancashire
+C45	Tanhouse	lancashire
+C46	Banks & Hesketh	lancashire
+C47	Chorley Rural West - Eccleston, Heskin, Charnock Richard & Chisnall	lancashire
+C5	Chorley Town Centre	lancashire
+C6	Chorley North West	lancashire
+C7	Euxton	lancashire
+C8	Astley Village	lancashire
+C9	Buckshaw Village	lancashire
+D1	Avenham & Frenchwood	lancashire
+D10	Brookfield & Greenlands	lancashire
+D11	Grange	lancashire
+D12	College & Moorpark	lancashire
+D13	Garrison	lancashire
+D14	Sharoe Green	lancashire
+D15	Fishwick and Callon	lancashire
+D16	St Matthews	lancashire
+D17	Deepdale	lancashire
+D18	Cadley, Greyfriars & Tulketh	lancashire
+D19	Larches & Savick	lancashire
+D2	University (Preston)	lancashire
+D20	Plungington	lancashire
+D21	Ingol and Tanterton	lancashire
+D22	Ashton and Docks	lancashire
+D23	Lea & Cottam	lancashire
+D3	Preston City Centre	lancashire
+D4	Broadgate	lancashire
+D5	St Georges	lancashire
+D6	Rural North (Woodplumpton, Broughton, Barton, Goosnargh)	lancashire
+D7	Grimsargh	lancashire
+D8	Trees	lancashire
+D9	Moor Nook	lancashire
+E1	Shear Brow	lancashire
+E10	Whitebirk	lancashire
+E11	Queens Park	lancashire
+E12	Audley	lancashire
+E13	Highercroft	lancashire
+E14	Mill Hill, Galligreaves & Griffin	lancashire
+E15	Galligreaves	lancashire
+E16	Ewood	lancashire
+E17	Infirmary	lancashire
+E18	Fernhurst	lancashire
+E19	Meadowhead	lancashire
+E2	Little Harwood	lancashire
+E20	Livesey and Pleasington	lancashire
+E21	Sudell & Earcroft	lancashire
+E22	North Turton with Tockholes & East Rural	lancashire
+E23	Marsh House & Whitehall	lancashire
+E24	Darwen Town Centre & Sunnyhurst	lancashire
+E25	Church with Milnshaw	lancashire
+E26	Accrington Town Centre	lancashire
+E27	Baxenden	lancashire
+E28	Peel, Barnfield & Woodnook	lancashire
+E29	Central & Springhill	lancashire
+E3	Bastwell	lancashire
+E30	Netherton & Overton	lancashire
+E31	Rishton	lancashire
+E32	Oswaldtwistle & Knuzden	lancashire
+E33	Altham & Clayton le Moors	lancashire
+E34	Huncoat	lancashire
+E35	Clitheroe West, Edisford, Low Moor, Little Moor, Primrose	lancashire
+E36	Clitheroe East, Salthill & St Mary's	lancashire
+E37	Whalley	lancashire
+E38	Read, Simonstone, Sabden, Wiswell & Pendleton	lancashire
+E39	Ribble Valley Rurals incl Bowland, Newton, Slaidburn, Waddington, West Bradford, Gisburn, Rimmington, Chatburn	lancashire
+E4	Roe Lee	lancashire
+E40	Chipping & Longridge	lancashire
+E41	Ribchester, Alston & Hothersall	lancashire
+E42	Mellor, Clayton le Dale with Ramsgreave & Wilpshire	lancashire
+E43	Langho, Billington, Old Langho, Aighton, Bailey & Chaigley	lancashire
+E5	Blackburn Town Ctr	lancashire
+E6	Wensley Fold	lancashire
+E7	Corporation Park & Revidge	lancashire
+E8	Lammack & Beardwood	lancashire
+E9	Shadsworth	lancashire
+F1	Bank Hall	lancashire
+F10	Cloverhill & Walverden	lancashire
+F11	Coalclough with Deerplay	lancashire
+F12	Barnoldswick North (Coates)	lancashire
+F13	Barnoldswick South & Rural (Craven)	lancashire
+F14	Cribden & Goodshaw	lancashire
+F15	Daneshouse with Stoneyholme	lancashire
+F16	Earby	lancashire
+F17	Eden	lancashire
+F18	Whitworth (Shawforth, Facit and Healey)	lancashire
+F19	Foulridge	lancashire
+F2	Barrowford, Blacko, Higherford, Higham, Pendleside & Old Laund Booth	lancashire
+F20	Gannow	lancashire
+F21	Gawthorpe	lancashire
+F22	Greenfield	lancashire
+F23	Greensclough	lancashire
+F24	Hapton with Park	lancashire
+F25	Hareholme	lancashire
+F26	Helmshore	lancashire
+F27	Horsfield	lancashire
+F28	Irwell	lancashire
+F29	Lanehead	lancashire
+F3	Boulsworth	lancashire
+F30	Longholme	lancashire
+F31	Marsden & Southfield	lancashire
+F32	Whitefield and Nelson Town Centre	lancashire
+F33	Queensgate	lancashire
+F34	Rosehill with Burnleywood	lancashire
+F35	Rosegrove with Lowerhouse	lancashire
+F36	Stacksteads	lancashire
+F37	Trinity	lancashire
+F38	Vivary Bridge	lancashire
+F39	Waterside	lancashire
+F4	Bradley	lancashire
+F40	Whitewell	lancashire
+F41	Whittlefield with Ightenhill	lancashire
+F42	Worsley (Haslingden)	lancashire
+F5	Briercliffe	lancashire
+F6	Brierfield & Reedley	lancashire
+F7	Brunshaw	lancashire
+F8	Burnley Town Centre	lancashire
+F9	Cliviger and Worsthorne	lancashire
+NC04	City Centre	leicestershire
+NC66	Cultural Quarter	leicestershire
+NC67	Riverside	leicestershire
+NC68	Clarendon Park	leicestershire
+NE09	Belgrave South	leicestershire
+NE10	Belgrave North	leicestershire
+NE11	Rushey Mead	leicestershire
+NE12	Humberstone	leicestershire
+NE13	Northfields, Tailby and Morton	leicestershire
+NE14	Thurncourt	leicestershire
+NE15	Stoneygate	leicestershire
+NE16	Spinney Hills	leicestershire
+NE17	Evington	leicestershire
+NE18	Coleman	leicestershire
+NH19	Thorpe Astley and Braunstone Town	leicestershire
+NH20	Enderby, Narborough, Littlethorpe and Fosse Park	leicestershire
+NH21	Blaby, Whetstone, Glen Parva and Cosby	leicestershire
+NH22	Leicester Forest East, Kirby Muxloe and Glenfield	leicestershire
+NH23	Countesthorpe, Foston and Kilby	leicestershire
+NH24	Fosse Villages	leicestershire
+NH25	Hinckley Town Centre	leicestershire
+NH26	Greater Hinckley	leicestershire
+NH27	Earl Shilton and Barwell	leicestershire
+NH28	Burbage	leicestershire
+NH29	Bosworth, Ratby, Groby, Markfield and Stanton	leicestershire
+NL56	Charnwood West	leicestershire
+NL57	Mountsorrel	leicestershire
+NL58	Anstey	leicestershire
+NL59	Charnwood North	leicestershire
+NL60	Birstall	leicestershire
+NL61	Charnwood East	leicestershire
+NL62	Loughborough Central	leicestershire
+NL63	Loughborough South	leicestershire
+NL64	Shepshed Loughborough West	leicestershire
+NL65	Loughborough East	leicestershire
+NN43	Valley	leicestershire
+NN44	Coalville Town	leicestershire
+NN45	Bardon Hill	leicestershire
+NN46	Ashby	leicestershire
+NN47	Forest	leicestershire
+NN48	East Midlands Airport	leicestershire
+NR30	Melton rural south	leicestershire
+NR31	Melton town centre	leicestershire
+NR32	Melton town north	leicestershire
+NR33	Melton town south	leicestershire
+NR34	Melton rural north	leicestershire
+NR35	Oakham Town and Barleythorpe	leicestershire
+NR36	Rutland North	leicestershire
+NR37	Rutland South	leicestershire
+NR38	Uppingham	leicestershire
+NR39	Broughton Astley and Walton	leicestershire
+NR40	Lutterworth	leicestershire
+NR41	Harborough North	leicestershire
+NR42	Harborough and the Bowdens	leicestershire
+NS49	Knighton	leicestershire
+NS50	Freemen	leicestershire
+NS51	Eyres Monsell	leicestershire
+NS52	Aylestone	leicestershire
+NS53	South Wigston	leicestershire
+NS54	Wigston	leicestershire
+NS55	Oadby	leicestershire
+NW01	New Parks	leicestershire
+NW02	Abbey	leicestershire
+NW03	Beaumont Leys	leicestershire
+NW05	Braunstone Park and Rowley Fields	leicestershire
+NW06	Fosse	leicestershire
+NW08	Westcotes	leicestershire
+NC01	Gainsborough Rural North	lincolnshire
+NC02	Gainsborough Town North	lincolnshire
+NC03	Gainsborough Town South	lincolnshire
+NC04	Gainsborough Uphills	lincolnshire
+NC05	Gainsborough Rural South	lincolnshire
+NC06	Welton and Hemswell	lincolnshire
+NC07	Nettleham	lincolnshire
+NC08	Market Rasen	lincolnshire
+NC09	Caistor	lincolnshire
+NC10	Lincoln Minster and Castle	lincolnshire
+NC11	Lincoln Glebe	lincolnshire
+NC12	Lincoln Abbey	lincolnshire
+NC13	Lincoln Carholme	lincolnshire
+NC14	Lincoln City Centre	lincolnshire
+NC15	Lincoln Park Ward	lincolnshire
+NC16	Lincoln Boultham	lincolnshire
+NC17	Lincoln Birchwood	lincolnshire
+NC18	Lincoln Hartsholme	lincolnshire
+NC19	Lincoln Moorland	lincolnshire
+NC20	Lincoln Bracebridge	lincolnshire
+NC21	The Suttons	lincolnshire
+NC22	Holbeach Town and Rural	lincolnshire
+NC23	Spalding Rural East	lincolnshire
+NC24	Spalding Rural North	lincolnshire
+NC25	Spalding Rural South	lincolnshire
+NC26	Spalding Estates	lincolnshire
+NC27	Spalding Town	lincolnshire
+NC28	Boston Rural West	lincolnshire
+NC29	Boston Rural East	lincolnshire
+NC30	Boston Town East	lincolnshire
+NC31	Boston Town West	lincolnshire
+NC32	Boston Town Centre	lincolnshire
+NC33	Hykeham Rural	lincolnshire
+NC34	Hykeham Town	lincolnshire
+NC35	Cliff Villages	lincolnshire
+NC36	Sleaford Rural South	lincolnshire
+NC37	Sleaford Town	lincolnshire
+NC38	Sleaford Rural North	lincolnshire
+NC39	Washingborough and Metheringham	lincolnshire
+NC40	Grantham Rural North	lincolnshire
+NC41	Grantham Rural South	lincolnshire
+NC42	Grantham Town West	lincolnshire
+NC43	Grantham Town East	lincolnshire
+NC44	Grantham Town Centre	lincolnshire
+NC45	Bourne and Billingborough	lincolnshire
+NC46	Stamford Rural	lincolnshire
+NC47	Market Deeping and Uffington	lincolnshire
+NC48	Stamford Town	lincolnshire
+NC49	Wainfleet and Burgh Le Marsh	lincolnshire
+NC50	Skegness	lincolnshire
+NC51	Ingoldmells and Chapel St. Leonards	lincolnshire
+NC52	Alford	lincolnshire
+NC53	Mablethorpe	lincolnshire
+NC54	Louth Rural	lincolnshire
+NC55	Louth Town	lincolnshire
+NC56	Horncastle and Wragby	lincolnshire
+NC57	Spilsby	lincolnshire
+NC58	Woodhall Spa, Coningsby and Tattershall	lincolnshire
+A1A2	Wirral Community Police Team - Hub One	merseyside
+A3A4	Wirral Community Police Team - Hub Two	merseyside
+B1	Sefton Community Police Team - Hub One	merseyside
+B3	Sefton Community Police Team - Hub Two	merseyside
+C1C2C3	Knowsley Community Police Team	merseyside
+D1D2D3	St Helens Community Police Team	merseyside
+E1E3	Liverpool Community Police Team - Hub One	merseyside
+E2E4	Liverpool Community Police Team - Hub Two	merseyside
+E5E6	Liverpool Community Police Team - Hub Three	merseyside
+E7E8E9	Liverpool Community Police Team - Hub Four	merseyside
+00AF03N	Crystal Palace	metropolitan
+00AG02N	Camden Town with Primrose Hill	metropolitan
+00AG03N	Swiss Cottage	metropolitan
+00AG04N	Regent's Park	metropolitan
+00AH01T	Croydon Town Centre	metropolitan
+00AH02N	Crystal Palace Triangle	metropolitan
+00AH03N	Broad Green	metropolitan
+00AH04N	Fairfield	metropolitan
+00AH05N	South Norwood	metropolitan
+00AH06N	Upper Norwood	metropolitan
+00AL02N	Greenwich West	metropolitan
+00AM02N	Hackney Wick	metropolitan
+00AQ01T	Harrow Town Centre	metropolitan
+00AQ02N	Greenhill	metropolitan
+00AS01T	Uxbridge Town Centre	metropolitan
+00AS02T	Hayes Town Centre	metropolitan
+00AS03N	Heathrow Villages	metropolitan
+00AS04N	Uxbridge North	metropolitan
+00AS05N	Uxbridge South	metropolitan
+00AS06N	Townfield	metropolitan
+00AS07N	Botwell	metropolitan
+00AT01T	Hounslow Town Centre	metropolitan
+00AT02N	Hounslow Central	metropolitan
+00AT03N	Hounslow Heath	metropolitan
+00AT04N	Hounslow South	metropolitan
+00AT05N	Hounslow West	metropolitan
+00AU01T	Angel Town Centre	metropolitan
+00AU02N	Barnsbury	metropolitan
+00AU03N	Bunhill	metropolitan
+00AU04N	Clerkenwell	metropolitan
+00AU05N	St Mary's	metropolitan
+00AU06N	St Peter's	metropolitan
+00AU07N	Tollington	metropolitan
+00AW02N	Campden	metropolitan
+00AY02N	Gipsy Hill	metropolitan
+00AZ01T	Lewisham Town Centre	metropolitan
+00AZ02N	Blackheath	metropolitan
+00AZ03N	Lewisham Central	metropolitan
+00AZ04N	Rushey Green	metropolitan
+00BB02N	Queen Elizabeth Olympic Park	metropolitan
+00BB03N	Stratford and New Town	metropolitan
+00BB04N	Westfield Shopping Centre	metropolitan
+00BB05N	Stratford Town Centre	metropolitan
+00BC01T	Ilford Town Centre	metropolitan
+00BC02N	Clementswood	metropolitan
+00BC03N	Cranbrook	metropolitan
+00BC04N	Loxford	metropolitan
+00BC05N	Newbury	metropolitan
+00BC06N	Valentines	metropolitan
+00BD02N	East Sheen	metropolitan
+00BD03N	Fulwell and Hampton Hill	metropolitan
+00BD04N	Ham and Petersham	metropolitan
+00BD05N	Hampton	metropolitan
+00BD06N	Hampton Wick	metropolitan
+00BD07N	South Richmond	metropolitan
+00BD08N	Teddington	metropolitan
+00BE02N	College	metropolitan
+00BG02N	Bow East	metropolitan
+00BJ01T	Tooting Town Centre	metropolitan
+00BJ02N	Graveney	metropolitan
+00BJ03N	Tooting	metropolitan
+00BK03N	Bryanston and Dorset Square	metropolitan
+00BK04N	Cavendish Square and Oxford Market	metropolitan
+00BK05N	Churchill	metropolitan
+00BK06N	Church Street	metropolitan
+00BK07N	Covent Garden	metropolitan
+00BK08N	Hyde Park	metropolitan
+00BK09N	Knightsbridge and Belgravia	metropolitan
+00BK11N	Little Venice	metropolitan
+00BK12N	Marylebone High Street	metropolitan
+00BK13N	Mayfair and St James	metropolitan
+00BK14N	Oxford Street, Regent Street and Bond Street	metropolitan
+00BK15N	Regent's Park	metropolitan
+00BK16N	Soho	metropolitan
+00BK17N	Strand and Whitehall	metropolitan
+00BK18N	Victoria Business Hub	metropolitan
+00BK19N	Vincent Square	metropolitan
+00BK20N	Warwick	metropolitan
+00BK21N	West End and Chinatown	metropolitan
+00BK22N	Impact Zone	metropolitan
+E05000026	Abbey	metropolitan
+E05000027	Alibon	metropolitan
+E05000028	Becontree	metropolitan
+E05000029	Chadwell Heath	metropolitan
+E05000030	Eastbrook	metropolitan
+E05000031	Eastbury	metropolitan
+E05000032	Gascoigne	metropolitan
+E05000033	Goresbrook	metropolitan
+E05000034	Heath	metropolitan
+E05000035	Longbridge	metropolitan
+E05000036	Mayesbrook	metropolitan
+E05000037	Parsloes	metropolitan
+E05000038	River	metropolitan
+E05000039	Thames	metropolitan
+E05000040	Valence	metropolitan
+E05000041	Village	metropolitan
+E05000042	Whalebone	metropolitan
+E05000043	Brunswick Park	metropolitan
+E05000044	Burnt Oak	metropolitan
+E05000045	Childs Hill	metropolitan
+E05000046	Colindale	metropolitan
+E05000047	Coppetts	metropolitan
+E05000048	East Barnet	metropolitan
+E05000049	East Finchley	metropolitan
+E05000050	Edgware	metropolitan
+E05000051	Finchley Church End	metropolitan
+E05000052	Garden Suburb	metropolitan
+E05000053	Golders green	metropolitan
+E05000054	Hale	metropolitan
+E05000055	Hendon	metropolitan
+E05000056	High Barnet	metropolitan
+E05000057	Mill Hill	metropolitan
+E05000058	Oakleigh	metropolitan
+E05000059	Totteridge	metropolitan
+E05000060	Underhill	metropolitan
+E05000061	West Finchley	metropolitan
+E05000062	West Hendon	metropolitan
+E05000063	Woodhouse	metropolitan
+E05000064	Barnehurst	metropolitan
+E05000065	Belvedere	metropolitan
+E05000066	Blackfen and Lamorbey	metropolitan
+E05000067	Blendon and Penhill	metropolitan
+E05000068	Brampton	metropolitan
+E05000069	Christchurch	metropolitan
+E05000070	Colyers	metropolitan
+E05000071	Crayford	metropolitan
+E05000072	Cray Meadows	metropolitan
+E05000073	Danson	metropolitan
+E05000074	East Wickham	metropolitan
+E05000075	Erith	metropolitan
+E05000076	Falconwood and Welling	metropolitan
+E05000077	Lesnes Abbey	metropolitan
+E05000078	Longlands	metropolitan
+E05000079	North End	metropolitan
+E05000080	Northumberland Heath	metropolitan
+E05000081	St Mary's	metropolitan
+E05000082	St Michael's	metropolitan
+E05000083	Sidcup	metropolitan
+E05000084	Thamesmead East	metropolitan
+E05000085	Alperton	metropolitan
+E05000086	Barnhill	metropolitan
+E05000087	Brondesbury Park	metropolitan
+E05000088	Dollis Hill	metropolitan
+E05000089	Dudden Hill	metropolitan
+E05000090	Fryent	metropolitan
+E05000091	Harlesden	metropolitan
+E05000092	Kensal Green	metropolitan
+E05000093	Kenton	metropolitan
+E05000094	Kilburn	metropolitan
+E05000095	Mapesbury	metropolitan
+E05000096	Northwick Park	metropolitan
+E05000097	Preston	metropolitan
+E05000098	Queens Park	metropolitan
+E05000099	Queensbury	metropolitan
+E05000100	Stonebridge	metropolitan
+E05000101	Sudbury	metropolitan
+E05000102	Tokyngton	metropolitan
+E05000103	Welsh Harp	metropolitan
+E05000104	Wembley Central	metropolitan
+E05000105	Willesden Green	metropolitan
+E05000106	Bickley	metropolitan
+E05000107	Biggin Hill	metropolitan
+E05000108	Bromley Common and Keston	metropolitan
+E05000109	Bromley Town	metropolitan
+E05000110	Chelsfield and Pratts Bottom	metropolitan
+E05000111	Chislehurst	metropolitan
+E05000112	Clock House	metropolitan
+E05000113	Copers Cope	metropolitan
+E05000114	Cray Valley East	metropolitan
+E05000115	Cray Valley West	metropolitan
+E05000117	Darwin	metropolitan
+E05000118	Farnborough and Crofton	metropolitan
+E05000119	Hayes and Coney Hall	metropolitan
+E05000120	Kelsey and Eden Park	metropolitan
+E05000121	Mottingham and Chislehurst North	metropolitan
+E05000122	Orpington	metropolitan
+E05000123	Penge and Cator	metropolitan
+E05000124	Petts Wood and Knoll	metropolitan
+E05000125	Plaistow and Sundridge	metropolitan
+E05000126	Shortlands	metropolitan
+E05000127	West Wickham	metropolitan
+E05000128	Belsize	metropolitan
+E05000129	Bloomsbury	metropolitan
+E05000131	Cantelowes	metropolitan
+E05000132	Fortune Green	metropolitan
+E05000133	Frognal and Fitzjohns	metropolitan
+E05000134	Gospel Oak	metropolitan
+E05000135	Hampstead Town	metropolitan
+E05000136	Haverstock	metropolitan
+E05000137	Highgate	metropolitan
+E05000138	Holborn and Covent Garden	metropolitan
+E05000139	Kentish Town	metropolitan
+E05000140	Kilburn	metropolitan
+E05000141	King's Cross	metropolitan
+E05000143	St Pancras and Somers Town	metropolitan
+E05000145	West Hampstead	metropolitan
+E05000146	Addiscombe	metropolitan
+E05000147	Ashburton	metropolitan
+E05000148	Bensham Manor	metropolitan
+E05000150	Coulsdon East	metropolitan
+E05000151	Coulsdon West	metropolitan
+E05000152	Croham	metropolitan
+E05000154	Fieldway	metropolitan
+E05000155	Heathfield	metropolitan
+E05000156	Kenley	metropolitan
+E05000157	New Addington	metropolitan
+E05000158	Norbury	metropolitan
+E05000159	Purley	metropolitan
+E05000160	Sanderstead	metropolitan
+E05000161	Selhurst	metropolitan
+E05000162	Selsdon and Ballards	metropolitan
+E05000163	Shirley	metropolitan
+E05000165	Thornton Heath	metropolitan
+E05000167	Waddon	metropolitan
+E05000168	West Thornton	metropolitan
+E05000169	Woodside	metropolitan
+E05000170	Acton Central	metropolitan
+E05000171	Cleveland	metropolitan
+E05000172	Dormers Wells	metropolitan
+E05000173	Ealing Broadway	metropolitan
+E05000174	Ealing Common	metropolitan
+E05000175	East Acton	metropolitan
+E05000176	Elthorne	metropolitan
+E05000177	Greenford Broadway	metropolitan
+E05000178	Greenford Green	metropolitan
+E05000179	Hanger Hill	metropolitan
+E05000180	Hobbayne	metropolitan
+E05000181	Lady Margaret	metropolitan
+E05000182	Northfield	metropolitan
+E05000183	North Greenford	metropolitan
+E05000184	Northolt Mandeville	metropolitan
+E05000185	Northolt West End	metropolitan
+E05000186	Norwood Green	metropolitan
+E05000187	Perivale	metropolitan
+E05000188	South Acton	metropolitan
+E05000189	Southall Broadway	metropolitan
+E05000190	Southall Green	metropolitan
+E05000191	Southfield	metropolitan
+E05000192	Walpole	metropolitan
+E05000193	Bowes	metropolitan
+E05000194	Bush Hill Park	metropolitan
+E05000195	Chase	metropolitan
+E05000196	Cockfosters	metropolitan
+E05000197	Edmonton Green	metropolitan
+E05000198	Enfield Highway	metropolitan
+E05000199	Enfield Lock	metropolitan
+E05000200	Grange	metropolitan
+E05000201	Haselbury	metropolitan
+E05000202	Highlands	metropolitan
+E05000203	Jubilee	metropolitan
+E05000204	Lower Edmonton	metropolitan
+E05000205	Palmers Green	metropolitan
+E05000206	Ponders End	metropolitan
+E05000207	Southbury	metropolitan
+E05000208	Southgate	metropolitan
+E05000209	Southgate Green	metropolitan
+E05000210	Enfield Town	metropolitan
+E05000211	Turkey Street	metropolitan
+E05000212	Upper Edmonton	metropolitan
+E05000213	Winchmore Hill	metropolitan
+E05000214	Abbey Wood	metropolitan
+E05000215	Blackheath Westcombe	metropolitan
+E05000216	Charlton	metropolitan
+E05000217	ColdHarbour and New Eltham	metropolitan
+E05000218	Eltham North	metropolitan
+E05000219	Eltham South	metropolitan
+E05000220	Eltham West	metropolitan
+E05000221	Glyndon	metropolitan
+E05000223	Kidbrooke with Hornfair	metropolitan
+E05000224	Middle Park and Sutcliffe	metropolitan
+E05000225	Peninsula	metropolitan
+E05000226	Plumstead	metropolitan
+E05000227	Shooters Hill	metropolitan
+E05000228	Thamesmead Moorings	metropolitan
+E05000229	Woolwich Common	metropolitan
+E05000230	Woolwich Riverside	metropolitan
+E05000250	Addison	metropolitan
+E05000251	Askew	metropolitan
+E05000252	Avonmore and Brook Green	metropolitan
+E05000253	College Park and Old Oak	metropolitan
+E05000254	Fulham Broadway	metropolitan
+E05000255	Fulham Reach	metropolitan
+E05000256	Hammersmith Broadway	metropolitan
+E05000257	Munster	metropolitan
+E05000258	North End	metropolitan
+E05000259	Palace Riverside	metropolitan
+E05000260	Parsons Green and Walham	metropolitan
+E05000261	Ravenscourt Park	metropolitan
+E05000262	Sands End	metropolitan
+E05000263	Shepherd's Bush Green	metropolitan
+E05000264	Fulham Town	metropolitan
+E05000265	Wormholt and White City	metropolitan
+E05000266	Alexandra	metropolitan
+E05000267	Bounds Green	metropolitan
+E05000268	Bruce Grove	metropolitan
+E05000269	Crouch End	metropolitan
+E05000270	Fortis Green	metropolitan
+E05000271	Harringay	metropolitan
+E05000272	Highgate	metropolitan
+E05000273	Hornsey	metropolitan
+E05000274	Muswell Hill	metropolitan
+E05000275	Noel Park	metropolitan
+E05000276	Northumberland Park	metropolitan
+E05000277	St Ann's	metropolitan
+E05000278	Seven Sisters	metropolitan
+E05000279	Stroud Green	metropolitan
+E05000280	Tottenham Green	metropolitan
+E05000281	Tottenham Hale	metropolitan
+E05000282	West Green	metropolitan
+E05000283	White Hart Lane	metropolitan
+E05000284	Woodside	metropolitan
+E05000285	Belmont	metropolitan
+E05000286	Canons	metropolitan
+E05000287	Edgware	metropolitan
+E05000289	Harrow on the Hill	metropolitan
+E05000290	Harrow Weald	metropolitan
+E05000291	Hatch End	metropolitan
+E05000292	Headstone North	metropolitan
+E05000293	Headstone South	metropolitan
+E05000294	Kenton East	metropolitan
+E05000295	Kenton West	metropolitan
+E05000296	Marlborough	metropolitan
+E05000297	Pinner	metropolitan
+E05000298	Pinner South	metropolitan
+E05000299	Queensbury	metropolitan
+E05000300	Rayners Lane	metropolitan
+E05000301	Roxbourne	metropolitan
+E05000302	Roxeth	metropolitan
+E05000303	Stanmore Park	metropolitan
+E05000304	Wealdstone	metropolitan
+E05000305	West Harrow	metropolitan
+E05000306	Brooklands	metropolitan
+E05000307	Cranham	metropolitan
+E05000308	Elm Park	metropolitan
+E05000309	Emerson Park	metropolitan
+E05000310	Gooshays	metropolitan
+E05000311	Hacton	metropolitan
+E05000312	Harold Wood	metropolitan
+E05000313	Havering Park	metropolitan
+E05000314	Heaton	metropolitan
+E05000315	Hylands	metropolitan
+E05000316	Mawneys	metropolitan
+E05000317	Pettits	metropolitan
+E05000318	Rainham and Wennington	metropolitan
+E05000319	Romford Town	metropolitan
+E05000320	St Andrew's	metropolitan
+E05000321	South Hornchurch	metropolitan
+E05000322	Squirrel's Heath	metropolitan
+E05000323	Upminster	metropolitan
+E05000324	Barnhill	metropolitan
+E05000326	Brunel	metropolitan
+E05000327	Cavendish	metropolitan
+E05000328	Charville	metropolitan
+E05000329	Eastcote and East Ruislip	metropolitan
+E05000330	Harefield	metropolitan
+E05000332	Hillingdon East	metropolitan
+E05000333	Ickenham	metropolitan
+E05000334	Manor	metropolitan
+E05000335	Northwood	metropolitan
+E05000336	Northwood Hills	metropolitan
+E05000337	Pinkwell	metropolitan
+E05000338	South Ruislip	metropolitan
+E05000342	West Drayton	metropolitan
+E05000343	West Ruislip	metropolitan
+E05000344	Yeading	metropolitan
+E05000345	Yiewsley	metropolitan
+E05000346	Bedfont	metropolitan
+E05000347	Brentford	metropolitan
+E05000348	Chiswick Homefields	metropolitan
+E05000349	Chiswick Riverside	metropolitan
+E05000350	Cranford	metropolitan
+E05000351	Feltham North	metropolitan
+E05000352	Feltham West	metropolitan
+E05000353	Hanworth	metropolitan
+E05000354	Hanworth Park	metropolitan
+E05000355	Heston Central	metropolitan
+E05000356	Heston East	metropolitan
+E05000357	Heston West	metropolitan
+E05000362	Isleworth	metropolitan
+E05000363	Osterley and Spring Grove	metropolitan
+E05000364	Syon	metropolitan
+E05000365	Turnham green	metropolitan
+E05000368	Caledonian	metropolitan
+E05000369	Canonbury	metropolitan
+E05000371	Finsbury Park	metropolitan
+E05000372	Highbury East	metropolitan
+E05000373	Highbury West	metropolitan
+E05000374	Hillrise	metropolitan
+E05000375	Holloway	metropolitan
+E05000376	Junction	metropolitan
+E05000377	Mildmay	metropolitan
+E05000378	St George's	metropolitan
+E05000400	Alexandra	metropolitan
+E05000401	Berrylands	metropolitan
+E05000402	Beverley	metropolitan
+E05000403	Canbury	metropolitan
+E05000404	Chessington North	metropolitan
+E05000405	Chessington South	metropolitan
+E05000406	Coombe Hill	metropolitan
+E05000407	Coombe Vale	metropolitan
+E05000408	Grove	metropolitan
+E05000409	Norbiton	metropolitan
+E05000410	Old Malden	metropolitan
+E05000411	St James	metropolitan
+E05000412	St Mark's	metropolitan
+E05000413	Surbiton Hill	metropolitan
+E05000414	Tolworth	metropolitan
+E05000415	Tudor	metropolitan
+E05000416	Bishop's	metropolitan
+E05000417	Brixton Hill	metropolitan
+E05000418	Clapham Common	metropolitan
+E05000419	Clapham Town	metropolitan
+E05000420	Coldharbour	metropolitan
+E05000421	Ferndale	metropolitan
+E05000423	Herne Hill	metropolitan
+E05000424	Knight's Hill	metropolitan
+E05000425	Larkhall	metropolitan
+E05000426	Oval	metropolitan
+E05000427	Prince's	metropolitan
+E05000428	St Leonard's	metropolitan
+E05000429	Stockwell	metropolitan
+E05000430	Streatham Hill	metropolitan
+E05000431	Streatham South	metropolitan
+E05000432	Streatham Wells	metropolitan
+E05000433	Thornton	metropolitan
+E05000434	Thurlow Park	metropolitan
+E05000435	Tulse Hill	metropolitan
+E05000436	Vassall	metropolitan
+E05000437	Bellingham	metropolitan
+E05000439	Brockley	metropolitan
+E05000440	Catford South	metropolitan
+E05000441	Crofton Park	metropolitan
+E05000442	Downham	metropolitan
+E05000443	Evelyn	metropolitan
+E05000444	Forest Hill	metropolitan
+E05000445	Grove Park	metropolitan
+E05000446	Ladywell	metropolitan
+E05000447	Lee Green	metropolitan
+E05000449	New Cross	metropolitan
+E05000450	Perry Vale	metropolitan
+E05000452	Sydenham	metropolitan
+E05000453	Telegraph Hill	metropolitan
+E05000454	Whitefoot	metropolitan
+E05000455	Abbey	metropolitan
+E05000456	Cannon Hill	metropolitan
+E05000457	Colliers Wood	metropolitan
+E05000458	Cricket Green	metropolitan
+E05000459	Dundonald	metropolitan
+E05000460	Figge's Marsh	metropolitan
+E05000461	Graveney	metropolitan
+E05000462	Hillside	metropolitan
+E05000463	Lavender Fields	metropolitan
+E05000464	Longthornton	metropolitan
+E05000465	Lower Morden	metropolitan
+E05000466	Merton Park	metropolitan
+E05000467	Pollards Hill	metropolitan
+E05000468	Ravensbury	metropolitan
+E05000469	Raynes Park	metropolitan
+E05000470	St Helier	metropolitan
+E05000471	Trinity	metropolitan
+E05000472	Village	metropolitan
+E05000473	West Barnes	metropolitan
+E05000474	Wimbledon Park	metropolitan
+E05000475	Beckton	metropolitan
+E05000476	Boleyn	metropolitan
+E05000477	Canning Town North	metropolitan
+E05000478	Canning Town South	metropolitan
+E05000479	Custom House	metropolitan
+E05000480	East Ham Central	metropolitan
+E05000481	East Ham North	metropolitan
+E05000482	East Ham South	metropolitan
+E05000483	Forest Gate North	metropolitan
+E05000484	Forest Gate South	metropolitan
+E05000485	Green Street East	metropolitan
+E05000486	Green Street West	metropolitan
+E05000487	Little Ilford	metropolitan
+E05000488	Manor Park	metropolitan
+E05000489	Plaistow North	metropolitan
+E05000490	Plaistow South	metropolitan
+E05000491	Royal Docks	metropolitan
+E05000493	Wall End	metropolitan
+E05000494	West Ham	metropolitan
+E05000495	Aldborough	metropolitan
+E05000496	Barkingside	metropolitan
+E05000497	Bridge	metropolitan
+E05000498	Chadwell	metropolitan
+E05000499	Church End	metropolitan
+E05000500	Clayhall	metropolitan
+E05000503	Fairlop	metropolitan
+E05000504	Fullwell	metropolitan
+E05000505	Goodmayes	metropolitan
+E05000506	Hainault	metropolitan
+E05000508	Mayfield	metropolitan
+E05000509	Monkhams	metropolitan
+E05000511	Roding	metropolitan
+E05000512	Seven Kings	metropolitan
+E05000513	Snaresbrook	metropolitan
+E05000515	Wanstead	metropolitan
+E05000516	Barnes	metropolitan
+E05000521	Hampton North	metropolitan
+E05000523	Heathfield	metropolitan
+E05000524	Kew	metropolitan
+E05000525	Mortlake and Barnes Common	metropolitan
+E05000526	North Richmond	metropolitan
+E05000527	St Margarets and North Twickenham	metropolitan
+E05000529	South Twickenham	metropolitan
+E05000531	Twickenham Riverside	metropolitan
+E05000532	West Twickenham	metropolitan
+E05000533	Whitton	metropolitan
+E05000534	Brunswick Park	metropolitan
+E05000535	Camberwell Green	metropolitan
+E05000536	Cathedrals	metropolitan
+E05000537	Chaucer	metropolitan
+E05000539	East Dulwich	metropolitan
+E05000540	East Walworth	metropolitan
+E05000541	Faraday	metropolitan
+E05000542	Grange	metropolitan
+E05000543	Livesey	metropolitan
+E05000544	Newington	metropolitan
+E05000545	Nunhead	metropolitan
+E05000546	Peckham	metropolitan
+E05000547	Peckham Rye	metropolitan
+E05000548	Riverside	metropolitan
+E05000549	Rotherhithe	metropolitan
+E05000550	South Bermondsey	metropolitan
+E05000551	South Camberwell	metropolitan
+E05000552	Surrey Docks	metropolitan
+E05000553	The Lane	metropolitan
+E05000554	Village	metropolitan
+E05000555	Beddington North	metropolitan
+E05000556	Beddington South	metropolitan
+E05000557	Belmont	metropolitan
+E05000558	Carshalton Central	metropolitan
+E05000559	Carshalton South and Clockhouse	metropolitan
+E05000560	Cheam	metropolitan
+E05000561	Nonsuch	metropolitan
+E05000562	St Helier	metropolitan
+E05000563	Stonecot	metropolitan
+E05000564	Sutton Central and Town Centre	metropolitan
+E05000565	Sutton North	metropolitan
+E05000566	Sutton South	metropolitan
+E05000567	Sutton West	metropolitan
+E05000568	The Wrythe	metropolitan
+E05000569	Wallington North	metropolitan
+E05000570	Wallington South	metropolitan
+E05000571	Wandle Valley	metropolitan
+E05000572	Worcester Park	metropolitan
+E05000590	Cann Hall	metropolitan
+E05000591	Cathall	metropolitan
+E05000592	Chapel End	metropolitan
+E05000593	Chingford Green	metropolitan
+E05000594	Endlebury	metropolitan
+E05000595	Forest	metropolitan
+E05000596	Grove Green	metropolitan
+E05000597	Hale End and Highams Park	metropolitan
+E05000598	Hatch Lane	metropolitan
+E05000599	High Street	metropolitan
+E05000600	Higham Hill	metropolitan
+E05000601	Hoe Street	metropolitan
+E05000602	Larkswood	metropolitan
+E05000603	Lea Bridge	metropolitan
+E05000604	Leyton	metropolitan
+E05000605	Leytonstone	metropolitan
+E05000606	Markhouse	metropolitan
+E05000607	Valley	metropolitan
+E05000608	William Morris	metropolitan
+E05000609	Wood Street	metropolitan
+E05000610	Balham	metropolitan
+E05000611	Bedford	metropolitan
+E05000612	Earlsfield	metropolitan
+E05000613	East Putney	metropolitan
+E05000614	Fairfield	metropolitan
+E05000615	Furzedown	metropolitan
+E05000617	Latchmere	metropolitan
+E05000618	Nightingale	metropolitan
+E05000619	Northcote	metropolitan
+E05000620	Queenstown	metropolitan
+E05000621	Roehampton	metropolitan
+E05000622	St Mary's Park	metropolitan
+E05000623	Shaftesbury	metropolitan
+E05000624	Southfields	metropolitan
+E05000625	Thamesfield	metropolitan
+E05000627	Wandsworth Common	metropolitan
+E05000628	West Hill	metropolitan
+E05000629	West Putney	metropolitan
+E05000630	Abbey Road	metropolitan
+E05000631	Bayswater	metropolitan
+E05000635	Harrow Road	metropolitan
+E05000638	Lancaster Gate	metropolitan
+E05000640	Maida Vale	metropolitan
+E05000642	Queen's Park	metropolitan
+E05000645	Tachbrook	metropolitan
+E05000648	Westbourne	metropolitan
+E05009317	Bethnal Green	metropolitan
+E05009318	Blackwall	metropolitan
+E05009320	Bow West	metropolitan
+E05009321	Bromley North	metropolitan
+E05009322	Bromley South	metropolitan
+E05009323	Canary Wharf	metropolitan
+E05009324	Island Gardens	metropolitan
+E05009325	Lansbury	metropolitan
+E05009326	Limehouse	metropolitan
+E05009327	Mile End	metropolitan
+E05009328	Poplar	metropolitan
+E05009329	St Dunstan's	metropolitan
+E05009330	St Katharine's and Wapping	metropolitan
+E05009331	St Peter's	metropolitan
+E05009332	Shadwell	metropolitan
+E05009333	Spitalfields and Banglatown	metropolitan
+E05009334	Stepney Green	metropolitan
+E05009335	Weavers	metropolitan
+E05009336	Whitechapel	metropolitan
+E05009367	Brownswood	metropolitan
+E05009368	Cazenove	metropolitan
+E05009369	Clissold	metropolitan
+E05009370	Dalston	metropolitan
+E05009371	De Beauvoir	metropolitan
+E05009372	Hackney Central	metropolitan
+E05009373	Hackney Downs	metropolitan
+E05009375	Haggerston	metropolitan
+E05009376	Homerton	metropolitan
+E05009377	Hoxton East and Shoreditch	metropolitan
+E05009378	Hoxton West	metropolitan
+E05009379	King's Park	metropolitan
+E05009380	Leabridge	metropolitan
+E05009381	London Fields	metropolitan
+E05009382	Shacklewell	metropolitan
+E05009383	Springfield	metropolitan
+E05009384	Stamford Hill West	metropolitan
+E05009385	Stoke Newington	metropolitan
+E05009386	Victoria	metropolitan
+E05009387	Woodberry Down	metropolitan
+E05009388	Abingdon	metropolitan
+E05009389	Brompton and Hans Town	metropolitan
+E05009391	Chelsea Riverside	metropolitan
+E05009392	Colville	metropolitan
+E05009393	Courtfield	metropolitan
+E05009394	Dalgarno	metropolitan
+E05009395	Earl's Court	metropolitan
+E05009396	Golborne	metropolitan
+E05009397	Holland	metropolitan
+E05009398	Norland	metropolitan
+E05009399	Notting Dale	metropolitan
+E05009400	Pembridge	metropolitan
+E05009401	Queen's Gate	metropolitan
+E05009402	Redcliffe	metropolitan
+E05009403	Royal Hospital	metropolitan
+E05009404	St Helen's	metropolitan
+E05009405	Stanley	metropolitan
+RPBU	Bushy Park	metropolitan
+RPGR	Greenwich Park	metropolitan
+RPHY	Hyde Park & Kensington Gardens	metropolitan
+RPRE	Regents Park and Primrose Hill	metropolitan
+RPRI	Richmond Park	metropolitan
+RPST	St James Park	metropolitan
+SATST2	Heathrow Terminal 2	metropolitan
+SATST3	Heathrow Terminal 3	metropolitan
+SATST4	Heathrow Terminal 4	metropolitan
+SATST5	Heathrow Terminal 5	metropolitan
+A11	Hunstanton and Burnham	norfolk
+A12	Dersingham and Gayton	norfolk
+A13	The Woottons	norfolk
+A21	King's Lynn North	norfolk
+A22	Gaywood, Fairstead, Reffley	norfolk
+A23	South and West Lynn	norfolk
+A31	Terrington	norfolk
+A32	Watlington	norfolk
+A33	Downham Market	norfolk
+B11	Dereham	norfolk
+B12	Swaffham	norfolk
+B13	Watton	norfolk
+B21	Thetford	norfolk
+B22	Attleborough	norfolk
+C11	Wells	norfolk
+C12	Holt	norfolk
+C13	Fakenham	norfolk
+C21	Sheringham	norfolk
+C22	Cromer	norfolk
+C23	North Walsham	norfolk
+C24	Stalham	norfolk
+D11	Costessey	norfolk
+D12	Wymondham	norfolk
+D13	Hethersett and Mulbarton	norfolk
+D14	Poringland	norfolk
+D15	Loddon	norfolk
+D21	Long Stratton	norfolk
+D22	Diss	norfolk
+D23	Harleston	norfolk
+E11	Reepham	norfolk
+E12	Aylsham	norfolk
+E13	Taverham and Drayton	norfolk
+E14	Hellesdon and Horsford	norfolk
+E21	Sprowston and Spixworth	norfolk
+E22	Thorpe St Andrew	norfolk
+E23	Acle	norfolk
+F11	Norwich West	norfolk
+F21	Norwich North	norfolk
+F31	Norwich East	norfolk
+F41	Norwich South	norfolk
+G11	Rural Flegg Villages	norfolk
+G12	Caister and Coastal Villages	norfolk
+G13	North Yarmouth	norfolk
+G14	South Yarmouth	norfolk
+G21	Southern Villages	norfolk
+G22	Cobholm and Southtown	norfolk
+G23	Bradwell	norfolk
+G24	Magdalen	norfolk
+G25	Gorleston	norfolk
+CRW01	Betws yn Rhos	north-wales
+CRW02	Llansannan	north-wales
+CRW03	Trefnant	north-wales
+CRW04	St. Asaph West	north-wales
+CRW05	St. Asaph East	north-wales
+CRW06	Tremeirchion	north-wales
+CRW07	Denbigh Upper/Henllan	north-wales
+CRW08	Denbigh Central	north-wales
+CRW09	Denbigh Lower	north-wales
+CRW10	Llandyrnog	north-wales
+CRW11	Ruthin	north-wales
+CRW12	Llanbedr Dyffryn Clwyd/Llangynhafal	north-wales
+CRW13	Llanarmon-yn-Ial/Llandegla	north-wales
+CRW14	Llangollen	north-wales
+CRW15	Llanfair Dyffryn Clwyd/Gwyddelwern	north-wales
+CRW16	Corwen	north-wales
+CRW17	Llandrillo	north-wales
+CRW18	Efenechtyd	north-wales
+CRW19	Llanrhaeadr-Yng-Nghinmeirch	north-wales
+CRW20	Uwchaled	north-wales
+CRW21	Llangernyw	north-wales
+CRW22	Uwch Conwy	north-wales
+CRW23	Crwst	north-wales
+CRW24	Gower	north-wales
+CRW25	Eglwysbach	north-wales
+CRW26	Trefriw	north-wales
+CRW27	Caerhun	north-wales
+CRW28	Betws-y-Coed	north-wales
+DCW01	Gele	north-wales
+DCW02	Pentre Mawr	north-wales
+DCW03	Abergele Pensarn	north-wales
+DCW04	Towyn	north-wales
+DCW05	Kinmel Bay	north-wales
+DCW06	Bodelwyddan	north-wales
+DCW07	Rhuddlan	north-wales
+DCW08	Rhyl South	north-wales
+DCW09	Rhyl South West	north-wales
+DCW10	Rhyl West	north-wales
+DCW11	Rhyl East	north-wales
+DCW12	Rhyl South East	north-wales
+DCW13	Dyserth	north-wales
+DCW14	Prestatyn Meliden	north-wales
+DCW15	Prestatyn South West	north-wales
+DCW16	Prestatyn North	north-wales
+DCW17	Prestatyn Central	north-wales
+DCW18	Prestatyn East	north-wales
+FNW01	Ffynnongroyw	north-wales
+FNW02	Gronant	north-wales
+FNW03	Trelawnyd and Gwaenysgor	north-wales
+FNW04	Whitford	north-wales
+FNW05	Mostyn	north-wales
+FNW06	Greenfield	north-wales
+FNW07	Holywell West	north-wales
+FNW08	Holywell Central	north-wales
+FNW09	Holywell East	north-wales
+FNW10	Bagillt West	north-wales
+FNW11	Bagillt East	north-wales
+FNW12	Flint Coleshill	north-wales
+FNW13	Flint Castle	north-wales
+FNW14	Flint Trelawny	north-wales
+FNW15	Flint Oakenholt	north-wales
+FNW16	Connah's Quay Golftyn	north-wales
+FNW17	Connah's Quay South	north-wales
+FNW18	Connah's Quay Central	north-wales
+FNW19	Connah's Quay Wepre	north-wales
+FNW20	Shotton West	north-wales
+FNW21	Shotton East	north-wales
+FNW22	Shotton Higher	north-wales
+FNW23	Aston	north-wales
+FNW24	Mancot	north-wales
+FNW25	Queensferry	north-wales
+FNW26	Sealand	north-wales
+FSW01	Brynford	north-wales
+FSW02	Caerwys	north-wales
+FSW03	Cilcain	north-wales
+FSW04	Gwernaffield	north-wales
+FSW05	Halkyn	north-wales
+FSW06	Northop	north-wales
+FSW07	Northop Hall	north-wales
+FSW08	Ewloe	north-wales
+FSW09	Hawarden	north-wales
+FSW10	Broughton North East	north-wales
+FSW11	Saltney Mold Junction	north-wales
+FSW12	Saltney Stonebridge	north-wales
+FSW13	Broughton South	north-wales
+FSW14	Higher Kinnerton	north-wales
+FSW15	Penyffordd	north-wales
+FSW16	Buckley Pentrobin	north-wales
+FSW17	Buckley Bistre East	north-wales
+FSW18	Buckley Bistre West	north-wales
+FSW19	Buckley Mountain	north-wales
+FSW20	New Brighton	north-wales
+FSW21	Argoed	north-wales
+FSW22	Mold East	north-wales
+FSW23	Mold Broncoed	north-wales
+FSW24	Mold West	north-wales
+FSW25	Mold South	north-wales
+FSW26	Gwernymynydd	north-wales
+FSW27	Leeswood	north-wales
+FSW28	Treuddyn	north-wales
+FSW29	Llanfynydd	north-wales
+FSW30	Caergwrle	north-wales
+FSW31	Hope	north-wales
+GNW01	Arllechwedd	north-wales
+GNW02	Gerlan	north-wales
+GNW03	Ogwen	north-wales
+GNW04	Tregarth & Mynydd Llandygai	north-wales
+GNW05	Pentir	north-wales
+GNW06	Dewi	north-wales
+GNW07	Glyder	north-wales
+GNW08	Hendre	north-wales
+GNW09	Menai (Bangor)	north-wales
+GNW10	Deiniol	north-wales
+GNW11	Marchog	north-wales
+GNW12	Hirael	north-wales
+GNW13	Garth	north-wales
+GNW14	Deiniolen	north-wales
+GNW15	Penisarwaun	north-wales
+GNW16	Llanrug	north-wales
+GNW17	Bethel	north-wales
+GNW18	Y Felinheli	north-wales
+GNW19	Menai (Caernarfon)	north-wales
+GNW20	Cadnant	north-wales
+GNW21	Peblig (Caernarfon)	north-wales
+GNW22	Seiont	north-wales
+GNW23	Bontnewydd	north-wales
+GNW24	Llanwnda	north-wales
+GNW25	Groeslon	north-wales
+GNW26	Penygroes	north-wales
+GNW27	Talysarn	north-wales
+GNW28	Llanllyfni	north-wales
+GNW29	Waunfawr	north-wales
+GNW30	Llanberis	north-wales
+GNW31	Cwm-y-Glo	north-wales
+GSW01	Porthmadog-Tremadog	north-wales
+GSW02	Dolbenmaen	north-wales
+GSW03	Clynnog	north-wales
+GSW04	Llanaelhaearn	north-wales
+GSW05	Efail-newydd/Buan	north-wales
+GSW06	Nefyn	north-wales
+GSW07	Morfa Nefyn	north-wales
+GSW08	Tudweiliog	north-wales
+GSW09	Aberdaron	north-wales
+GSW10	Botwnnog	north-wales
+GSW11	Llanengan	north-wales
+GSW12	Abersoch	north-wales
+GSW13	Llanbedrog	north-wales
+GSW14	Pwllheli South	north-wales
+GSW15	Pwllheli North	north-wales
+GSW16	Abererch	north-wales
+GSW17	Llanystumdwy	north-wales
+GSW18	Criccieth	north-wales
+GSW19	Porthmadog West	north-wales
+GSW20	Porthmadog East	north-wales
+GSW21	Penrhyndeudraeth	north-wales
+GSW22	Bowydd and Rhiw	north-wales
+GSW23	Diffwys and Maenofferen	north-wales
+GSW24	Teigl	north-wales
+GSW25	Llandderfel	north-wales
+GSW26	Bala	north-wales
+GSW27	Llanuwchllyn	north-wales
+GSW28	Trawsfynydd	north-wales
+GSW29	Harlech	north-wales
+GSW30	Llanbedr	north-wales
+GSW31	Brithdir and Llanfachreth/Ganllwyd/Llanelltyd	north-wales
+GSW32	Dyffryn Ardudwy	north-wales
+GSW33	Barmouth	north-wales
+GSW34	Llangelynin	north-wales
+GSW35	Dolgellau North	north-wales
+GSW36	Dolgellau South	north-wales
+GSW37	Corris/Mawddwy	north-wales
+GSW38	Bryn-crug/Llanfihangel	north-wales
+GSW39	Tywyn	north-wales
+GSW40	Aberdovey	north-wales
+WCW01	Bryn	north-wales
+WCW02	Pandy	north-wales
+WCW03	Pant-yr-Afon/Penmaenan	north-wales
+WCW04	Capelulo	north-wales
+WCW05	Conwy	north-wales
+WCW06	Mostyn	north-wales
+WCW07	Gogarth	north-wales
+WCW08	Tudno	north-wales
+WCW09	Deganwy	north-wales
+WCW10	Marl	north-wales
+WCW11	Craig-y-Don	north-wales
+WCW12	Penrhyn	north-wales
+WCW13	Pensarn	north-wales
+WCW14	Llansanffraid	north-wales
+WCW15	Mochdre	north-wales
+WCW16	Llandrillo yn Rhos	north-wales
+WCW17	Rhiw	north-wales
+WCW18	Glyn	north-wales
+WCW19	Eirias	north-wales
+WCW20	Colwyn	north-wales
+WCW21	Llysfaen	north-wales
+WCW22	Llanddulas	north-wales
+WRW01	Bronington	north-wales
+WRW02	Overton	north-wales
+WRW03	Marchwiel	north-wales
+WRW04	Holt	north-wales
+WRW05	Rossett	north-wales
+WRW06	Marford and Hoseley	north-wales
+WRW07	Gresford East and West	north-wales
+WRW08	Llay	north-wales
+WRW09	Gwersyllt East and South	north-wales
+WRW10	Gwersyllt North	north-wales
+WRW11	Gwersyllt West	north-wales
+WRW12	Bryn Cefn	north-wales
+WRW13	New Broughton	north-wales
+WRW14	Gwenfro	north-wales
+WRW15	Brymbo	north-wales
+WRW16	Coedpoeth	north-wales
+WRW17	Minera	north-wales
+WRW18	Ponciau	north-wales
+WRW19	Ruabon	north-wales
+WRW20	Johnstown	north-wales
+WRW21	Pant	north-wales
+WRW22	Penycae	north-wales
+WRW23	Penycae and Ruabon South	north-wales
+WRW24	Cefn	north-wales
+WRW25	Plas Madoc	north-wales
+WRW26	Chirk North	north-wales
+WRW27	Llangollen Rural	north-wales
+WRW28	Chirk South	north-wales
+WRW29	Dyffryn Ceiriog/Ceiriog Valley	north-wales
+WXW01	Esclusham	north-wales
+WXW02	Brynyffynnon	north-wales
+WXW03	Offa	north-wales
+WXW04	Erddig	north-wales
+WXW05	Hermitage	north-wales
+WXW06	Whitegate	north-wales
+WXW07	Queensway	north-wales
+WXW08	Smithfield	north-wales
+WXW09	Wynnstay	north-wales
+WXW10	Cartrefle	north-wales
+WXW11	Rhosnesni	north-wales
+WXW12	Maesydre	north-wales
+WXW13	Grosvenor	north-wales
+WXW14	Stansty	north-wales
+WXW15	Acton	north-wales
+WXW16	Garden Village	north-wales
+WXW17	Little Acton	north-wales
+WXW18	Borras Park	north-wales
+YMW01	Parc A'r Mynydd	north-wales
+YMW02	Porthyfelin	north-wales
+YMW03	Holyhead Town	north-wales
+YMW04	Maeshyfryd	north-wales
+YMW05	Morawelon	north-wales
+YMW06	Kingsland	north-wales
+YMW07	London Road	north-wales
+YMW08	Trearddur	north-wales
+YMW09	Valley	north-wales
+YMW10	Llanfair-yn-Neubwll	north-wales
+YMW11	Llanfaethlu	north-wales
+YMW12	Mechell	north-wales
+YMW13	Llanbadrig	north-wales
+YMW14	Amlwch Rural	north-wales
+YMW15	Amlwch Port	north-wales
+YMW16	Llaneilian	north-wales
+YMW17	Moelfre	north-wales
+YMW18	Brynteg	north-wales
+YMW19	Llanbedrgoch	north-wales
+YMW20	Llanddyfnan	north-wales
+YMW21	Llannerch-y-Medd	north-wales
+YMW22	Bodffordd	north-wales
+YMW23	Bryngwran	north-wales
+YMW24	Aberffraw	north-wales
+YMW25	Rhosneigr	north-wales
+YMW26	Bodorgan	north-wales
+YMW27	Cefni	north-wales
+YMW28	Cyngar	north-wales
+YMW29	Tudur	north-wales
+YMW30	Pentraeth	north-wales
+YMW31	Llangoed	north-wales
+YMW32	Beaumaris	north-wales
+YMW33	Cwm Cadnant	north-wales
+YMW34	Llanfihangel Ysgeifiog	north-wales
+YMW35	Rhosyr	north-wales
+YMW36	Llanidan	north-wales
+YMW37	Gwyngyll	north-wales
+YMW38	Braint	north-wales
+YMW39	Cadnant	north-wales
+YMW40	Tysilio	north-wales
+craven-rural	Craven Rural	north-yorkshire
+filey-and-eastfield	Filey and Eastfield	north-yorkshire
+harrogate-outer	Harrogate Outer	north-yorkshire
+harrogate-town	Harrogate Town	north-yorkshire
+knaresborough-and-boroughbridge	Knaresborough and Boroughbridge	north-yorkshire
+northallerton-and-stokesley	Northallerton and Stokesley	north-yorkshire
+richmond-and-catterick	Richmond and Catterick	north-yorkshire
+ripon-and-pateley-bridge	Ripon and Pateley Bridge	north-yorkshire
+ryedale	Ryedale	north-yorkshire
+scarborough	Scarborough	north-yorkshire
+selby-rural	Selby Rural	north-yorkshire
+selby-town	Selby Town	north-yorkshire
+skipton-town	Skipton Town	north-yorkshire
+the-dales	The Dales	north-yorkshire
+thirsk-and-easingwold	Thirsk and Easingwold	north-yorkshire
+whitby	Whitby	north-yorkshire
+york-city-and-east	York City and East	north-yorkshire
+york-north	York North	north-yorkshire
+york-west	York West	north-yorkshire
+SCT101	East Northants North	northamptonshire
+SCT102	East Northants South	northamptonshire
+SCT103	East Northants Central	northamptonshire
+SCT111	Corby Town	northamptonshire
+SCT112	Corby Rural	northamptonshire
+SCT121	Kettering Town	northamptonshire
+SCT122	Kettering Rural	northamptonshire
+SCT131	Wellingborough Town	northamptonshire
+SCT132	Wellingborough Rural	northamptonshire
+SCT141	Daventry Town	northamptonshire
+SCT142	Daventry Rural	northamptonshire
+SCT151	South Northants Towcester	northamptonshire
+SCT152	South Northants Brackley	northamptonshire
+SCT162	Northampton Central	northamptonshire
+SCT163	Northampton North East	northamptonshire
+SCT164	Northampton South West	northamptonshire
+A1	Sunderland Central	northumbria
+A2	Sunderland East	northumbria
+A3	Sunderland West	northumbria
+A5	Sunderland North	northumbria
+A6	Washington	northumbria
+A7	Houghton	northumbria
+B1	West Shields and Riverside	northumbria
+B2	East Shields, Cleadon and Whitburn	northumbria
+B3	Jarrow and Hebburn	northumbria
+C1	Central Gateshead	northumbria
+C2	East Gateshead	northumbria
+C3	South Gateshead	northumbria
+C5	Inner West Gateshead	northumbria
+C6	Outer West Gateshead	northumbria
+D1	North Shields	northumbria
+D2	Whitley Bay	northumbria
+D3	Wallsend	northumbria
+D4	Killingworth	northumbria
+E1	Outer West Newcastle	northumbria
+E2	Gosforth and Great Park	northumbria
+E3	Blakelaw, Kenton and Fawdon	northumbria
+E4	Fenham and Scotswood	northumbria
+E5	Benwell and Elswick	northumbria
+E6	Newcastle Central	northumbria
+E7	Jesmond and Heaton	northumbria
+E8	Byker and Walker	northumbria
+F1	Bedlington	northumbria
+F2	Ashington	northumbria
+F3	Blyth	northumbria
+F4	Cramlington	northumbria
+F5	Morpeth	northumbria
+F6	Alnwick	northumbria
+F7	Berwick	northumbria
+F8	East Tynedale	northumbria
+F9	West Tynedale	northumbria
+31-1	Kirkby In Ashfield	nottinghamshire
+31-10	Bassetlaw Rural	nottinghamshire
+31-11	Harworth	nottinghamshire
+31-12	Retford	nottinghamshire
+31-13	Worksop North	nottinghamshire
+31-14	Worksop North Villages	nottinghamshire
+31-15	Worksop South	nottinghamshire
+31-16	Balderton and Farndon	nottinghamshire
+31-17	Collingham, Winthorpe and Villages	nottinghamshire
+31-18	Newark	nottinghamshire
+31-19	Bilsthorpe, Lowdham and Villages	nottinghamshire
+31-2	Sutton in Ashfield	nottinghamshire
+31-20	Ollerton, Clipstone & Villages	nottinghamshire
+31-21	Southwell, Caunton and Villages	nottinghamshire
+31-22	Bingham & Trent	nottinghamshire
+31-23	Cotgrave & Wiverton	nottinghamshire
+31-24	Leake & Keyworth	nottinghamshire
+31-25	Ruddington	nottinghamshire
+31-26	West Bridgford	nottinghamshire
+31-27	Arnold & Woodthorpe	nottinghamshire
+31-28	Calverton, Ravenshead and Villages	nottinghamshire
+31-29	Carlton and Porchester	nottinghamshire
+31-3	Ashfield Rural	nottinghamshire
+31-30	Daybrook and Bonington	nottinghamshire
+31-31	Gedling, Burton Joyce and Villages	nottinghamshire
+31-32	Beeston	nottinghamshire
+31-33	Chilwell	nottinghamshire
+31-34	Eastwood	nottinghamshire
+31-35	Eastwood North	nottinghamshire
+31-36	Eastwood South	nottinghamshire
+31-37	Stapleford	nottinghamshire
+31-38	Bulwell	nottinghamshire
+31-39	Bulwell Forest	nottinghamshire
+31-4	Hucknall	nottinghamshire
+31-40	Bestwood	nottinghamshire
+31-41	Basford	nottinghamshire
+31-42	Aspley	nottinghamshire
+31-43	Bilborough	nottinghamshire
+31-44	Leen Valley	nottinghamshire
+31-45	Dunkirk & Lenton	nottinghamshire
+31-46	Radford & Park	nottinghamshire
+31-47	Wollaton West	nottinghamshire
+31-48	Arboretum	nottinghamshire
+31-49	Berridge	nottinghamshire
+31-5	Mansfield North	nottinghamshire
+31-50	Sherwood	nottinghamshire
+31-51	City Centre	nottinghamshire
+31-52	Mapperley & Wells	nottinghamshire
+31-53	St Ann's	nottinghamshire
+31-54	Sneinton and Dales	nottinghamshire
+31-55	Clifton	nottinghamshire
+31-56	Meadows	nottinghamshire
+31-57	Wollaton East and Lenton Abbey	nottinghamshire
+31-6	Mansfield West	nottinghamshire
+31-7	Warsop	nottinghamshire
+31-8	Mansfield East	nottinghamshire
+31-9	Mansfield Town Centre	nottinghamshire
+Merthyr-Tydfil	Merthyr Tydfil	south-wales
+Neath-Port-Talbot	Neath Port Talbot	south-wales
+Rhondda-Cynon-Taf	Rhondda Cynon Taf	south-wales
+swpbridgend	Bridgend	south-wales
+swpcardiff	Cardiff	south-wales
+swpswansea	Swansea	south-wales
+Vale-of-Glamorgan	Vale of Glamorgan	south-wales
+W05000524	Gower	south-wales
+W05000525	Gowerton	south-wales
+W05000526	Killay North	south-wales
+W05000527	Killay South	south-wales
+W05000532	Lower Loughor	south-wales
+W05000533	Mawr	south-wales
+W05000534	Mayals	south-wales
+W05000537	Newton (Swansea)	south-wales
+W05000538	Oystermouth	south-wales
+W05000544	Pontardulais	south-wales
+W05000545	St. Thomas	south-wales
+W05000546	Sketty	south-wales
+W05000548	Uplands	south-wales
+W05000550	West Cross	south-wales
+W05000551	Aberavon	south-wales
+W05000552	Aberdulais	south-wales
+W05000553	Allt-Wen	south-wales
+W05000554	Baglan	south-wales
+W05000555	Blaengwrach	south-wales
+W05000556	Briton Ferry East	south-wales
+W05000557	Briton Ferry West	south-wales
+W05000558	Bryn and Cwmavon	south-wales
+W05000559	Bryn-Coch North	south-wales
+W05000560	Bryn-Coch South	south-wales
+W05000561	Cadoxton	south-wales
+W05000562	Cimla	south-wales
+W05000563	Coedffranc Central	south-wales
+W05000564	Coedffranc North	south-wales
+W05000565	Coedffranc West	south-wales
+W05000566	Crynant	south-wales
+W05000567	Cwmllynfell	south-wales
+W05000568	Cymmer (Neath Port Talbot)	south-wales
+W05000569	Dyffryn	south-wales
+W05000570	Glyncorrwg	south-wales
+W05000571	Glynneath	south-wales
+W05000572	Godre&#8217;r Graig	south-wales
+W05000573	Gwaun-Cae-Gurwen	south-wales
+W05000574	Gwynfi	south-wales
+W05000575	Lower Brynamman	south-wales
+W05000576	Margam	south-wales
+W05000577	Neath East	south-wales
+W05000578	Neath North	south-wales
+W05000579	Neath South	south-wales
+W05000580	Onllwyn	south-wales
+W05000581	Pelenna	south-wales
+W05000582	Pontardawe	south-wales
+W05000583	Port Talbot	south-wales
+W05000584	Resolven	south-wales
+W05000585	Rhos	south-wales
+W05000586	Sandfields East	south-wales
+W05000587	Sandfields West	south-wales
+W05000588	Seven Sisters	south-wales
+W05000589	Tai-bach	south-wales
+W05000590	Tonna	south-wales
+W05000591	Trebanos	south-wales
+W05000592	Ystalyfera	south-wales
+W05000593	Aberkenfig	south-wales
+W05000594	Bettws	south-wales
+W05000595	Blackmill	south-wales
+W05000596	Blaengarw	south-wales
+W05000598	Bryncethin	south-wales
+W05000599	Bryncoch	south-wales
+W05000601	Caerau (Maesteg)	south-wales
+W05000602	Cefn Cribwr	south-wales
+W05000603	Cefn Glas	south-wales
+W05000604	Coity	south-wales
+W05000605	Cornelly	south-wales
+W05000607	Felindre	south-wales
+W05000608	Hendre	south-wales
+W05000609	Litchard	south-wales
+W05000610	Llangeinor	south-wales
+W05000611	Llangewydd and Brynhyfryd	south-wales
+W05000612	Llangynwyd	south-wales
+W05000613	Maesteg East	south-wales
+W05000614	Maesteg West	south-wales
+W05000615	Morfa	south-wales
+W05000616	Nant-y-Moel	south-wales
+W05000617	Newcastle	south-wales
+W05000618	Newton (Bridgend)	south-wales
+W05000619	Nottage	south-wales
+W05000620	Ogmore Vale	south-wales
+W05000622	Pendre	south-wales
+W05000623	Penprysg	south-wales
+W05000624	Pen-y-Fai	south-wales
+W05000625	Pontycymmer	south-wales
+W05000626	Porthcawl East	south-wales
+W05000627	Porthcawl West	south-wales
+W05000628	Pyle	south-wales
+W05000629	Rest Bay	south-wales
+W05000630	Sarn	south-wales
+W05000631	Ynysawdre	south-wales
+W05000632	Baruc	south-wales
+W05000633	Buttrills	south-wales
+W05000634	Cadoc	south-wales
+W05000635	Castleland	south-wales
+W05000636	Cornerswell	south-wales
+W05000637	Court	south-wales
+W05000638	Cowbridge	south-wales
+W05000640	Dyfan	south-wales
+W05000641	Gibbonsdown	south-wales
+W05000642	Illtyd	south-wales
+W05000644	Llandow/Ewenny	south-wales
+W05000645	Llantwit Major	south-wales
+W05000646	Peterston-Super-Ely	south-wales
+W05000648	Rhoose	south-wales
+W05000649	St. Athan	south-wales
+W05000650	St. Augustine&#8217;s (Penarth)	south-wales
+W05000651	St. Bride&#8217;s Major	south-wales
+W05000652	Stanwell (Penarth)	south-wales
+W05000654	Wenvoe	south-wales
+W05000655	Aberaman North	south-wales
+W05000656	Aberaman South	south-wales
+W05000657	Abercynon	south-wales
+W05000658	Aberdare East	south-wales
+W05000659	Aberdare West/Llwydcoed	south-wales
+W05000660	Beddau	south-wales
+W05000661	Brynna	south-wales
+W05000662	Church Village	south-wales
+W05000663	Cilfynydd	south-wales
+W05000664	Cwm Clydach	south-wales
+W05000665	Cwmbach	south-wales
+W05000666	Cymmer (Rhondda Cynon Taf)	south-wales
+W05000667	Ferndale	south-wales
+W05000668	Gilfach Goch	south-wales
+W05000669	Glyncoch	south-wales
+W05000670	Graig	south-wales
+W05000671	Hawthorn	south-wales
+W05000672	Hirwaun	south-wales
+W05000675	Llantrisant Town	south-wales
+W05000676	Llantwit Fardre	south-wales
+W05000677	Llwyn-y-Pia	south-wales
+W05000678	Maerdy	south-wales
+W05000679	Mountain Ash East	south-wales
+W05000680	Mountain Ash West	south-wales
+W05000681	Penrhiwceiber	south-wales
+W05000682	Pentre	south-wales
+W05000683	Pen-y-Graig	south-wales
+W05000684	Pen-y-Waun	south-wales
+W05000686	Pontypridd Town	south-wales
+W05000687	Porth	south-wales
+W05000688	Rhigos	south-wales
+W05000689	Rhondda (Hopkinstown, Maes Y Coed &#038; Pwllgwaun)	south-wales
+W05000690	Rhydfelen Central/Ilan	south-wales
+W05000691	Taffs Well	south-wales
+W05000693	Ton-Teg	south-wales
+W05000694	Tonypandy	south-wales
+W05000695	Tonyrefail East	south-wales
+W05000696	Tonyrefail West	south-wales
+W05000697	Trallwng	south-wales
+W05000698	Trealaw	south-wales
+W05000699	Treforest	south-wales
+W05000700	Treherbert	south-wales
+W05000701	Treorchy	south-wales
+W05000702	Tylorstown	south-wales
+W05000703	Tyn-y-Nant	south-wales
+W05000704	Ynyshir	south-wales
+W05000705	Ynysybwl	south-wales
+W05000706	Ystrad	south-wales
+W05000707	Bedlinog	south-wales
+W05000708	Cyfarthfa	south-wales
+W05000709	Dowlais	south-wales
+W05000710	Gurnos	south-wales
+W05000711	Merthyr Vale	south-wales
+W05000712	Park	south-wales
+W05000713	Penydarren	south-wales
+W05000714	Plymouth (Merthyr Tydfil)	south-wales
+W05000715	Town	south-wales
+W05000716	Treharris	south-wales
+W05000853	Adamsdown	south-wales
+W05000854	Butetown	south-wales
+W05000855	Caerau (Cardiff)	south-wales
+W05000856	Canton	south-wales
+W05000857	Cardiff City Centre/Cathays	south-wales
+W05000858	Creigiau/St. Fagans	south-wales
+W05000859	Cyncoed	south-wales
+W05000860	Ely	south-wales
+W05000861	Fairwater	south-wales
+W05000862	Gabalfa	south-wales
+W05000863	Grangetown	south-wales
+W05000864	Heath	south-wales
+W05000865	Lisvane	south-wales
+W05000866	Llandaff	south-wales
+W05000867	Llandaff North	south-wales
+W05000868	Llanishen	south-wales
+W05000869	Llanrumney	south-wales
+W05000870	Pentwyn	south-wales
+W05000871	Pentyrch	south-wales
+W05000872	Penylan	south-wales
+W05000873	Plasnewydd	south-wales
+W05000875	Radyr	south-wales
+W05000876	Rhiwbina	south-wales
+W05000877	Riverside	south-wales
+W05000879	Splott	south-wales
+W05000881	Whitchurch and Tongwynlais	south-wales
+W05000889	Llanharan	south-wales
+W05000890	Llanharry	south-wales
+W05000891	Pont-y-Clun	south-wales
+W05000892	Talbot Green	south-wales
+W05000895	Vaynor	south-wales
+W05000896	Brackla	south-wales
+W05000897	Bryntirion, Laleston and Merthyr Mawr	south-wales
+W05000898	Coychurch Lower	south-wales
+W05000899	Oldcastle	south-wales
+W05000900	Pontprennau/Old St. Mellons	south-wales
+W05000901	Rumney	south-wales
+W05000902	Trowbridge / St Mellons	south-wales
+W05000932	Dinas Powys	south-wales
+W05000933	Llandough	south-wales
+W05000934	Plymouth (Penarth)	south-wales
+W05000935	Sully	south-wales
+W05000959	Bishopston	south-wales
+W05000960	Bonymaen	south-wales
+W05000961	Castle	south-wales
+W05000962	Clydach	south-wales
+W05000963	Cockett	south-wales
+W05000964	Cwmbwrla	south-wales
+W05000965	Dunvant	south-wales
+W05000966	Fairwood	south-wales
+W05000967	Gorseinon	south-wales
+W05000968	Kingsbridge	south-wales
+W05000969	Landore	south-wales
+W05000970	Llangyfelach	south-wales
+W05000971	Llansamlet	south-wales
+W05000972	Morriston	south-wales
+W05000973	Mynyddbach	south-wales
+W05000974	Penclawdd	south-wales
+W05000975	Penderry	south-wales
+W05000976	Penllergaer	south-wales
+W05000977	Pennard	south-wales
+W05000978	Penyrheol	south-wales
+W05000979	Townhill	south-wales
+W05000980	Upper Loughor	south-wales
+AA	Doncaster Central	south-yorkshire
+AB	Doncaster West	south-yorkshire
+AC	Doncaster East	south-yorkshire
+BA	Barnsley West	south-yorkshire
+BB	Barnsley East	south-yorkshire
+CA	Rotherham North	south-yorkshire
+CB	Rotherham South	south-yorkshire
+CC	Rotherham Central	south-yorkshire
+KA	Sheffield North East	south-yorkshire
+KB	Sheffield East	south-yorkshire
+KC	Sheffield South East	south-yorkshire
+KD	Sheffield Central	south-yorkshire
+KE	Sheffield South West	south-yorkshire
+KF	Sheffield North West	south-yorkshire
+FM00	Stafford Town	staffordshire
+FM10	Stafford South	staffordshire
+FM20	Stafford North	staffordshire
+FM30	Milwich,Chartley,Haywood,Hixon	staffordshire
+FM40	South West Stone	staffordshire
+FM50	Eccleshall & Swynnerton	staffordshire
+FM60	Fulford Barlaston & Oulton	staffordshire
+FM70	Stone Town	staffordshire
+FM80	Milford,Baswich,Weeping Cross	staffordshire
+FP00	Tutbury & Rolleston	staffordshire
+FP10	Burton Urban	staffordshire
+FP20	Branston	staffordshire
+FP30	Burton Town & Uxbridge	staffordshire
+FP40	Winshill & Stapenhill	staffordshire
+FP50	Uttoxeter Town	staffordshire
+FP60	Heath	staffordshire
+FP70	Uttoxeter Rural	staffordshire
+FP80	Needwood	staffordshire
+FR00	North Lichfield	staffordshire
+FR10	South Lichfield	staffordshire
+FR20	Bourne Vale & Fazeley	staffordshire
+FR30	Mease Tame & Whittington	staffordshire
+FR40	Lichfield District	staffordshire
+FR50	Lichfield Rural	staffordshire
+FR60	Burntwood	staffordshire
+FR70	Chasetown	staffordshire
+FR80	Shenstone,Stonnal,Little Aston	staffordshire
+FV00	Hednesford	staffordshire
+FV10	Rawnsley	staffordshire
+FV20	Chase Rural	staffordshire
+FV30	Norton Canes	staffordshire
+FV40	Cannock South & West	staffordshire
+FV50	Cannock East & North	staffordshire
+FV60	Brereton  Ravenhill & Hagley	staffordshire
+FV70	Etching Hill & The Heath	staffordshire
+FW00	Tamworth Town	staffordshire
+FW10	Mercian & Spital	staffordshire
+FW20	Bolehall	staffordshire
+FW40	Wilnecote & Trinity	staffordshire
+FW50	Glascote	staffordshire
+FW60	Stoneydelph	staffordshire
+FW70	Belgrave	staffordshire
+FW80	Amington	staffordshire
+FX00	Wombourne	staffordshire
+FX10	Kinver	staffordshire
+FX20	Trysull & Seisdon	staffordshire
+FX30	Perton & Pattingham	staffordshire
+FX40	Codsall & Bilbrook	staffordshire
+FX50	Wheaton Aston & Rural	staffordshire
+FX60	Penkridge & Huntington	staffordshire
+FX70	Essington & Featherstone	staffordshire
+FX80	Cheslyn Hay & Saredon	staffordshire
+IA00	Leek Town	staffordshire
+IA10	Leek Rural	staffordshire
+IA20	Biddulph Town	staffordshire
+IA30	Cheadle Town	staffordshire
+IA40	Werrington & Cheddleton	staffordshire
+IA70	Forsbrook & Caverswall	staffordshire
+IA80	Waterhouses Rural	staffordshire
+IB00	Kidsgrove Parish	staffordshire
+IB10	Audley & Halmerend	staffordshire
+IB20	Madeley Keele & Loggerheads	staffordshire
+IB30	Chesterton & Holditch	staffordshire
+IB40	Newcastle North	staffordshire
+IB50	Newcastle West	staffordshire
+IB60	Newcastle Town	staffordshire
+IB70	Newcastle South	staffordshire
+IC00	Goldenhill & Sandyford	staffordshire
+IC10	Great Chell & Packmoor	staffordshire
+IC20	Tunstall	staffordshire
+IC30	Little Chell & Stanfield	staffordshire
+IC40	Bradeley & Chell Heath	staffordshire
+IC50	Burslem Park	staffordshire
+IC60	Ford Green & Smallthorne	staffordshire
+IC70	Burslem Central	staffordshire
+IC80	Moorcroft	staffordshire
+IC90	Sneyd Green	staffordshire
+ICA0	Baddeley, Milton & Norton	staffordshire
+IE00	Etruria & Hanley	staffordshire
+IE10	Birches Hd & Central Forest Pk	staffordshire
+IE20	Joiners Square	staffordshire
+IE30	Hanley Park & Shelton	staffordshire
+IE40	Hartshill & Basford	staffordshire
+IE50	Penkhull & Stoke	staffordshire
+IE60	Springfields & Trent Vale	staffordshire
+IE70	Boothen & Oak Hill	staffordshire
+IE80	Eaton Park	staffordshire
+IE90	Abbey Hulton & Townsend	staffordshire
+IG00	Fenton West & Mount Pleasant	staffordshire
+IG10	Hanford & Trentham	staffordshire
+IG20	Blurton & Longton West	staffordshire
+IG30	Longton South	staffordshire
+IG40	Meir Park & South	staffordshire
+IG50	Meir North & Weston Coyney	staffordshire
+IG60	Broadway & Longton East	staffordshire
+IG70	Meir Hay & Sandford Hill	staffordshire
+IG80	Bentilee & Ubberley	staffordshire
+H11A	Brandon	suffolk
+H12A	Mildenhall	suffolk
+H13A	Newmarket	suffolk
+H21A	Bury St Edmunds	suffolk
+H31A	Haverhill	suffolk
+H32A	Sudbury	suffolk
+H41A	Stowmarket	suffolk
+J11A	Ipswich West	suffolk
+J12A	Hadleigh	suffolk
+J21A	Ipswich Central	suffolk
+J31A	Ipswich East	suffolk
+J32A	Woodbridge	suffolk
+J33A	Felixstowe	suffolk
+K11A	Lowestoft	suffolk
+K12A	Beccles and Bungay	suffolk
+K21A	Halesworth	suffolk
+K22A	Eye	suffolk
+K23A	Leiston	suffolk
+ELCO	Cobham & Oxshott	surrey
+ELDH	The Dittons & Hinchley Wood	surrey
+ELEC	Esher & Claygate	surrey
+ELEM	East Molesey & Weston Green	surrey
+ELHE	Hersham	surrey
+ELNW	North Walton	surrey
+ELSW	South Walton & Ambleside	surrey
+ELWC	Walton Centre	surrey
+ELWE	Weybridge	surrey
+ELWM	West Molesey	surrey
+EPCE	Epsom & Ewell Central	surrey
+EPEA	Epsom & Ewell East	surrey
+EPNO	Epsom & Ewell North	surrey
+EPNW	Epsom & Ewell North West	surrey
+EPSO	Epsom & Ewell South	surrey
+EPWE	Epsom & Ewell West	surrey
+GDAA	Ash Vale and Ash Wharf	surrey
+GDAS	Albury, Shalford, Compton, Holy Trinity, Shere, Gomshall, Peaslake & Farley Green	surrey
+GDEH	Eashing, Hurtmore, Shackleford, Puttenham, Seale & Sands, Ash South & Tongham	surrey
+GDGT	Guildford Town	surrey
+GDMB	Merrow & Burpham	surrey
+GDOU	Onslow & University	surrey
+GDPB	Park Barn & Westborough	surrey
+GDPW	Pirbright, Worplesdon, Jacobs Well & Normandy	surrey
+GDSB	Slyfield & Bellfields	surrey
+GDSR	Send, Ripley, Wisley, Ockham, The Horsleys, The Clandons & Effingham	surrey
+GDST	Stoughton	surrey
+MVAS	Ashtead	surrey
+MVBF	Bookham & Fetcham	surrey
+MVDT	Dorking Town	surrey
+MVGC	Goodwyns, Chart Downs & North Holmwood	surrey
+MVNL	North Leatherhead	surrey
+MVRE	Dorking Rural East	surrey
+MVRW	Dorking Rural West	surrey
+MVSL	South Leatherhead	surrey
+RBCH	Chipstead, Lower Kingswood, Hooley & Netherne	surrey
+RBHO	Horley	surrey
+RBHW	Horley West	surrey
+RBME	Merstham	surrey
+RBNO	Banstead, Nork & Woodmansterne	surrey
+RBRE	Reigate	surrey
+RBRN	Redhill North	surrey
+RBRT	Redhill Town	surrey
+RBSE	Salfords, Earlswood & Whitebushes	surrey
+RBTB	Tattenhams, Burgh Heath & Preston Estate	surrey
+RBTW	Tadworth, Walton & Kingswood	surrey
+RBWO	Woodhatch	surrey
+RUAN	Addlestone North & Bourneside	surrey
+RUAT	Addlestone Town	surrey
+RUCM	Chertsey Meads & St Annes	surrey
+RUEG	Englefield Green	surrey
+RUET	Egham Town	surrey
+RUNH	New Haw & Woodham	surrey
+RURT	Row Town, Ottershaw & Foxhills	surrey
+RUTH	Thorpe & Hythe	surrey
+RUVW	Virginia Water	surrey
+SHCS	Camberley Town and St Pauls	surrey
+SHFH	Frimley, Heatherside & Parkside	surrey
+SHMD	Mytchett, Deepcut & Frimley Green	surrey
+SHOS	Old Dean, St Michaels & Watchetts	surrey
+SHSV	The Six Villages	surrey
+SPAF	Ashford	surrey
+SPSB	Sunbury	surrey
+SPSH	Shepperton & Halliford	surrey
+SPSL	Shepperton & Laleham	surrey
+SPST	Staines Town	surrey
+SPSU	Staines Urban	surrey
+SPSW	Stanwell	surrey
+TNBG	Bletchingley, Nutfield & Godstone	surrey
+TNCV	Caterham Valley, Harestone & Valley	surrey
+TNCW	Caterham on the Hill, Chaldon, Whyteleafe & Portley	surrey
+TNLD	Lingfield, Dormansland, Crowhurst, Felbridge & Felcourt	surrey
+TNOL	Oxted, Limpsfield & Hurst Green	surrey
+TNSB	Smallfield, Burstow, Horne and Outwood	surrey
+TNWT	Warlingham, Woldingham, Chelsham, Farleigh & Tatsfield	surrey
+WKBP	Byfleet, West Byfleet & Pyrford	surrey
+WKGH	Goldsworth Park & Horsell	surrey
+WKMA	Maybury	surrey
+WKMH	Mount Hermon, St Johns, Hook Heath, Mayford & Sutton Green	surrey
+WKNB	Knaphill & Brookwood	surrey
+WKOW	Old Woking	surrey
+WKSH	Sheerwater	surrey
+WKWT	Woking Town	surrey
+WVBS	Bramley, Shamley Green, Blackheath, Wonersh, Hascombe & Winterfold	surrey
+WVCE	Cranleigh, Ewhurst & Rowly	surrey
+WVDA	Dunsfold, Alfold & Ellens Green	surrey
+WVDR	Ockford Ridge, Aarons Hill, Busbridge & Godalming Town Centre	surrey
+WVFB	Farncombe, Binscombe & Charterhouse	surrey
+WVFT	Farnham Town Centre	surrey
+WVHG	Haslemere, Grayswood & Chiddingfold	surrey
+WVMW	Milford, Witley, Hambledon & Brook	surrey
+WVSC	Shottermill, Critchmere, Hindhead, Beacon Hill, Churt & Weyhill	surrey
+WVSU	Sandy Hill, Upper Hale, Dippenhall & Folly Hill	surrey
+WVTE	Tilford, Elstead, Thursley, Frensham, Peper Harow & Dockenfield	surrey
+WVWB	Weybourne, Badshot Lea & Moor Park	surrey
+WVWT	Wrecclesham, Rowledge & The Bourne	surrey
+CC1NH1	Regency Business	sussex
+CC1NH2	North Laine	sussex
+CC1NH3	Regency Seafront	sussex
+CC1NH4	Seven Dials	sussex
+CC1NH5	Clifton, Montpelier, Powis	sussex
+CC1NH6	Triangle	sussex
+CC1NH7	London Road	sussex
+CC1NH8	Pankhurst	sussex
+CC2NH2	Viaduct	sussex
+CC2NH22	Craven Vale and Queensway	sussex
+CC2NH23	Bristol Estate	sussex
+CC2NH3	Tarner	sussex
+CC2NH4	Hanover	sussex
+CC2NH5	Queens Park	sussex
+CC2NH6	Elm Grove	sussex
+CC2NH7	Kemp Town - The Village	sussex
+CC2NH8	Kemp Town	sussex
+CE1NH8	Rottingdean and Coastal	sussex
+CE1NH9	Woodingdean	sussex
+CE2NH1	East Brighton	sussex
+CE2NH10	Hollingdean	sussex
+CE2NH11	Stanmer	sussex
+CE2NH2	Coldean	sussex
+CE2NH3	Tenantry	sussex
+CE2NH4	Meadowview	sussex
+CE2NH5	Moulsecoomb	sussex
+CE2NH6	Bevendean	sussex
+CE3NH12	Patcham	sussex
+CE3NH13	Withdean	sussex
+CE3NH21	Preston Park	sussex
+CW1NH1	Hangleton and Knoll	sussex
+CW1NH2	North Portslade	sussex
+CW1NH3	South Portslade	sussex
+CW2NH1	Central Hove	sussex
+CW2NH14	Stanford	sussex
+CW2NH18	Wish	sussex
+CW2NH19	Westbourne	sussex
+CW2NH2	Adelaide	sussex
+CW2NH20	Goldsmid	sussex
+EE1NH11	Lower Meads	sussex
+EE1NH12	Town Centre (Eastbourne)	sussex
+EE1NH13	Seaside	sussex
+EE1NH20	Meads	sussex
+EE1NH9	Upperton	sussex
+EE2NH1	Ratton	sussex
+EE2NH16	Shinewater	sussex
+EE2NH2	Willingdon Trees	sussex
+EE2NH3	Hampden Park	sussex
+EE2NH4	Old Town	sussex
+EE2NH5	Rodmill	sussex
+EE2NH6	The Hydneye	sussex
+EE2NH7	Motcombe	sussex
+EE2NH8	Summerdown and Saffrons	sussex
+EE3NH14	Roselands and Bridgemere	sussex
+EE3NH15	St Anthonys and Langney Point	sussex
+EE3NH18	West Langney	sussex
+EE3NH19	Langney Village	sussex
+EE3NH20	Kings Park and Kingsmere	sussex
+EE3NH21	Sovereign Harbour	sussex
+EE3NH22	North Langney	sussex
+EH1NH14	St Helens	sussex
+EH1NH2	Castle (Hastings)	sussex
+EH1NH3	Braybrooke	sussex
+EH1NH6	Silverhill	sussex
+EH2NH1	Old Hastings	sussex
+EH2NH10	Baird	sussex
+EH2NH11	Tressell	sussex
+EH2NH12	Ore	sussex
+EH3NH13	Conquest	sussex
+EH3NH15	Wishing Tree	sussex
+EH3NH8	Hollington	sussex
+EH3NH9	Ashdown	sussex
+EH4NH16	Maze Hill	sussex
+EH4NH4	Central St Leonards	sussex
+EH4NH5	Gensing	sussex
+EH4NH7	West St Leonards	sussex
+ER1NH1	Central Bexhill	sussex
+ER1NH2	Kewhurst	sussex
+ER1NH3	St Marks	sussex
+ER1NH4	Collington	sussex
+ER1NH5	St Michaels	sussex
+ER1NH6	Old Town - Bexhill	sussex
+ER1NH7	St Stephens	sussex
+ER1NH8	Sackville	sussex
+ER1NH9	Sidley	sussex
+ER2NH1	Robertsbridge and Salehurst	sussex
+ER2NH11	Ninfield, Ashburnham and Penhurst	sussex
+ER2NH14	Crowhurst, Catsfield and Hooe	sussex
+ER2NH17	Battle Town and Netherfield	sussex
+ER2NH2	Sedlescombe, Ewhurst, Staplecross, Cripps Corner and Bodiam	sussex
+ER2NH3	Ticehurst, Etchingham, Flimwell, Stonegate and Hurst Green	sussex
+ER2NH4	Darwell, Burwash, Brightling, Mountfield, Dallington and Whatlington	sussex
+ER3NH31	Rother Levels	sussex
+ER3NH38	Brede Valley	sussex
+ER3NH39	Rye	sussex
+ER3NH42	Marsham	sussex
+ER3NH46	Eastern Rother	sussex
+ES1NH1	Malling Estate	sussex
+ES1NH10	Wallands Park	sussex
+ES1NH2	Landport Estate and Pells	sussex
+ES1NH22	Hamsey, Barcombe and Newick	sussex
+ES1NH3	Chailey, East Chiltington, Plumpton and St John	sussex
+ES1NH4	Ditchling, Wivelsfield, Westmeston and Streat	sussex
+ES1NH5	Glynde, Firle, Beddingham and Southease	sussex
+ES1NH6	Nevill and Winterbourne	sussex
+ES1NH7	Town Centre (Lewes)	sussex
+ES1NH8	Lewes Bridge	sussex
+ES1NH9	Ringmer	sussex
+ES2NH1	Denton	sussex
+ES2NH2	Newhaven Meeching	sussex
+ES2NH27	Seaford Central	sussex
+ES2NH28	Seaford North	sussex
+ES2NH29	Seaford East	sussex
+ES2NH3	Newhaven Valley	sussex
+ES2NH30	Seaford West	sussex
+ES2NH4	Telscombe Cliffs and East Saltdean	sussex
+ES2NH40	Seaford South	sussex
+ES2NH5	Peacehaven East	sussex
+ES2NH6	Piddinghoe	sussex
+ES2NH7	Peacehaven West and North	sussex
+EW1NH1	Crowborough West	sussex
+EW1NH10	Hartfield	sussex
+EW1NH11	Forest Row	sussex
+EW1NH12	Danehill, Fletching and Nutley	sussex
+EW1NH17	Chiddingly and East Hoathly	sussex
+EW1NH18	Framfield	sussex
+EW1NH19	Uckfield Central	sussex
+EW1NH2	Crowborough (St John)	sussex
+EW1NH20	Buxted and Maresfield	sussex
+EW1NH3	Crowborough North	sussex
+EW1NH4	Crowborough East	sussex
+EW1NH47	Crowborough Jarvis Brook	sussex
+EW1NH5	Rotherfield	sussex
+EW1NH53	Uckfield Ridgewood	sussex
+EW1NH54	Uckfield New Town	sussex
+EW1NH55	Uckfield North	sussex
+EW1NH6	Mayfield	sussex
+EW1NH7	Wadhurst	sussex
+EW1NH8	Frant and Withyham	sussex
+EW2NH22	Heathfield North and Central	sussex
+EW2NH24	Horam	sussex
+EW2NH30	Hellingly	sussex
+EW2NH31	Herstmonceux	sussex
+EW2NH33	Pevensey and Westham	sussex
+EW2NH35	Polegate	sussex
+EW2NH36	Willingdon and Jevington Ward	sussex
+EW2NH37	East Dean	sussex
+EW2NH39	Alfriston, Alciston, Berwick, Ripe and Chalvington	sussex
+EW2NH43	Hailsham South and West	sussex
+EW2NH44	Hailsham East	sussex
+EW2NH45	Hailsham Central and North	sussex
+EW2NH56	Cross-In-Hand, Waldron and Five Ashes	sussex
+EW2NH59	Heathfield East	sussex
+EW2NH61	Polegate South	sussex
+GA1NH1	Gatwick	sussex
+WA1NH1	Pagham and Rose Green	sussex
+WA1NH11	Middleton on Sea	sussex
+WA1NH2	Aldwick East	sussex
+WA1NH3	Aldwick West	sussex
+WA1NH4	Pevensey	sussex
+WA1NH5	Marine - Bognor Regis	sussex
+WA1NH6	Orchard	sussex
+WA1NH7	Hotham	sussex
+WA1NH8	Bersted	sussex
+WA1NH9	Felpham	sussex
+WA2NH12	River	sussex
+WA2NH13	Beach (Littlehampton)	sussex
+WA2NH14	Ham	sussex
+WA2NH15	Wick with Toddington	sussex
+WA2NH16	Brookfield	sussex
+WA2NH17	Rustington	sussex
+WA2NH19	Angmering	sussex
+WA2NH20	East Preston and Kingston	sussex
+WA2NH22	Ferring	sussex
+WA3NH23	Arundel	sussex
+WA3NH31	Barnham	sussex
+WA3NH32	Yapton	sussex
+WA3NH36	Walberton	sussex
+WA3NH40	Clapham and Findon	sussex
+WC1NH1	Chichester City	sussex
+WC1NH10	Fishbourne	sussex
+WC1NH11	Southbourne	sussex
+WC1NH12	Westbourne	sussex
+WC1NH13	Funtington	sussex
+WC1NH2	Chichester North	sussex
+WC1NH3	Chichester East	sussex
+WC1NH4	Chichester West	sussex
+WC1NH5	Chichester South	sussex
+WC1NH6	Lavant	sussex
+WC1NH7	Boxgrove	sussex
+WC1NH8	Tangmere	sussex
+WC1NH9	Bosham	sussex
+WC2NH14	Selsey North and South	sussex
+WC2NH15	Sidlesham	sussex
+WC2NH16	North Mundham	sussex
+WC2NH17	East Wittering	sussex
+WC2NH18	West Wittering	sussex
+WC2NH19	Donnington	sussex
+WC3NH20	Midhurst and Easebourne	sussex
+WC3NH21	Fernhurst	sussex
+WC3NH22	Rogate, Stedham and Harting	sussex
+WC3NH23	Petworth and Bury Ward	sussex
+WC3NH24	Plaistow and Wisborough Green	sussex
+WH1NH1	Holbrook East and West	sussex
+WH1NH2	Roffey North and South	sussex
+WH1NH3	Denne and Forest	sussex
+WH1NH4	Horsham Park and Trafalgar	sussex
+WH1NH5	Broadbridge Heath and Southwater	sussex
+WH1NH6	Rusper, Colgate, Lower Beeding and Nuthurst	sussex
+WH1NH7	Rudgwick, Itchingfield and Slinfold	sussex
+WH2NH10	Cowfold, Shermanbury, West Grinstead and Henfield	sussex
+WH2NH11	Steyning, Bramber, Upper Beeding, Ashington and Woodmancote	sussex
+WH2NH8	Billingshurst, Shipley, Pulborough and Coldwaltham	sussex
+WH2NH9	Chantry and Thakeham	sussex
+WM1NH1	Ashenground and Heath	sussex
+WM1NH2	Bentswood	sussex
+WM1NH3	Franklands	sussex
+WM1NH4	Lucastes and Bolnore Village	sussex
+WM1NH5	Balcombe, Handcross, Pease Pottage, Ansty, Staplefield and Cuckfield	sussex
+WM1NH6	Lindfield, Ardingly and High Weald	sussex
+WM2NH1	Meeds and Franklands	sussex
+WM2NH2	St Andrews and Leylands	sussex
+WM2NH3	Dunstall and Victoria	sussex
+WM2NH4	Bolney, Albourne, Warninglid, Pyecombe and Poynings	sussex
+WM2NH5	Hurstpierpoint and Sayers Common	sussex
+WM2NH6	Hassocks	sussex
+WM3NH1	Herontye and Ashurst Wood	sussex
+WM3NH2	Imberhorne and Baldwins	sussex
+WM3NH3	Ashplats	sussex
+WM3NH4	Copthorne, Worth, Crawley Down and Turners Hill	sussex
+WM3NH5	East Grinstead Town	sussex
+WR1NH1	Northgate	sussex
+WR1NH2	Three Bridges	sussex
+WR2NH4	Pound Hill	sussex
+WR2NH5	Maidenbower and Worth	sussex
+WR2NH6	Furnace Green	sussex
+WR3NH7	Tilgate	sussex
+WR3NH8	Broadfield	sussex
+WR4NH10	Southgate	sussex
+WR4NH11	Gossops Green	sussex
+WR4NH12	Bewbush	sussex
+WR5NH13	Ifield	sussex
+WR5NH14	West Green	sussex
+WR5NH15	Langley Green	sussex
+WR5NH3	Crawley Town Centre	sussex
+WW1NH1	Worthing Central	sussex
+WW1NH2	Heene	sussex
+WW1NH3	Marine - Worthing	sussex
+WW1NH4	Goring	sussex
+WW1NH5	Selden	sussex
+WW2NH10	Northbrook	sussex
+WW2NH11	Durrington	sussex
+WW2NH12	Salvington	sussex
+WW2NH13	Offington	sussex
+WW2NH6	Castle	sussex
+WW2NH7	Tarring	sussex
+WW2NH8	Gaisford	sussex
+WW2NH9	Broadwater	sussex
+WW3NH1	Peverel	sussex
+WW3NH10	St Marys South (Shoreham Town Centre)	sussex
+WW3NH11	Southlands	sussex
+WW3NH12	Marine - Shoreham Beach	sussex
+WW3NH13	Southwick Green	sussex
+WW3NH14	Eastbrook	sussex
+WW3NH15	St Marys North	sussex
+WW3NH2	Cokeham	sussex
+WW3NH3	Manor	sussex
+WW3NH4	Churchill	sussex
+WW3NH5	Mash Barn	sussex
+WW3NH6	Widewater	sussex
+WW3NH7	Buckingham	sussex
+WW3NH8	Hillside	sussex
+WW3NH9	St Nicholas	sussex
+N106	Aylesbury Town Centre	thames-valley
+N200	Newbury Town Centre	thames-valley
+N289	Bracknell Town Centre	thames-valley
+N305	Crowthorne	thames-valley
+N337	Mk City Centre / Campbell Park	thames-valley
+N348	Ruscote / Neithrop / Hardwick	thames-valley
+N375	Abingdon Outer	thames-valley
+N376	Abingdon Town	thames-valley
+N377	Didcot	thames-valley
+N378	Faringdon	thames-valley
+N379	Henley	thames-valley
+N380	Thame / Watlington / Chinnor	thames-valley
+N381	Wallingford / Berinsfield / Cholsey	thames-valley
+N382	Wantage / Grove	thames-valley
+N383	Wheatley / Chalgrove	thames-valley
+N385	Carterton / Bampton / Burford	thames-valley
+N386	Chipping Norton	thames-valley
+N387	Eynsham	thames-valley
+N388	Witney	thames-valley
+N389	Woodstock	thames-valley
+N390	Ascot	thames-valley
+N391	Maidenhead Central	thames-valley
+N392	Maidenhead South	thames-valley
+N393	Maidenhead West	thames-valley
+N394	Windsor Central	thames-valley
+N395	Windsor East	thames-valley
+N396	Windsor West	thames-valley
+N397	Earley	thames-valley
+N398	Fields	thames-valley
+N399	Finchampstead	thames-valley
+N400	Twyford	thames-valley
+N401	Winnersh	thames-valley
+N402	Wokingham Town	thames-valley
+N403	Woodley	thames-valley
+N404	Chepping Wye Valley	thames-valley
+N405	Marlow	thames-valley
+N406	Marlow South West Rural	thames-valley
+N407	Princes Risborough	thames-valley
+N408	Wycombe East	thames-valley
+N409	Wycombe South	thames-valley
+N410	Wycombe West	thames-valley
+N411	Aylesbury East	thames-valley
+N412	Aylesbury North	thames-valley
+N413	Aylesbury South	thames-valley
+N414	Aylesbury West	thames-valley
+N415	Buckingham and District	thames-valley
+N416	Great Brickhill / Wing / Ivinghoe	thames-valley
+N417	Haddenham / Long Crendon	thames-valley
+N418	Waddesdon	thames-valley
+N419	Wendover	thames-valley
+N420	Winslow and District	thames-valley
+N421	Bracknell Central North	thames-valley
+N422	Bracknell Central South	thames-valley
+N423	Bracknell Northern Parishes	thames-valley
+N424	Sandhurst	thames-valley
+N425	Banbury Rural	thames-valley
+N426	Banbury Town	thames-valley
+N427	Bicester Rural	thames-valley
+N428	Bicester Town	thames-valley
+N429	Kidlington	thames-valley
+N430	Amersham	thames-valley
+N431	Chalfonts	thames-valley
+N432	Chesham	thames-valley
+N433	Missendens	thames-valley
+N434	Bradwell / Stantonbury	thames-valley
+N435	Campbell Park South / Woughton	thames-valley
+N436	Central Bletchley / Fenny Stratford	thames-valley
+N438	Danesborough / Walton	thames-valley
+N439	Great Linford	thames-valley
+N440	Loughton Park	thames-valley
+N441	Middleton District	thames-valley
+N442	Newport Pagnell	thames-valley
+N443	Rural Milton Keynes	thames-valley
+N444	Shenley Brook End / Tattenhoe	thames-valley
+N445	Stony Stratford / Wolverton	thames-valley
+N446	West Bletchley	thames-valley
+N447	Oxford Barton / Risinghurst	thames-valley
+N448	Oxford Central	thames-valley
+N449	Oxford Cowley	thames-valley
+N450	Oxford East	thames-valley
+N451	Oxford North	thames-valley
+N452	Oxford North East	thames-valley
+N453	Oxford South East	thames-valley
+N454	Kentwood / Tilehurst	thames-valley
+N455	Minster / Katesgrove	thames-valley
+N456	Southcote / Norcot	thames-valley
+N457	Britwell / Haymill	thames-valley
+N458	Chalvey / Upton / Town	thames-valley
+N459	Cippenham	thames-valley
+N460	Colnbrook / Poyle / Foxborough	thames-valley
+N461	Farnham / Baylis / Stoke	thames-valley
+N462	Langley / Kedermister	thames-valley
+N463	Wexham Lea / Central	thames-valley
+N464	Abbey / Battle	thames-valley
+N465	Mapledurham / Thames	thames-valley
+N466	Peppard / Caversham	thames-valley
+N467	Whitley / Church	thames-valley
+N468	Redlands / Park	thames-valley
+N469	Bucklebury / Downlands	thames-valley
+N470	Calcot / Tilehurst	thames-valley
+N471	Hungerford / Lambourn District	thames-valley
+N472	Newbury Outer	thames-valley
+N473	Pangbourne / Burghfield	thames-valley
+N474	Thatcham, Aldermaston and Brimpton	thames-valley
+N475	Burnham / Farnhams / Taplow	thames-valley
+N476	Denham / Gerrards Cross	thames-valley
+N477	Iver / Stoke Poges / Wexham	thames-valley
+N478	Beaconsfield	thames-valley
+an	Alcester North	warwickshire
+as	Alcester South	warwickshire
+be	Bedworth East	warwickshire
+bw	Bedworth West	warwickshire
+KEN	Kenilworth	warwickshire
+lsn	Leamington North	warwickshire
+lss	Leamington South	warwickshire
+lstc	Leamington Town Centre	warwickshire
+nc	Nuneaton Central	warwickshire
+ne	Nuneaton East	warwickshire
+nn	Nuneaton North	warwickshire
+ns	Nuneaton East	warwickshire
+ntc	Nuneaton Town Centre	warwickshire
+nw	Nuneaton West	warwickshire
+nwe	North Warwickshire East	warwickshire
+nwn	North Warwickshire North	warwickshire
+nws	North Warwickshire South	warwickshire
+nww	North Warwickshire West	warwickshire
+rrc	Rugby Rural Central	warwickshire
+rrn	Rugby Rural North	warwickshire
+rrs	Rugby Rural South	warwickshire
+rtc	Rugby Town Centre	warwickshire
+rte	Rugby Town East	warwickshire
+rtn	Rugby Town North	warwickshire
+rtw	Rugby Town West	warwickshire
+ship	Shipston	warwickshire
+sou	Southam	warwickshire
+st	Stratford Town	warwickshire
+well	Wellesbourne	warwickshire
+whit	Whitnash	warwickshire
+wrc	Warwick Central	warwickshire
+wre	Warwick Rural East Safer Neighbourhood Team	warwickshire
+wrw	Warwick Rural West	warwickshire
+PAC01	Warndon	west-mercia
+PAC02	Gorse Hill and Rainbow Hill	west-mercia
+PAC03	Battenhall and Nunnery	west-mercia
+PAC04	Cathedral	west-mercia
+PAC05	St Johns and Bedwardine	west-mercia
+PAC06	Arboretum and Claines	west-mercia
+PAC07	Evesham Rural North	west-mercia
+PAC08	Evesham Town South and Rural West	west-mercia
+PAC09	Evesham Town North and Rural South	west-mercia
+PAC10	Pershore Town	west-mercia
+PAC11	Pershore Rural South and Rural North	west-mercia
+PAC12	Chase and Priory	west-mercia
+PAC13	Droitwich Town West and Rural West	west-mercia
+PAC14	Pickersleigh and Chase	west-mercia
+PAC15	Link and Dyson	west-mercia
+PAC16	Martley and Tenbury	west-mercia
+PAC17	Priory and Malvern Wells	west-mercia
+PAC18	Kempsey and Alfrick	west-mercia
+PAC19	Upton	west-mercia
+PAD01	Winyates and Matchborough	west-mercia
+PAD02	Greenlands and Lodge Park	west-mercia
+PAD03	Church Hill	west-mercia
+PAD04	Batchley and Central	west-mercia
+PAD05	Abbey	west-mercia
+PAD06	Headless Cross and Oakenshaw	west-mercia
+PAD07	Redditch South West and Rural	west-mercia
+PAD08	Bromsgrove South and Rural	west-mercia
+PAD09	Bromsgrove St Johns	west-mercia
+PAD10	Bromsgrove North and Rural	west-mercia
+PAD11	Hagley and Rubery	west-mercia
+PAD12	Alvechurch and Wythall	west-mercia
+PAD13	Broadwaters	west-mercia
+PAD14	Greenhill	west-mercia
+PAD15	Kidderminster East	west-mercia
+PAD16	Kidderminster North	west-mercia
+PAD17	Oldington, Foley and Sutton Park	west-mercia
+PAD18	Stourport SNT	west-mercia
+PAD19	Bewdley and Rural	west-mercia
+PAE01	Belmont Southside	west-mercia
+PAE02	Hereford City Southside and Rural Southside	west-mercia
+PAE03	Hereford City Northside	west-mercia
+PAE04	Hereford Rural North Southside	west-mercia
+PAE05	Kington and Weobley Southside	west-mercia
+PAE06	Leominster Southside	west-mercia
+PAE07	Bromyard	west-mercia
+PAE08	Ledbury Southside	west-mercia
+PAE09	Golden Valley	west-mercia
+PAE10	Ross on Wye	west-mercia
+PAF01	Shrewsbury Central	west-mercia
+PAF02	Harlescott and Sundorne	west-mercia
+PAF03	Castlefields and Bagley	west-mercia
+PAF04	Shrewsbury Rural South and West	west-mercia
+PAF05	Shrewsbury Rural North and District	west-mercia
+PAF06	Meole Copthorne and Sutton	west-mercia
+PAF07	Ludlow	west-mercia
+PAF08	Cleobury and Highley	west-mercia
+PAF09	Church Stretton and Craven Arms	west-mercia
+PAF10	Bishops Castle and Rural	west-mercia
+PAF11	Bridgnorth	west-mercia
+PAF12	Shifnal and Albrighton	west-mercia
+PAF13	Broseley and Much Wenlock	west-mercia
+PAF14	Wem	west-mercia
+PAF15	Market Drayton	west-mercia
+PAF16	Whitchurch	west-mercia
+PAF17	Oswestry Rural North	west-mercia
+PAF18	Oswestry Central	west-mercia
+PAF19	Oswestry Rural South	west-mercia
+PAF20	Ellesmere Town and Rural	west-mercia
+PAG01	Arleston and College	west-mercia
+PAG02	Hadley and Leegomery	west-mercia
+PAG03	Wellington West and Rural	west-mercia
+PAG04	Wellington North	west-mercia
+PAG05	Newport	west-mercia
+PAG06	St Georges and Priorslee	west-mercia
+PAG07	Donnington and Trench	west-mercia
+PAG08	Ketley and Oakengates	west-mercia
+PAG09	Lawley and Overdale	west-mercia
+PAG10	The Nedge	west-mercia
+PAG11	Dawley and Malinslee	west-mercia
+PAG12	Brookside	west-mercia
+PAG13	Cuckoo Oak and Ironbridge	west-mercia
+PAG14	Woodside and Madeley	west-mercia
+BE01	Erdington	west-midlands
+BE02	Kingstanding	west-midlands
+BE03	Stockland Green	west-midlands
+BE04	Tyburn	west-midlands
+BE05	Hall Green	west-midlands
+BE06	Moseley and Kings Heath	west-midlands
+BE07	Sparkbrook	west-midlands
+BE08	Springfield	west-midlands
+BE09	Bordesley Green	west-midlands
+BE10	Hodge Hill	west-midlands
+BE11	Shard End	west-midlands
+BE12	Washwood Heath	west-midlands
+BE13	Sutton Four Oaks	west-midlands
+BE14	Sutton New Hall	west-midlands
+BE15	Sutton Trinity	west-midlands
+BE16	Sutton Vesey	west-midlands
+BE17	Acocks Green	west-midlands
+BE18	Sheldon	west-midlands
+BE19	South Yardley	west-midlands
+BE20	Stechford and Yardley North	west-midlands
+BW01	City Centre	west-midlands
+BW02	Bartley Green	west-midlands
+BW03	Edgbaston	west-midlands
+BW04	Harborne	west-midlands
+BW05	Quinton	west-midlands
+BW06	Aston	west-midlands
+BW07	Nechells	west-midlands
+BW08	Small Heath and Highgate	west-midlands
+BW10	Kings Norton	west-midlands
+BW11	Longbridge	west-midlands
+BW12	Northfield	west-midlands
+BW13	Weoley	west-midlands
+BW14	Handsworth Wood	west-midlands
+BW15	Lozells and East Handsworth	west-midlands
+BW16	Oscott	west-midlands
+BW17	Perry Barr	west-midlands
+BW18	Billesley	west-midlands
+BW19	Bournville	west-midlands
+BW20	Brandwood	west-midlands
+BW21	Selly Oak	west-midlands
+BW22	Jewellery Quarter	west-midlands
+BW23	Ladywood	west-midlands
+BW24	Soho Road	west-midlands
+BW25	Winson Green	west-midlands
+CV01	St Michael's	west-midlands
+CV02	Foleshill	west-midlands
+CV03	Henley	west-midlands
+CV04	Longford	west-midlands
+CV05	Stoke and Wyken	west-midlands
+CV06	Binley, Willenhall and Cheylesmore	west-midlands
+CV07	Holbrook and Radford	west-midlands
+CV08	Sherbourne, Bablake, Whoberley and Earlsdon	west-midlands
+CV09	Woodlands, Wainbody and Westwood	west-midlands
+DY01	Dudley Central	west-midlands
+DY02	Dudley North	west-midlands
+DY03	Halesowen	west-midlands
+DY04	Brierley Hill	west-midlands
+DY05	Stourbridge	west-midlands
+SH01	Chelmsley Wood	west-midlands
+SH02	Rural	west-midlands
+SH03	Smith's Wood	west-midlands
+SH04	LEOS	west-midlands
+SH05	Shirley	west-midlands
+SH06	St Alphege	west-midlands
+SH98	Birmingham Airport	west-midlands
+SH99	NEC	west-midlands
+SW01	Tipton Town	west-midlands
+SW02	Wednesbury Town	west-midlands
+SW03	West Bromwich Town	west-midlands
+SW04	Oldbury Town	west-midlands
+SW05	Rowley Town	west-midlands
+SW06	Smethwick Town	west-midlands
+WS01	Blakenall	west-midlands
+WS02	Bloxwich	west-midlands
+WS03	Delves	west-midlands
+WS04	Pleck	west-midlands
+WS05	Aldridge	west-midlands
+WS06	Brownhills	west-midlands
+WS07	Darlaston	west-midlands
+WS08	Willenhall	west-midlands
+WS09	St Matthew's	west-midlands
+WV01	Town Centre	west-midlands
+WV02	Bilston	west-midlands
+WV03	Ettingshall, Blakenhall and Spring Vale	west-midlands
+WV04	Fallings Park, Bushbury, Low Hill and Oxley	west-midlands
+WV05	Heath Town and East Park	west-midlands
+WV06	St Peter's, Park and Graiseley	west-midlands
+WV07	Tettenhall, Penn and Merry Hill	west-midlands
+WV08	Wednesfield North and South	west-midlands
+BDT_BE	Bradford East	west-yorkshire
+BDT_BS	Bradford South	west-yorkshire
+BDT_BW	Bradford West	west-yorkshire
+BDT_CI	Bradford City	west-yorkshire
+BDT_KE	Keighley	west-yorkshire
+BDT_SH	Shipley	west-yorkshire
+CDT_HC	Halifax Centre	west-yorkshire
+CDT_HN	Halifax North	west-yorkshire
+CDT_HW	Halifax West	west-yorkshire
+CDT_VN	Valley North	west-yorkshire
+CDT_VNE	Valley North East	west-yorkshire
+CDT_VS	Valley South	west-yorkshire
+CDT_VSE	Valley South East	west-yorkshire
+CDT_VW	Valley West	west-yorkshire
+KDT_BS	Batley and Spen	west-yorkshire
+KDT_DEW	Dewsbury and Mirfield	west-yorkshire
+KDT_HUD	Huddersfield	west-yorkshire
+KDT_RUR	Rural	west-yorkshire
+LDT_CI	City	west-yorkshire
+LDT_IE	Inner East	west-yorkshire
+LDT_INE	Inner North East	west-yorkshire
+LDT_INW	Inner North West	west-yorkshire
+LDT_IS	Inner South	west-yorkshire
+LDT_IW	Inner West	west-yorkshire
+LDT_OE	Outer East	west-yorkshire
+LDT_ONE	Outer North East	west-yorkshire
+LDT_ONW	Outer North West	west-yorkshire
+LDT_OS	Outer South	west-yorkshire
+LDT_OW	Outer West	west-yorkshire
+WDT_CAS	Castleford	west-yorkshire
+WDT_CEN	Wakefield Central	west-yorkshire
+WDT_NF	Normanton and Featherstone	west-yorkshire
+WDT_PK	Pontefract and Knottingley	west-yorkshire
+WDT_RUR	Wakefield Rural	west-yorkshire
+WDT_SE	South East	west-yorkshire
+WDT_WNW	Wakefield North West	west-yorkshire
+Swindon North	Swindon North	wiltshire
+Swindon South	Swindon South	wiltshire
+Wiltshire East	Wiltshire East	wiltshire
+Wiltshire North	Wiltshire North	wiltshire
+Wiltshire South	Wiltshire South	wiltshire
+Wiltshire West	Wiltshire West	wiltshire
