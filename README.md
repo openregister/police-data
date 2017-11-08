@@ -3,16 +3,9 @@
 The data for the [police-force register](http://police-force.openregister.org), created from 
 [data.police.uk](https://data.police.uk/about/) open data maintained by the [Home Office](https://www.gov.uk/government/organisations/home-office).
 
+
 # Building
-
-Use make to build register shaped data
-— we recommend using a [Python virtual environment](http://virtualenvwrapper.readthedocs.org/en/latest/):
-
-    $ mkvirtualenv -p python3 police-data
-    $ workon police-data
-    $ make init
-
-    $ make
+to build the register please use police.R
 
 # Licence
 
