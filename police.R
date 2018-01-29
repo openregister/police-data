@@ -39,6 +39,11 @@ locations <-
   select(force_id, neighbourhood_id, neighbourhood_name, locations) %>%
   unnest(locations)
 
+  neighbourhoods %>%
+  mutate(locations = map(neighbourhood, ~ .x$locations),
+         length = map_int(locations, length)) %>%
+  count(length)
+
 # Most locations are stations, hundreds are undefined, a handful are other types
 locations %>%
   count(type)
@@ -54,6 +59,7 @@ locations %>%
 
 # Many locations each serve several neighbourhoods
 locations %>%
+  filter(str_detect(type, "station")) %>%
   distinct(neighbourhood_id, name) %>%
   count(name, sort = TRUE) %>%
   filter(!is.na(name)) %>%
@@ -63,16 +69,17 @@ locations %>%
 # Most stations have coordinates and postcodes
 locations %>%
   filter(str_detect(type, "station")) %>%
+  distinct(name, longitude, latitude, postcode) %>%
   mutate(has_lat_lon = !is.na(longitude) & !is.na(latitude),
          has_postcode = !is.na(postcode)) %>%
   count(has_lat_lon, has_postcode)
 # # A tibble: 4 x 3
 #   has_lat_lon has_postcode     n
 #   <lgl>       <lgl>        <int>
-# 1 F           F              306
-# 2 F           T              658
-# 3 T           F               23
-# 4 T           T             1261
+# 1 F           F               61
+# 2 F           T              203
+# 3 T           F               16
+# 4 T           T              199
 
 # Write forces, neighbourhoods and stations to files
 api %>%
